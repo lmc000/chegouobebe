@@ -1,15 +1,25 @@
 {
-  "experimentalServices": {
-    "frontend": {
-      "root": "frontend",
-      "routePrefix": "/",
-      "framework": "create-react-app"
+  "builds": [
+    {
+      "src": "backend/server.py",
+      "use": "@vercel/python"
     },
-    "backend": {
-      "root": "backend",
-      "routePrefix": "/_/backend",
-      "framework": "fastapi",
-      "entrypoint": "server.py"
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "build"
+      }
     }
-  }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "backend/server.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/frontend/$1"
+    }
+  ]
 }
