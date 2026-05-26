@@ -1,0 +1,170 @@
+{
+  "theme": "light",
+  "archetype": "3 (Pastel & Soft) + 1 (Organic & Earthy)",
+  "brand": {
+    "name": "Coisas para Gatos",
+    "tone": "Friendly, cozy, trustworthy, empathetic (PT-PT)",
+    "vibe": "Warm, cute but reliable pet brand"
+  },
+  "colors": {
+    "primary": "#FF9F87",
+    "primary_hover": "#FF8A6E",
+    "secondary": "#FFE9D6",
+    "background": "#FFFDF9",
+    "surface": "#FFFFFF",
+    "text_primary": "#5C463A",
+    "text_secondary": "#8C776D",
+    "border": "#F2E3D8",
+    "accent": "#FFC4A3",
+    "success": "#85C296",
+    "affiliate_cta": "#F9A826"
+  },
+  "typography": {
+    "font_family": {
+      "headings": "Nunito, sans-serif",
+      "body": "Nunito, sans-serif"
+    },
+    "scale": {
+      "h1": "text-4xl sm:text-5xl lg:text-6xl font-black tracking-tight text-[#5C463A]",
+      "h2": "text-2xl sm:text-3xl lg:text-4xl font-extrabold tracking-tight text-[#5C463A]",
+      "h3": "text-xl sm:text-2xl font-bold text-[#5C463A]",
+      "body": "text-base text-[#8C776D] leading-relaxed",
+      "small": "text-sm text-[#8C776D]",
+      "button": "text-base font-bold tracking-wide"
+    }
+  },
+  "spacing_and_layout": {
+    "container_padding": "px-6 md:px-12 lg:px-24",
+    "section_spacing": "py-20 md:py-32",
+    "card_padding": "p-6 md:p-8",
+    "border_radius": {
+      "small": "rounded-lg",
+      "medium": "rounded-2xl",
+      "large": "rounded-[32px]",
+      "full": "rounded-full"
+    },
+    "shadows": {
+      "card": "shadow-[0_8px_30px_rgb(92,70,58,0.06)]",
+      "card_hover": "shadow-[0_20px_40px_rgb(92,70,58,0.12)] -translate-y-1"
+    }
+  },
+  "components": {
+    "button": {
+      "primary": "bg-[#FF9F87] text-white hover:bg-[#FF8A6E] rounded-full px-8 py-4 transition-all duration-300 shadow-sm font-bold",
+      "affiliate": "bg-[#F9A826] text-white hover:bg-[#F29A15] rounded-full px-8 py-4 transition-all duration-300 shadow-md font-bold flex items-center justify-center gap-2",
+      "secondary": "bg-[#FFE9D6] text-[#5C463A] hover:bg-[#F2DCC9] rounded-full px-8 py-4 transition-all duration-300 font-bold"
+    },
+    "card": {
+      "base": "bg-white rounded-[32px] border border-[#F2E3D8] overflow-hidden transition-all duration-300 hover:shadow-[0_20px_40px_rgb(92,70,58,0.12)] hover:-translate-y-1",
+      "product_card": "bg-white rounded-3xl border border-[#F2E3D8] p-4 flex flex-col gap-4",
+      "article_card": "bg-white rounded-3xl border border-[#F2E3D8] overflow-hidden flex flex-col group"
+    },
+    "input": {
+      "base": "w-full bg-white border-2 border-[#FFE9D6] rounded-full px-6 py-4 text-[#5C463A] placeholder-[#8C776D] focus:outline-none focus:border-[#FF9F87] focus:ring-4 focus:ring-[#FF9F87]/20 transition-all"
+    }
+  },
+  "sections": [
+    {
+      "name": "Header",
+      "layout": "Fixed top, backdrop-blur-xl bg-[#FFFDF9]/80 border-b border-[#F2E3D8] z-50",
+      "elements": [
+        "Logo: Text 'Coisas para Gatos' with a small cat icon (lucide-react: Cat) text-[#5C463A] font-extrabold text-2xl",
+        "Nav Links: Início, Categorias, Top Produtos, Blog",
+        "CTA: 'Ver Ofertas' button with primary styling and data-testid='nav-cta-button'"
+      ]
+    },
+    {
+      "name": "Hero",
+      "layout": "grid grid-cols-1 lg:grid-cols-2 gap-12 items-center min-h-[80vh] pt-32",
+      "elements": [
+        "Left: H1 'O melhor para o seu amigo de quatro patas.', Subtext 'Descubra análises, guias e os produtos mais bem avaliados para gatos em Portugal.', CTA 'Explorar Categorias' (data-testid='hero-cta-button')",
+        "Right: Image of orange cat with organic soft rounded corners (rounded-[40px] or custom blob-like mask), subtle warm drop shadow."
+      ]
+    },
+    {
+      "name": "Categories",
+      "layout": "grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6",
+      "elements": [
+        "6 Cards: Alimentação, Higiene, Conforto, Diversão, Viagens, Saúde",
+        "Style: Square cards (aspect-square) with base card styles, soft pastel background circle for the icon (#FFE9D6), centered Lucide icons (Fish, Droplets, Moon, Gamepad2, Car, HeartPulse), Label text-lg font-bold text-[#5C463A]",
+        "Each card must have data-testid='category-card-xxx'"
+      ]
+    },
+    {
+      "name": "Featured Products",
+      "layout": "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-12",
+      "elements": [
+        "Section Header: H2 'Os Favoritos dos Felinos', left-aligned with 'Ver todos' link",
+        "Cards: product_card style. Image (h-48 w-full object-cover rounded-2xl), Title, Rating (5 stars in #F9A826), Price text, Affiliate Button ('Ver na Amazon' + ExternalLink icon) with data-testid='affiliate-link-produto'"
+      ]
+    },
+    {
+      "name": "Recent Articles",
+      "layout": "grid grid-cols-1 md:grid-cols-3 gap-8 mt-12",
+      "elements": [
+        "Cards: article_card style. Image (h-56 object-cover), Tag bubble (e.g., 'Guias', bg-[#FFE9D6] text-[#5C463A]), Title, excerpt, 'Ler mais' text link with arrow (data-testid='article-read-more')."
+      ]
+    },
+    {
+      "name": "Newsletter",
+      "layout": "bg-[#FF9F87] rounded-[40px] p-8 md:p-16 text-center text-white max-w-5xl mx-auto my-24 relative overflow-hidden",
+      "elements": [
+        "Background elements: Subtle translucent paw prints",
+        "Icon: Mail or Cat centered above text",
+        "H2: 'Junte-se ao nosso Clube Felino'",
+        "Text: 'Receba as melhores dicas e promoções diretamente na sua caixa de entrada.'",
+        "Form: Flex row or column. Input field (placeholder 'O seu melhor email') + Submit Button (bg-white text-[#FF9F87] hover:bg-[#FFE9D6] font-bold px-8 py-4 rounded-full). Form data-testid='newsletter-form'"
+      ]
+    },
+    {
+      "name": "Footer",
+      "layout": "bg-[#5C463A] text-[#FFE9D6] py-16 rounded-t-[40px] mt-24 px-6 md:px-12",
+      "elements": [
+        "Top: Brand Name + Mission statement ('Ajudamos donos de gatos em Portugal a encontrar o melhor...')",
+        "Links: Sobre nós, Contactos, Política de Privacidade",
+        "Affiliate Disclaimer (Small text): 'A Coisas para Gatos participa no Programa de Afiliados da Amazon EU, um programa de publicidade de afiliados concebido para proporcionar um meio de os sites ganharem comissões de publicidade através da criação de links para a Amazon.es.'",
+        "Bottom: Copyright and social icons."
+      ]
+    }
+  ],
+  "media": {
+    "images": [
+      {
+        "category": "hero",
+        "url": "https://images.pexels.com/photos/30001432/pexels-photo-30001432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Gato laranja fofo deitado no tapete"
+      },
+      {
+        "category": "category_food_article",
+        "url": "https://images.pexels.com/photos/5822458/pexels-photo-5822458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Gato comendo ração em prato rosa"
+      },
+      {
+        "category": "category_play_article",
+        "url": "https://images.unsplash.com/photo-1770751857462-4954bffba866?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODR8MHwxfHNlYXJjaHwxfHxjYXQlMjBwbGF5aW5nJTIwd2l0aCUyMHRveXxlbnwwfHx8fDE3Nzk4MDg1Mjd8MA&ixlib=rb-4.1.0&q=85",
+        "alt": "Gatinho brincando com brinquedo colorido"
+      },
+      {
+        "category": "category_sleep_article",
+        "url": "https://images.pexels.com/photos/32960962/pexels-photo-32960962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "alt": "Gato cinza dormindo profundamente"
+      }
+    ],
+    "icons": {
+      "library": "lucide-react",
+      "instruction": "Use lucide-react. Standardize stroke width to 2 or 2.5 for a bolder, cuter look."
+    }
+  },
+  "instructions_to_main_agent": [
+    "Build a static landing page using React, TailwindCSS, and Lucide React icons (.js format, not .tsx).",
+    "Install Google Fonts 'Nunito' via standard import or link in index.css.",
+    "Follow the warm, cozy color palette strictly. Do not use pure black; use the provided #5C463A for text.",
+    "Ensure all structural containers use generous padding and border-radiuses as specified (rounded-[32px] etc).",
+    "Ensure the hero image uses the provided Pexels URL and has soft, rounded corners.",
+    "All interactive elements (buttons, links, form inputs) MUST have robust data-testid attributes (e.g., data-testid='cta-hero-button').",
+    "Ensure 'Ver na Amazon' buttons use the affiliate_cta color (#F9A826) to stand out and encourage clicks.",
+    "The 6 categories are: Alimentação, Higiene, Conforto, Diversão, Viagens, Saúde.",
+    "Ensure content is fully in PT-PT (Portuguese from Portugal).",
+    "For mobile view, ensure category grids scroll horizontally or wrap neatly, and the layout is fully responsive."
+  ]
+}
