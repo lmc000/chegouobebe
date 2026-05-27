@@ -14,7 +14,7 @@ const PRODUCTS = [
         image: "https://images.pexels.com/photos/5822458/pexels-photo-5822458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         pitch: "Silenciosa, em inox e com sensor automático. A melhor fonte para gatos em Portugal.",
         category: "Alimentação",
-        amazonUrl: "https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=SEU_TAG_AFILIADO",
+        amazonUrl: "https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=coisasparagat-21",
         artigoSlug: "melhor-fonte-agua-gatos",
     },
     {
@@ -29,7 +29,7 @@ const PRODUCTS = [
         image: "https://images.unsplash.com/photo-1770751857462-4954bffba866?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODR8MHwxfHNlYXJjaHwxfHxjYXQlMjBwbGF5aW5nJTIwd2l0aCUyMHRveXxlbnwwfHx8fDE3Nzk4MDg1Mjd8MA&ixlib=rb-4.1.0&q=85",
         pitch: "Aglomerante, sem cheiro e descarga direta na sanita. Ideal para apartamento.",
         category: "Higiene",
-        amazonUrl: "https://www.amazon.es/s?k=pidan+areia+tofu&tag=SEU_TAG_AFILIADO",
+        amazonUrl: "https://www.amazon.es/s?k=pidan+areia+tofu&tag=coisasparagat-21",
         artigoSlug: "melhor-caixa-areia-gatos-apartamento",
     },
     {
@@ -44,7 +44,7 @@ const PRODUCTS = [
         image: "https://images.pexels.com/photos/32960962/pexels-photo-32960962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         pitch: "Sisal robusto, plataformas e brinquedo incluído. Ideal para gatos de interior.",
         category: "Conforto",
-        amazonUrl: "https://www.amazon.es/s?k=feandrea+arvore+gato+arranhador&tag=SEU_TAG_AFILIADO",
+        amazonUrl: "https://www.amazon.es/s?k=feandrea+arvore+gato+arranhador&tag=coisasparagat-21",
         artigoSlug: "melhor-arranhador-gatos",
     },
     {
@@ -59,7 +59,7 @@ const PRODUCTS = [
         image: "https://images.pexels.com/photos/30001432/pexels-photo-30001432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
         pitch: "Frango como primeiro ingrediente, alto teor de proteína. A nossa recomendação padrão.",
         category: "Alimentação",
-        amazonUrl: "https://www.amazon.es/s?k=purina+pro+plan+adult+cat&tag=SEU_TAG_AFILIADO",
+        amazonUrl: "https://www.amazon.es/s?k=purina+pro+plan+adult+cat&tag=coisasparagat-21",
         artigoSlug: "melhor-racao-gato-adulto-portugal",
     },
 ];
