@@ -1,11 +1,12 @@
 import { useState, useEffect } from "react";
 import { Cat, Menu, X } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const NAV_ITEMS = [
-    { label: "Início", href: "#inicio" },
-    { label: "Categorias", href: "#categorias" },
-    { label: "Top Produtos", href: "#produtos" },
-    { label: "Blog", href: "#blog" },
+    { label: "Início", href: "/" },
+    { label: "Categorias", href: "/#categorias" },
+    { label: "Top Produtos", href: "/#produtos" },
+    { label: "Blog", href: "/blog" },
 ];
 
 export const Header = () => {
@@ -28,8 +29,8 @@ export const Header = () => {
             }`}
         >
             <div className="px-6 md:px-12 lg:px-24 py-4 flex items-center justify-between">
-                <a
-                    href="#inicio"
+                <Link
+                    to="/"
                     data-testid="logo-link"
                     className="flex items-center gap-2 group"
                 >
@@ -39,30 +40,42 @@ export const Header = () => {
                     <span className="font-extrabold text-xl md:text-2xl text-[#5C463A] tracking-tight">
                         Coisas para Gatos
                     </span>
-                </a>
+                </Link>
 
                 <nav className="hidden lg:flex items-center gap-8">
                     {NAV_ITEMS.map((item) => (
-                        <a
-                            key={item.label}
-                            href={item.href}
-                            data-testid={`nav-link-${item.label.toLowerCase().replace(/\s/g, "-")}`}
-                            className="text-[#5C463A] font-semibold hover:text-[#FF9F87] transition-colors relative group"
-                        >
-                            {item.label}
-                            <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#FF9F87] rounded-full transition-all group-hover:w-full" />
-                        </a>
+                        item.href.startsWith("/#") ? (
+                            <a
+                                key={item.label}
+                                href={item.href}
+                                data-testid={`nav-link-${item.label.toLowerCase().replace(/\s/g, "-")}`}
+                                className="text-[#5C463A] font-semibold hover:text-[#FF9F87] transition-colors relative group"
+                            >
+                                {item.label}
+                                <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#FF9F87] rounded-full transition-all group-hover:w-full" />
+                            </a>
+                        ) : (
+                            <Link
+                                key={item.label}
+                                to={item.href}
+                                data-testid={`nav-link-${item.label.toLowerCase().replace(/\s/g, "-")}`}
+                                className="text-[#5C463A] font-semibold hover:text-[#FF9F87] transition-colors relative group"
+                            >
+                                {item.label}
+                                <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-[#FF9F87] rounded-full transition-all group-hover:w-full" />
+                            </Link>
+                        )
                     ))}
                 </nav>
 
                 <div className="hidden lg:block">
-                    <a
-                        href="#produtos"
+                    <Link
+                        to="/blog"
                         data-testid="nav-cta-button"
                         className="bg-[#FF9F87] hover:bg-[#FF8A6E] text-white rounded-full px-6 py-3 font-bold transition-all duration-300 shadow-sm hover:shadow-md inline-block"
                     >
-                        Ver Ofertas 🐾
-                    </a>
+                        Ver Blog 🐾
+                    </Link>
                 </div>
 
                 <button
@@ -81,22 +94,33 @@ export const Header = () => {
                     className="lg:hidden bg-[#FFFDF9] border-t border-[#F2E3D8] px-6 py-6 flex flex-col gap-4 shadow-lg"
                 >
                     {NAV_ITEMS.map((item) => (
-                        <a
-                            key={item.label}
-                            href={item.href}
-                            onClick={() => setOpen(false)}
-                            className="text-[#5C463A] font-semibold py-2"
-                        >
-                            {item.label}
-                        </a>
+                        item.href.startsWith("/#") ? (
+                            <a
+                                key={item.label}
+                                href={item.href}
+                                onClick={() => setOpen(false)}
+                                className="text-[#5C463A] font-semibold py-2"
+                            >
+                                {item.label}
+                            </a>
+                        ) : (
+                            <Link
+                                key={item.label}
+                                to={item.href}
+                                onClick={() => setOpen(false)}
+                                className="text-[#5C463A] font-semibold py-2"
+                            >
+                                {item.label}
+                            </Link>
+                        )
                     ))}
-                    <a
-                        href="#produtos"
+                    <Link
+                        to="/blog"
                         onClick={() => setOpen(false)}
                         className="bg-[#FF9F87] text-white rounded-full px-6 py-3 font-bold text-center mt-2"
                     >
-                        Ver Ofertas 🐾
-                    </a>
+                        Ver Blog 🐾
+                    </Link>
                 </div>
             )}
         </header>
