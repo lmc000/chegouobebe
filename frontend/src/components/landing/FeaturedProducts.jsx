@@ -1,18 +1,21 @@
-import { Star, ExternalLink, Trophy } from "lucide-react";
+import { Star, ExternalLink, Trophy, BookOpen } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const PRODUCTS = [
     {
         id: "fonte-agua-catit",
-        name: "Catit Pixi Fonte de Água Inteligente",
+        name: "Petkit Eversweet 3 Pro — Fonte de Água",
         tag: "Mais Vendido",
         tagColor: "#F9A826",
-        rating: 4.8,
+        rating: 4.9,
         reviews: 2348,
-        price: "39,99 €",
-        oldPrice: "54,99 €",
+        price: "49,99 €",
+        oldPrice: "59,99 €",
         image: "https://images.pexels.com/photos/5822458/pexels-photo-5822458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        pitch: "Mantém a água fresca e circulante — gatos bebem até 3x mais.",
+        pitch: "Silenciosa, em inox e com sensor automático. A melhor fonte para gatos em Portugal.",
         category: "Alimentação",
+        amazonUrl: "https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=coisasparagat-21",
+        artigoSlug: "melhor-fonte-agua-gatos",
     },
     {
         id: "areia-tofu-pidan",
@@ -24,34 +27,40 @@ const PRODUCTS = [
         price: "21,90 €",
         oldPrice: null,
         image: "https://images.unsplash.com/photo-1770751857462-4954bffba866?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODR8MHwxfHNlYXJjaHwxfHxjYXQlMjBwbGF5aW5nJTIwd2l0aCUyMHRveXxlbnwwfHx8fDE3Nzk4MDg1Mjd8MA&ixlib=rb-4.1.0&q=85",
-        pitch: "Aglomerante, sem cheiro e descarga direta na sanita.",
+        pitch: "Aglomerante, sem cheiro e descarga direta na sanita. Ideal para apartamento.",
         category: "Higiene",
+        amazonUrl: "https://www.amazon.es/s?k=pidan+areia+tofu&tag=coisasparagat-21",
+        artigoSlug: "melhor-caixa-areia-gatos-apartamento",
     },
     {
-        id: "arranhador-xxl",
-        name: "Arranhador Torre XXL com Casinha",
+        id: "arranhador-feandrea",
+        name: "Feandrea Árvore com Arranhador XXL",
         tag: "Recomendado",
         tagColor: "#FF9F87",
         rating: 4.7,
         reviews: 956,
-        price: "89,90 €",
-        oldPrice: "109,90 €",
+        price: "45,90 €",
+        oldPrice: "59,90 €",
         image: "https://images.pexels.com/photos/32960962/pexels-photo-32960962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        pitch: "120cm de altura. Sisal robusto, ideal para 1-2 gatos.",
-        category: "Diversão",
+        pitch: "Sisal robusto, plataformas e brinquedo incluído. Ideal para gatos de interior.",
+        category: "Conforto",
+        amazonUrl: "https://www.amazon.es/s?k=feandrea+arvore+gato+arranhador&tag=coisasparagat-21",
+        artigoSlug: "melhor-arranhador-gatos",
     },
     {
-        id: "dispensador-petkit",
-        name: "Petkit Fresh Element Mini Pro",
-        tag: "Top Premium",
+        id: "racao-proplan",
+        name: "Purina Pro Plan Adult — Ração para Gato",
+        tag: "Top Qualidade-Preço",
         tagColor: "#5C463A",
-        rating: 4.9,
+        rating: 4.7,
         reviews: 1204,
-        price: "129,00 €",
-        oldPrice: "159,00 €",
+        price: "28,90 €",
+        oldPrice: null,
         image: "https://images.pexels.com/photos/30001432/pexels-photo-30001432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        pitch: "Dispensa porções controladas via app. Wi-Fi e câmara HD.",
+        pitch: "Frango como primeiro ingrediente, alto teor de proteína. A nossa recomendação padrão.",
         category: "Alimentação",
+        amazonUrl: "https://www.amazon.es/s?k=purina+pro+plan+adult+cat&tag=coisasparagat-21",
+        artigoSlug: "melhor-racao-gato-adulto-portugal",
     },
 ];
 
@@ -78,17 +87,17 @@ export const FeaturedProducts = () => {
                             Os Favoritos dos Felinos 🐱
                         </h2>
                         <p className="text-[#8C776D] text-base md:text-lg mt-3 max-w-xl">
-                            Os 4 produtos mais comprados — testados, comparados
+                            Os 4 produtos mais recomendados — testados, comparados
                             e aprovados pelos nossos leitores.
                         </p>
                     </div>
-                    <a
-                        href="#produtos"
+                    <Link
+                        to="/blog"
                         data-testid="view-all-products-link"
                         className="text-[#FF8A6E] font-bold hover:underline self-start md:self-end whitespace-nowrap"
                     >
-                        Ver todos os produtos →
-                    </a>
+                        Ver todos os guias →
+                    </Link>
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
@@ -156,8 +165,10 @@ export const FeaturedProducts = () => {
                                     )}
                                 </div>
 
+                                {/* Botão Amazon */}
                                 <a
-                                    href="#"
+                                    href={product.amazonUrl}
+                                    target="_blank"
                                     rel="nofollow sponsored noopener"
                                     data-testid={`affiliate-link-${product.id}`}
                                     className="bg-[#F9A826] hover:bg-[#F29A15] text-white rounded-full px-4 py-3 font-bold text-sm transition-all duration-300 shadow-sm hover:shadow-md flex items-center justify-center gap-2 mt-1"
@@ -165,10 +176,24 @@ export const FeaturedProducts = () => {
                                     Ver na Amazon
                                     <ExternalLink className="w-4 h-4" />
                                 </a>
+
+                                {/* Link para artigo do blog */}
+                                <Link
+                                    to={`/blog/${product.artigoSlug}`}
+                                    className="text-[#FF8A6E] hover:text-[#FF6B4A] font-semibold text-xs flex items-center justify-center gap-1 transition-colors"
+                                >
+                                    <BookOpen className="w-3.5 h-3.5" />
+                                    Ler review completa
+                                </Link>
                             </div>
                         </article>
                     ))}
                 </div>
+
+                {/* Disclaimer afiliados */}
+                <p className="text-center text-xs text-[#8C776D] mt-10">
+                    Os preços são indicativos e podem variar. Os links "Ver na Amazon" são links de afiliado — se comprares, recebemos uma pequena comissão sem custo extra para ti.
+                </p>
             </div>
         </section>
     );
