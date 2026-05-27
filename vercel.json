@@ -18,12 +18,8 @@
       "dest": "backend/server.py"
     },
     {
-      "src": "/static/(.*)",
-      "dest": "/frontend/$1"
-    },
-    {
       "src": "/(.*)",
-      "dest": "/frontend/index.html"
+      "dest": "/frontend/$1"
     }
   ]
 }
