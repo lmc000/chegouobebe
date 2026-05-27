@@ -37,7 +37,7 @@ O filtro de carvão ativo dura cerca de 30 dias e remove cloro, resíduos e maus
 
 **Para quem:** donos que querem o melhor sem compromissos.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=coisasparagat-21)
 
 ---
 
@@ -51,7 +51,7 @@ O único ponto fraco é o motor, que é audível em ambiente silencioso.
 
 **Para quem:** orçamento limitado ou casas com dois ou mais gatos.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=catit+flower+fountain+3l&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=catit+flower+fountain+3l&tag=coisasparagat-21)
 
 ---
 
@@ -63,7 +63,7 @@ O motor é tão discreto que praticamente não se ouve. Feita em inox de grau al
 
 **Para quem:** gatos ansiosos, quartos pequenos, donos sensíveis ao ruído.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=pioneer+pet+raindrop+stainless+steel&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=pioneer+pet+raindrop+stainless+steel&tag=coisasparagat-21)
 
 ---
 
@@ -73,7 +73,7 @@ O motor é tão discreto que praticamente não se ouve. Feita em inox de grau al
 
 Com 5 litros de capacidade, é a escolha óbvia para casas com dois ou mais gatos. O fluxo em cascata é muito apelativo e podes regular a velocidade da água.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=drinkwell+platinum+pet+fountain&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=drinkwell+platinum+pet+fountain&tag=coisasparagat-21)
 
 ---
 
@@ -83,7 +83,7 @@ Com 5 litros de capacidade, é a escolha óbvia para casas com dois ou mais gato
 
 Se queres experimentar uma fonte sem grande investimento, a Veken é uma entrada aceitável. Tem 2,5 litros, filtro incluído e funciona.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=veken+pet+fountain+84oz&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=veken+pet+fountain+84oz&tag=coisasparagat-21)
 
 ---
 
@@ -150,7 +150,7 @@ A Catit Jumbo é a caixa fechada mais equilibrada do mercado. O tamanho jumbo se
 
 **Para quem:** primeira caixa em apartamento, gatos de porte médio a grande.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=catit+jumbo+hooded+litter+box&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=catit+jumbo+hooded+litter+box&tag=coisasparagat-21)
 
 ---
 
@@ -164,7 +164,7 @@ O grande inconveniente: os tabuleiros descartáveis custam cerca de 15-20€ por
 
 **Para quem:** donos que trabalham fora de casa, casas com vários gatos.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=petsafe+scoopfree+self+cleaning&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=petsafe+scoopfree+self+cleaning&tag=coisasparagat-21)
 
 ---
 
@@ -176,7 +176,7 @@ Limpa automaticamente após cada uso, tem app para monitorizar hábitos do gato,
 
 **Para quem:** quem tem orçamento e quer zero manutenção, casas com 2+ gatos.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=litter+robot+4&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=litter+robot+4&tag=coisasparagat-21)
 
 ---
 
@@ -188,7 +188,7 @@ O design minimalista encaixa em qualquer divisão sem parecer uma caixa de areia
 
 **Para quem:** apartamentos modernos, donos que valorizam design.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=modkat+flip+litter+box&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=modkat+flip+litter+box&tag=coisasparagat-21)
 
 ---
 
@@ -198,7 +198,7 @@ O design minimalista encaixa em qualquer divisão sem parecer uma caixa de areia
 
 Para quem quer uma caixa fechada sem gastar muito. Simples, funcional, com filtro de carvão básico.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=iris+ohyama+caixa+areia+gato&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=iris+ohyama+caixa+areia+gato&tag=coisasparagat-21)
 
 ---
 
@@ -257,8 +257,8 @@ Um gato desidratado cronicamente tem risco aumentado de:
 
 Esta é a solução com maior impacto. A maioria dos gatos que "não bebem água" bebe muito mais quando há movimento.
 
-- **Petkit Eversweet 3 Pro (~50€)** — silenciosa, em inox, a nossa preferida → [Ver na Amazon](https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=SEU_TAG_AFILIADO)
-- **Catit Flower Fountain (~25€)** — mais económica, funciona bem → [Ver na Amazon](https://www.amazon.es/s?k=catit+flower+fountain&tag=SEU_TAG_AFILIADO)
+- **Petkit Eversweet 3 Pro (~50€)** — silenciosa, em inox, a nossa preferida → [Ver na Amazon](https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=coisasparagat-21)
+- **Catit Flower Fountain (~25€)** — mais económica, funciona bem → [Ver na Amazon](https://www.amazon.es/s?k=catit+flower+fountain&tag=coisasparagat-21)
 
 ---
 
@@ -266,7 +266,7 @@ Esta é a solução com maior impacto. A maioria dos gatos que "não bebem água
 
 Se usas tigela de plástico, troca já para **inox ou cerâmica**. O plástico absorve odores com o tempo e os gatos rejeitam-no.
 
-[Tigelas de inox para gatos na Amazon →](https://www.amazon.es/s?k=tigela+inox+gato&tag=SEU_TAG_AFILIADO)
+[Tigelas de inox para gatos na Amazon →](https://www.amazon.es/s?k=tigela+inox+gato&tag=coisasparagat-21)
 
 ---
 
@@ -354,7 +354,7 @@ Os gatos são **carnívoros obrigatórios**. Uma boa ração deve ter:
 
 90% dos ingredientes são de origem animal, com frango fresco, peru, ovos e peixe. Sem cereais, sem corantes, sem conservantes artificiais. O preço é alto, mas a densidade nutricional é tão grande que o gato come menos quantidade.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=orijen+cat+adult&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=orijen+cat+adult&tag=coisasparagat-21)
 
 ---
 
@@ -366,7 +366,7 @@ Frango ou salmão como primeiro ingrediente, alto teor de proteína, sem corante
 
 **Esta é a nossa recomendação padrão para a maioria dos gatos.**
 
-[Ver na Amazon →](https://www.amazon.es/s?k=purina+pro+plan+adult+cat&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=purina+pro+plan+adult+cat&tag=coisasparagat-21)
 
 ---
 
@@ -376,7 +376,7 @@ Frango ou salmão como primeiro ingrediente, alto teor de proteína, sem corante
 
 A marca mais prescrita por veterinários em Portugal. Tem décadas de investigação por trás, fórmulas específicas para raça, idade e condição de saúde. Consistente, segura e bem equilibrada.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=royal+canin+adult+cat&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=royal+canin+adult+cat&tag=coisasparagat-21)
 
 ---
 
@@ -386,7 +386,7 @@ A marca mais prescrita por veterinários em Portugal. Tem décadas de investiga�
 
 Grain-free com veado e salmão fumado. Boa opção para gatos com sensibilidades alimentares.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=taste+of+the+wild+rocky+mountain+cat&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=taste+of+the+wild+rocky+mountain+cat&tag=coisasparagat-21)
 
 ---
 
@@ -396,7 +396,7 @@ Grain-free com veado e salmão fumado. Boa opção para gatos com sensibilidades
 
 Marca sueca com boa reputação na Europa. Ingredientes identificáveis, sem corantes, disponível a bom preço. Claramente acima das marcas de supermercado.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=bozita+cat+adult&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=bozita+cat+adult&tag=coisasparagat-21)
 
 ---
 
@@ -469,7 +469,7 @@ A solução: um bom arranhador colocado no sítio certo.
 
 Combina arranhador vertical em sisal, plataformas de descanso e brinquedo suspenso numa só peça compacta. Para gatos de interior é o investimento com mais retorno.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=feandrea+arvore+gato+arranhador&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=feandrea+arvore+gato+arranhador&tag=coisasparagat-21)
 
 ---
 
@@ -479,7 +479,7 @@ Combina arranhador vertical em sisal, plataformas de descanso e brinquedo suspen
 
 Base pesada para não tombar, altura suficiente para um gato adulto fazer um alongamento completo. Sisal de qualidade que dura muito tempo.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=navaris+arranhador+sisal+gato&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=navaris+arranhador+sisal+gato&tag=coisasparagat-21)
 
 ---
 
@@ -489,7 +489,7 @@ Base pesada para não tombar, altura suficiente para um gato adulto fazer um alo
 
 Para gatos que preferem arranhar horizontalmente. Vem com erva-gateira incluída para atrair o gato desde o primeiro dia.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=catit+style+scratcher&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=catit+style+scratcher&tag=coisasparagat-21)
 
 ---
 
@@ -499,7 +499,7 @@ Para gatos que preferem arranhar horizontalmente. Vem com erva-gateira incluída
 
 Cartão de alta densidade reciclado que dura 4-5 vezes mais que os arranhadores normais. Design elegante, pode ser usado dos dois lados.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=petfusion+ultimate+cat+scratcher&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=petfusion+ultimate+cat+scratcher&tag=coisasparagat-21)
 
 ---
 
@@ -509,7 +509,7 @@ Cartão de alta densidade reciclado que dura 4-5 vezes mais que os arranhadores 
 
 81cm de altura — suficiente para gatos grandes como Maine Coon ou Norueguês da Floresta. Base sólida que não tomba.
 
-[Ver na Amazon →](https://www.amazon.es/s?k=smartcat+ultimate+scratching+post&tag=SEU_TAG_AFILIADO)
+[Ver na Amazon →](https://www.amazon.es/s?k=smartcat+ultimate+scratching+post&tag=coisasparagat-21)
 
 ---
 
