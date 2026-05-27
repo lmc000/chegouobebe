@@ -1,4 +1,5 @@
 import { useParams, Link, Navigate } from "react-router-dom";
+import { Cat } from "lucide-react";
 import artigos from "@/data/artigos";
 
 const categoriaCor = {
@@ -106,18 +107,22 @@ export default function Artigo() {
   return (
     <div style={{ minHeight: "100vh", background: "#FDF8F2", fontFamily: "'DM Sans', sans-serif" }}>
 
-      {/* NAV */}
-      <nav style={{ background: "rgba(253,248,242,0.95)", borderBottom: "1px solid #EDE5DC", padding: "0 1.5rem", position: "sticky", top: 0, zIndex: 100 }}>
-        <div style={{ maxWidth: 1140, margin: "0 auto", display: "flex", alignItems: "center", height: 68, gap: "2rem" }}>
-          <Link to="/" style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: "0.5rem" }}>
-            <span style={{ fontSize: "1.6rem" }}>🐱</span>
-            <span style={{ fontFamily: "Georgia, serif", fontSize: "1.1rem", color: "#1E1A16" }}>
-              Coisas<strong style={{ color: "#F5845C" }}>ParaGatos</strong>
+      {/* NAV — igual ao Header.jsx da landing */}
+      <header className="bg-[#FFFDF9]/85 backdrop-blur-xl border-b border-[#F2E3D8] shadow-[0_4px_20px_rgb(92,70,58,0.04)] sticky top-0 z-50">
+        <div className="px-6 md:px-12 lg:px-24 py-4 flex items-center justify-between">
+          <Link to="/" className="flex items-center gap-2 group">
+            <span className="w-10 h-10 rounded-full bg-[#FF9F87] flex items-center justify-center shadow-sm group-hover:scale-110 transition-transform">
+              <Cat className="w-5 h-5 text-white" strokeWidth={2.5} />
+            </span>
+            <span className="font-extrabold text-xl text-[#5C463A] tracking-tight">
+              Coisas para Gatos
             </span>
           </Link>
-          <Link to="/blog" style={{ color: "#5A4F45", textDecoration: "none", fontSize: "0.9rem" }}>← Voltar ao Blog</Link>
+          <Link to="/blog" className="text-[#5C463A] font-semibold hover:text-[#FF9F87] transition-colors text-sm">
+            ← Voltar ao Blog
+          </Link>
         </div>
-      </nav>
+      </header>
 
       {/* CONTEÚDO */}
       <div style={{ maxWidth: 760, margin: "0 auto", padding: "3rem 1.5rem" }}>
