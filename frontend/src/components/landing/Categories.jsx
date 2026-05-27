@@ -1,4 +1,5 @@
 import { Fish, Droplets, Moon, Gamepad2, Plane, HeartPulse, ArrowRight } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const CATEGORIES = [
     {
@@ -83,9 +84,9 @@ export const Categories = () => {
                     {CATEGORIES.map((cat) => {
                         const Icon = cat.icon;
                         return (
-                            <a
+                            <Link
                                 key={cat.id}
-                                href={`#${cat.id}`}
+                                to={`/blog?categoria=${cat.id}`}
                                 data-testid={`category-card-${cat.id}`}
                                 className="group bg-white rounded-3xl border border-[#F2E3D8] p-5 md:p-6 aspect-square flex flex-col items-center justify-center text-center transition-all duration-300 hover:shadow-[0_20px_40px_rgb(92,70,58,0.12)] hover:-translate-y-1 hover:border-[#FFC4A3]"
                             >
@@ -102,7 +103,7 @@ export const Categories = () => {
                                     {cat.desc}
                                 </span>
                                 <ArrowRight className="w-4 h-4 text-[#FF9F87] opacity-0 group-hover:opacity-100 transition-all mt-2 group-hover:translate-x-1" />
-                            </a>
+                            </Link>
                         );
                     })}
                 </div>
