@@ -1107,6 +1107,503 @@ O Kickeroo é um brinquedo comprido que o gato abraça com as patas da frente e 
 *Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
     `
   }
+  ,
+  {
+    slug: "gato-ansioso-sinais-solucoes",
+    titulo: "Gato Ansioso — Como Reconhecer e Ajudar (2026)",
+    descricao: "O teu gato esconde-se, mia excessivamente ou destrói coisas? Pode ser ansiedade felina. Descobre os sinais e as soluções que realmente funcionam.",
+    categoria: "saude",
+    data: "2026-05-30",
+    tempoLeitura: "7 min",
+    conteudo: `
+A ansiedade felina é muito mais comum do que se pensa — e muitas vezes confundida com "mau feitio". Um gato ansioso não está a ser difícil. Está a pedir ajuda.
+
+---
+
+## Sinais de ansiedade num gato
+
+Ao contrário dos cães, os gatos escondem o stress. Os sinais são subtis:
+
+- **Esconder-se mais do que o habitual** — especialmente quando há visitas ou ruídos
+- **Miar excessivamente** — sobretudo à noite ou quando ficas fora de casa
+- **Grooming excessivo** — lamber até criar áreas sem pelo
+- **Eliminar fora da caixa de areia** — um dos sinais mais claros de stress
+- **Agressividade repentina** — morde ou arranha sem razão aparente
+- **Perda de apetite**
+- **Destruição de objetos**
+
+Se reconheces dois ou mais destes sinais, o teu gato pode estar ansioso.
+
+---
+
+## Causas mais comuns
+
+- **Mudanças no ambiente** — mudança de casa, obras, novo móvel
+- **Novos animais ou pessoas** — bebé, novo gato, novo parceiro
+- **Rotina alterada** — mudança de horário de trabalho
+- **Solidão** — gatos de interior sozinhos muitas horas por dia
+- **Trauma passado** — especialmente em gatos adotados de abrigos
+
+---
+
+## Soluções que funcionam
+
+### 1. Feromonas sintéticas — a solução mais eficaz
+
+As feromonas sintéticas imitam as feromonas naturais que as gatas produzem para acalmar os gatinhos. Não têm cheiro para humanos mas os gatos respondem muito bem.
+
+**Feliway Classic** é o produto mais estudado e recomendado por veterinários:
+
+- **Difusor elétrico** — ideal para ansiedade crónica em casa → [Ver na Amazon](https://www.amazon.es/s?k=feliway+classic+difusor&tag=coisasparagat-21)
+- **Spray** — ideal para viagens, transportadora e situações pontuais → [Ver na Amazon](https://www.amazon.es/s?k=feliway+classic+spray&tag=coisasparagat-21)
+
+Demora 7-14 dias a fazer efeito. A maioria dos tutores nota diferença ao fim de 2 semanas.
+
+---
+
+### 2. Enriquecimento ambiental
+
+Um gato estimulado é um gato menos ansioso. O essencial:
+
+- **Árvore ou prateleiras** para subir — os gatos sentem-se seguros em altura → [Ver árvores na Amazon](https://www.amazon.es/s?k=arvore+gato+arranhador&tag=coisasparagat-21)
+- **Esconderijos** — caixas de cartão, tendas, igloo — o gato precisa de sentir que tem refúgio
+- **Brinquedo interativo diário** — 10-15 minutos de vareta descarregam tensão acumulada → [Ver varetas na Amazon](https://www.amazon.es/s?k=vareta+brinquedo+gato&tag=coisasparagat-21)
+
+---
+
+### 3. Suplementos naturais calmantes
+
+Para casos moderados, antes de passar para medicação veterinária:
+
+- **Zylkène** — caseína hidrolisada do leite, muito bem tolerada → [Ver na Amazon](https://www.amazon.es/s?k=zylkene+gato+calmante&tag=coisasparagat-21)
+- **Relaxivet** — combinação de ervas e aminoácidos → [Ver na Amazon](https://www.amazon.es/s?k=relaxivet+gato&tag=coisasparagat-21)
+
+---
+
+### 4. Rotina estável
+
+Os gatos adoram previsibilidade. Alimenta, brinca e interage sempre às mesmas horas. Parece simples mas é uma das intervenções mais eficazes.
+
+---
+
+### 5. Consulta veterinária
+
+Se os sinais forem graves ou persistirem mais de 4 semanas, consulta o veterinário. Existe medicação ansiolítica específica para gatos que funciona muito bem em casos mais sérios — não há razão para o gato sofrer quando há solução.
+
+---
+
+## Quando é urgente ir ao veterinário?
+
+- Grooming compulsivo com feridas na pele
+- Recusa total de comida por mais de 48h
+- Agressividade súbita e intensa
+- Eliminar sangue fora da caixa de areia
+
+---
+
+*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
+    `
+  },
+  {
+    slug: "alimentacao-humida-vs-seca-gatos",
+    titulo: "Ração Húmida vs Seca para Gatos — Qual é Melhor? (2026)",
+    descricao: "Ração húmida ou seca para gatos? Comparámos os benefícios, riscos e custos de cada opção. A resposta não é simples — mas temos a recomendação certa.",
+    categoria: "alimentacao",
+    data: "2026-05-31",
+    tempoLeitura: "6 min",
+    conteudo: `
+É um dos debates mais antigos entre donos de gatos: ração húmida ou seca? A resposta honesta é que depende — mas há princípios claros que devem guiar a tua escolha.
+
+---
+
+## As diferenças fundamentais
+
+| | Ração Seca | Ração Húmida |
+|---|---|---|
+| Água | a partir de ~8-10% | a partir de ~70-80% |
+| Proteína (matéria seca) | a partir de ~30-40% | a partir de ~40-50% |
+| Hidratos de carbono | Mais elevados | Muito baixos |
+| Calorias por grama | Mais densas | Menos densas |
+| Preço por refeição | Mais barata | Mais cara |
+| Conveniência | Muito fácil | Abre e estraga |
+| Saúde urinária | Risco maior | Melhor |
+
+---
+
+## Vantagens da ração húmida
+
+**Hidratação** — é o argumento mais forte. Os gatos não bebem água suficiente por natureza. A ração húmida tem 70-80% de água e compensa essa tendência naturalmente.
+
+**Saúde urinária e renal** — maior hidratação significa urina mais diluída, menos risco de cristais, pedras e doença renal — a maior causa de morte em gatos adultos.
+
+**Menos hidratos de carbono** — os gatos são carnívoros obrigatórios. A ração húmida tem muito menos cereais e açúcares do que a seca.
+
+**Peso** — gatos que comem húmida tendem a manter o peso mais facilmente porque saciam com menos calorias.
+
+As melhores opções de ração húmida em Portugal:
+
+- **Sheba Seleção Natural** (~0,80€/saqueta) → [Ver na Amazon](https://www.amazon.es/s?k=sheba+selecao+natural+gato&tag=coisasparagat-21)
+- **Purina Pro Plan Wet** (~1,20€/lata) → [Ver na Amazon](https://www.amazon.es/s?k=purina+pro+plan+wet+cat&tag=coisasparagat-21)
+- **Royal Canin Wet** (~1,50€/saqueta) → [Ver na Amazon](https://www.amazon.es/s?k=royal+canin+wet+cat&tag=coisasparagat-21)
+
+---
+
+## Vantagens da ração seca
+
+**Preço** — é significativamente mais barata por caloria. Para quem tem orçamento limitado, a seca de qualidade é melhor do que a húmida barata.
+
+**Conveniência** — podes deixar o dia todo sem estragar. Ideal para comedouros automáticos.
+
+**Saúde dentária** — o atrito da croquete ajuda a reduzir tártaro (embora o efeito seja modesto).
+
+As melhores opções de ração seca:
+
+- **Purina Pro Plan Adult** — a nossa recomendação padrão → [Ver na Amazon](https://www.amazon.es/s?k=purina+pro+plan+adult+cat&tag=coisasparagat-21)
+- **Royal Canin Adult** → [Ver na Amazon](https://www.amazon.es/s?k=royal+canin+adult+cat&tag=coisasparagat-21)
+- **Orijen Cat** — premium sem cereais → [Ver na Amazon](https://www.amazon.es/s?k=orijen+cat+adult&tag=coisasparagat-21)
+
+---
+
+## A recomendação: combinação das duas
+
+A maioria dos veterinários e nutricionistas felinos recomenda uma combinação:
+
+- **Ração seca de qualidade** como base (70% das calorias)
+- **Uma saqueta ou lata de húmida** por dia (30% das calorias)
+
+O gato ganha hidratação extra da húmida e a conveniência e custo controlado da seca. É o melhor dos dois mundos.
+
+---
+
+## Casos em que a húmida deve ser prioritária
+
+- Gatos com histórico de problemas urinários ou renais
+- Gatos que bebem muito pouca água
+- Gatos com excesso de peso
+- Gatos séniores (acima dos 10 anos)
+- Gatos em recuperação pós-cirurgia
+
+---
+
+## O que evitar em qualquer formato
+
+- Primeiro ingrediente: cereais (milho, trigo, arroz)
+- "Subprodutos de origem animal" sem especificação
+- Corantes artificiais (E102, E110, E124)
+- Açúcar ou xarope de glucose adicionado
+
+---
+
+*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
+    `
+  },
+  {
+    slug: "gato-nao-usa-caixa-areia-solucoes",
+    titulo: "Gato Não Usa a Caixa de Areia — Causas e Soluções (2026)",
+    descricao: "O teu gato faz as necessidades fora da caixa de areia? Descobre as causas mais comuns e as soluções práticas para resolver o problema de vez.",
+    categoria: "higiene",
+    data: "2026-06-01",
+    tempoLeitura: "6 min",
+    conteudo: `
+Um gato que elimina fora da caixa de areia é um dos problemas mais frustrantes para os donos — e uma das principais razões de abandono. Mas quase sempre tem solução.
+
+O primeiro passo é perceber a causa. Há duas categorias: **médica** e **comportamental**.
+
+---
+
+## Passo 1 — Exclui causas médicas
+
+Antes de qualquer intervenção comportamental, vai ao veterinário se o problema for recente e súbito. As causas médicas mais comuns são:
+
+- **Infeção urinária** — dor ao urinar faz o gato associar a caixa à dor
+- **Cálculos urinários** — especialmente em machos
+- **Obstipação** — dificuldade em defecar
+- **Artrite** — em gatos séniores, entrar na caixa pode ser doloroso
+
+Se o veterinário não encontrar causa médica, o problema é comportamental.
+
+---
+
+## Causas comportamentais mais comuns
+
+### 1. Caixa suja
+
+É a causa número um. Os gatos são animais extremamente limpos — uma caixa com dois dias de acumulação já pode ser recusada.
+
+**Solução:** limpa pelo menos uma vez por dia. Troca a areia completamente a cada 2 semanas.
+
+---
+
+### 2. Areia errada
+
+Mudaste de areia recentemente? Introduziste perfume? Os gatos são muito sensíveis a alterações.
+
+**Solução:** volta à areia anterior ou faz a transição gradualmente misturando as duas. A maioria dos gatos prefere areia não perfumada de grão fino.
+
+A melhor areia sem perfume:
+- **Catsan Natural** → [Ver na Amazon](https://www.amazon.es/s?k=catsan+natural+areia+gato&tag=coisasparagat-21)
+- **Ever Clean Extra Strong** → [Ver na Amazon](https://www.amazon.es/s?k=ever+clean+extra+strong+areia+gato&tag=coisasparagat-21)
+
+---
+
+### 3. Caixa no sítio errado
+
+Os gatos não querem a caixa de areia junto da comida, em locais com muito movimento ou em espaços onde se sentem encurralados.
+
+**Solução:** coloca a caixa num local tranquilo, de fácil acesso e com saída de escape (o gato deve conseguir ver quem se aproxima). Nunca junto da tigela de comida.
+
+---
+
+### 4. Caixa demasiado pequena
+
+Se o gato não consegue dar uma volta completa dentro da caixa, vai procurar outro sítio.
+
+**Regra:** a caixa deve ter pelo menos 1,5x o comprimento do gato.
+
+As melhores caixas de tamanho generoso:
+- **Catit Jumbo Hooded** → [Ver na Amazon](https://www.amazon.es/s?k=catit+jumbo+hooded&tag=coisasparagat-21)
+- **Iris Ohyama XL** → [Ver na Amazon](https://www.amazon.es/s?k=iris+ohyama+caixa+areia+xl&tag=coisasparagat-21)
+
+---
+
+### 5. Poucas caixas para vários gatos
+
+A regra é: uma caixa por gato, mais uma extra. Com dois gatos, três caixas.
+
+---
+
+### 6. Stress ou marcação de território
+
+Gatos não esterilizados marcam território com urina. A esterilização resolve quase sempre este problema.
+
+Em gatos esterilizados, o stress pode causar eliminação fora da caixa. O **Feliway Classic** (difusor de feromonas) ajuda muito nestes casos:
+[Ver Feliway na Amazon →](https://www.amazon.es/s?k=feliway+classic+difusor&tag=coisasparagat-21)
+
+---
+
+## Plano de ação em 5 passos
+
+1. **Vai ao veterinário** — exclui causa médica
+2. **Limpa a caixa todos os dias** sem exceção
+3. **Adiciona uma caixa extra** noutro local da casa
+4. **Remove o cheiro do local errado** com limpador enzimático — o cheiro residual atrai o gato de volta → [Ver limpador enzimático na Amazon](https://www.amazon.es/s?k=limpador+enzimatico+urina+gato&tag=coisasparagat-21)
+5. **Feliway** se houver stress envolvido
+
+A maioria dos casos resolve-se em 2-4 semanas com este plano.
+
+---
+
+*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
+    `
+  },
+  {
+    slug: "melhor-comedouro-automatico-gatos",
+    titulo: "Melhor Comedouro Automático para Gatos em 2026",
+    descricao: "Comparámos os melhores comedouros automáticos para gatos em 2026. Controlo de porções, app, câmara — guia honesto para Portugal.",
+    categoria: "alimentacao",
+    data: "2026-06-02",
+    tempoLeitura: "7 min",
+    conteudo: `
+Trabalhas fora de casa, viajas com frequência ou tens um gato que come demasiado rápido? Um comedouro automático pode mudar completamente a rotina — e ajudar a controlar o peso do teu gato.
+
+Testámos e pesquisámos os modelos mais vendidos em Portugal. Aqui está o guia honesto para 2026.
+
+---
+
+## Para que serve um comedouro automático?
+
+- **Controlo de porções** — evita obesidade em gatos que comem compulsivamente
+- **Horários fixos** — mantém a rotina mesmo quando não estás em casa
+- **Gatos com dieta** — prescrições veterinárias de quantidade exata por refeição
+- **Vários gatos** — modelos com reconhecimento de microchip servem o gato certo
+- **Viagens curtas** — 1-2 dias sem precisar de vizinhos a ajudar
+
+---
+
+## Os melhores comedouros automáticos de 2026
+
+### 1. Petkit Fresh Element Mini Pro — Melhor geral
+
+**⭐ 4.8/5 | Preço: a partir de ~80€**
+
+O Petkit Mini Pro é o comedouro automático mais completo do mercado. Controlo por app, câmara HD integrada para veres o teu gato a comer, detetor de comida restante, e motor silencioso que não assusta o gato.
+
+Funciona com ração seca até 15mm de diâmetro. A app (iOS e Android) permite programar até 15 refeições por dia com porções personalizadas.
+
+**Para quem:** donos que viajam, gatos com dieta prescrita, quem quer controlo total.
+
+[Ver na Amazon →](https://www.amazon.es/s?k=petkit+fresh+element+mini+pro&tag=coisasparagat-21)
+
+---
+
+### 2. SureFeed Microchip Pet Feeder — Melhor para vários gatos
+
+**⭐ 4.7/5 | Preço: a partir de ~120€**
+
+O SureFeed abre apenas para o gato com o microchip registado — perfeito para casas com vários gatos onde um come a ração do outro. Funciona com ração seca e húmida (tem tampa que mantém a húmida fresca).
+
+**Para quem:** casas com 2+ gatos, gatos com dietas diferentes, gatos que roubam comida uns aos outros.
+
+[Ver na Amazon →](https://www.amazon.es/s?k=surefeed+microchip+pet+feeder&tag=coisasparagat-21)
+
+---
+
+### 3. PetSafe Eatwell 5 — Melhor económico
+
+**⭐ 4.4/5 | Preço: a partir de ~35€**
+
+Cinco compartimentos rotativos que se abrem a horas programadas. Sem app, sem Wi-Fi — é simples e funciona. Ideal para quem quer uma solução básica sem complexidade tecnológica.
+
+**Para quem:** orçamento limitado, viagens de 1-2 dias, gatos sem necessidades especiais.
+
+[Ver na Amazon →](https://www.amazon.es/s?k=petsafe+eatwell+5+comedouro&tag=coisasparagat-21)
+
+---
+
+### 4. Catit PIXI Smart Feeder — Melhor qualidade-preço com app
+
+**⭐ 4.5/5 | Preço: a partir de ~55€**
+
+Controlo por app, câmara integrada, programação de até 12 refeições diárias. Mais acessível do que o Petkit com funcionalidades semelhantes. Funciona apenas com ração seca.
+
+[Ver na Amazon →](https://www.amazon.es/s?k=catit+pixi+smart+feeder&tag=coisasparagat-21)
+
+---
+
+### 5. Xiaomi Smart Pet Food Feeder — Melhor ecossistema Mi Home
+
+**⭐ 4.3/5 | Preço: a partir de ~45€**
+
+Se já usas produtos Xiaomi em casa, o comedouro integra-se no ecossistema Mi Home. Controlo por app, câmara, alerta de pouca comida. Boa relação qualidade-preço.
+
+[Ver na Amazon →](https://www.amazon.es/s?k=xiaomi+smart+pet+food+feeder&tag=coisasparagat-21)
+
+---
+
+## Comparação rápida
+
+| Modelo | Preço | App | Câmara | Húmida | Melhor para |
+|---|---|---|---|---|---|
+| Petkit Mini Pro | a partir de ~80€ | Sim | Sim | Não | Uso geral |
+| SureFeed Microchip | a partir de ~120€ | Não | Não | Sim | Vários gatos |
+| PetSafe Eatwell 5 | a partir de ~35€ | Não | Não | Sim | Orçamento |
+| Catit PIXI Smart | a partir de ~55€ | Sim | Sim | Não | Qualidade-preço |
+| Xiaomi Mi Home | a partir de ~45€ | Sim | Sim | Não | Ecossistema Xiaomi |
+
+---
+
+## Dicas importantes antes de comprar
+
+1. **Mede a croquete** da tua ração atual — comedouros têm tamanho máximo de croquete
+2. **Começa com porções pequenas** e aumenta gradualmente — alguns gatos ficam ansiosos com a mudança
+3. **Nunca dependas só do comedouro** para viagens longas — pode haver falha de energia ou atolamento
+4. **Mantém água sempre disponível** — comedouros automáticos não gerem a água
+
+---
+
+*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
+    `
+  },
+  {
+    slug: "gatos-e-plantas-toxicas-guia-seguranca",
+    titulo: "Plantas Tóxicas para Gatos — Guia Completo de Segurança (2026)",
+    descricao: "Quais as plantas tóxicas para gatos em casa? Lista completa das plantas perigosas e das seguras, com alternativas para ter em casa sem risco.",
+    categoria: "saude",
+    data: "2026-06-03",
+    tempoLeitura: "8 min",
+    conteudo: `
+Os gatos adoram mastigar plantas — e algumas das mais populares em casas portuguesas são altamente tóxicas para eles. Este guia pode salvar a vida do teu gato.
+
+---
+
+## Plantas MUITO tóxicas — remove de casa imediatamente
+
+### Lírio (Lilium e Hemerocallis)
+**Toxicidade: EXTREMA — pode causar morte**
+
+Qualquer parte do lírio é fatal para gatos — flores, folhas, pólen, até a água do vaso. A insuficiência renal instala-se em 24-72 horas. Se o teu gato tiver contacto com um lírio, vai ao veterinário de emergência imediatamente, mesmo sem sintomas.
+
+### Diefenbáquia (Dieffenbachia)
+Causa queimadura intensa na boca e garganta, dificuldade em engolir e respirar.
+
+### Filodendro (Philodendron)
+Muito popular em decoração de interiores. Causa irritação oral severa, vómitos e dificuldade respiratória.
+
+### Pothos / Jiboia (Epipremnum aureum)
+Uma das plantas de interior mais comuns em Portugal. Tóxica para gatos — causa vómitos, salivação excessiva e dificuldade em engolir.
+
+### Aloe Vera
+Apesar das propriedades medicinais para humanos, o gel e o látex da aloe são tóxicos para gatos — causam vómitos, diarreia e letargia.
+
+### Azáleas e Rododendros
+Causam vómitos, diarreia, fraqueza e em casos graves arritmia cardíaca.
+
+---
+
+## Plantas moderadamente tóxicas — evitar ou colocar inacessíveis
+
+- **Ficus** — irritação oral e gastrointestinal
+- **Sansevieria (língua de sogra)** — vómitos e diarreia
+- **Zamioculca** — irritação oral
+- **Begónia** — vómitos e salivação
+- **Cíclame** — especialmente os bolbos, podem ser fatais
+
+---
+
+## Plantas SEGURAS para ter em casa com gatos
+
+Queres ter plantas sem risco? Estas são completamente seguras:
+
+- **Erva-gateira (Nepeta cataria)** — os gatos adoram e é 100% segura → [Ver sementes na Amazon](https://www.amazon.es/s?k=erva+gateira+sementes&tag=coisasparagat-21)
+- **Erva para gatos (aveia ou trigo germinado)** — excelente para a digestão → [Ver kit de erva para gatos na Amazon](https://www.amazon.es/s?k=erva+gatos+kit+cultivo&tag=coisasparagat-21)
+- **Areca (Dypsis lutescens)** — palmeira decorativa, totalmente segura
+- **Calathea** — muito decorativa e não tóxica
+- **Peperômia** — várias variedades, todas seguras
+- **Orquídea Phalaenopsis** — a orquídea comum de supermercado é segura
+- **Clorofito (planta-aranha)** — segura e praticamente indestrutível
+
+---
+
+## O que fazer se o gato comer uma planta tóxica
+
+**Age rápido — cada minuto conta.**
+
+1. **Identifica a planta** — tira uma foto
+2. **Liga para o CAMV (Centro de Atendimento Médico-Veterinário) mais próximo** de imediato
+3. **Não induzes o vómito** sem indicação veterinária — em algumas intoxicações pode piorar
+4. **Leva o gato ao veterinário** com a foto ou um pedaço da planta
+5. **VENIN (linha de intoxicações):** 808 250 143
+
+---
+
+## Como proteger o teu gato das plantas
+
+Se não quiseres abdicar das tuas plantas favoritas:
+
+- **Coloca-as em divisões inacessíveis** ao gato (quarto fechado, escritório)
+- **Vasos suspensos altos** — mas cuidado com folhas que caem
+- **Spray repelente natural** nas plantas → [Ver spray repelente para plantas na Amazon](https://www.amazon.es/s?k=spray+repelente+gato+plantas&tag=coisasparagat-21)
+- **Oferece alternativa** — kit de erva para gatos redireciona o instinto de mastigar
+
+---
+
+## Resumo rápido
+
+| Planta | Toxicidade | Ação |
+|---|---|---|
+| Lírio | Extrema — fatal | Remove imediatamente |
+| Pothos / Jiboia | Alta | Remove ou isola |
+| Aloe Vera | Moderada-Alta | Remove ou isola |
+| Diefenbáquia | Alta | Remove |
+| Orquídea comum | Segura | Pode ficar |
+| Calathea | Segura | Pode ficar |
+| Erva-gateira | Segura | Recomendada |
+
+---
+
+*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
+    `
+  }
 ];
 
 export default artigos;
