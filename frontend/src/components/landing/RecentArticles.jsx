@@ -1,40 +1,41 @@
 import { Clock, ArrowUpRight } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const ARTICLES = [
     {
-        id: "melhor-fonte-agua",
+        id: "melhor-fonte-agua-gatos",
         tag: "Guia de Compra",
         tagColor: "#FFE9D6",
         tagText: "#5C463A",
         title: "Melhor Fonte de Água para Gatos em Portugal (2026)",
         excerpt:
-            "Comparámos 12 modelos. Descubra qual a melhor para apartamento, casa com vários gatos e qual a mais silenciosa.",
+            "Comparámos 5 modelos. Descubra qual a melhor para apartamento, casa com vários gatos e qual a mais silenciosa.",
         image: "https://images.pexels.com/photos/5822458/pexels-photo-5822458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        readTime: "8 min",
-        category: "Alimentação",
+        readTime: "7 min",
+        category: "Saúde",
     },
     {
-        id: "areia-cheiro",
-        tag: "Problema → Solução",
+        id: "melhor-caixa-areia-gatos-apartamento",
+        tag: "Guia de Compra",
         tagColor: "#FFD6C2",
         tagText: "#5C463A",
-        title: "Como Acabar com o Cheiro da Areia (sem produtos químicos)",
+        title: "Melhor Caixa de Areia para Gatos em Apartamento (2026)",
         excerpt:
-            "Truques simples e produtos eficazes para manter a casa fresca, mesmo com 2 ou 3 gatos em casa.",
+            "Modelos fechados, automáticos e sem odor. Guia honesto para acabar com o cheiro em casa.",
         image: "https://images.unsplash.com/photo-1770751857462-4954bffba866?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODR8MHwxfHNlYXJjaHwxfHxjYXQlMjBwbGF5aW5nJTIwd2l0aCUyMHRveXxlbnwwfHx8fDE3Nzk4MDg1Mjd8MA&ixlib=rb-4.1.0&q=85",
-        readTime: "6 min",
+        readTime: "8 min",
         category: "Higiene",
     },
     {
-        id: "gato-bebe-pouca-agua",
+        id: "gato-nao-bebe-agua-o-que-fazer",
         tag: "Comportamento",
         tagColor: "#FFE9D6",
         tagText: "#5C463A",
-        title: "O Meu Gato Bebe Pouca Água — O Que Fazer?",
+        title: "O Meu Gato Não Bebe Água — O Que Fazer?",
         excerpt:
-            "Causas mais comuns, sinais de alerta e 5 soluções práticas que funcionam mesmo (incluindo as nossas favoritas).",
+            "Causas mais comuns, sinais de alerta e 5 soluções práticas que funcionam mesmo.",
         image: "https://images.pexels.com/photos/30001432/pexels-photo-30001432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        readTime: "5 min",
+        readTime: "6 min",
         category: "Saúde",
     },
 ];
@@ -62,20 +63,20 @@ export const RecentArticles = () => {
                             Guias e dicas que valem o seu tempo.
                         </h2>
                     </div>
-                    <a
-                        href="#blog"
+                    <Link
+                        to="/blog"
                         data-testid="view-all-articles-link"
                         className="text-[#FF8A6E] font-bold hover:underline self-start md:self-end whitespace-nowrap"
                     >
                         Ver todos os artigos →
-                    </a>
+                    </Link>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
                     {ARTICLES.map((article) => (
-                        <a
+                        <Link
                             key={article.id}
-                            href={`#${article.id}`}
+                            to={`/blog/${article.id}`}
                             data-testid={`article-card-${article.id}`}
                             className="bg-white rounded-3xl border border-[#F2E3D8] overflow-hidden flex flex-col group transition-all duration-300 hover:shadow-[0_20px_40px_rgb(92,70,58,0.12)] hover:-translate-y-1"
                         >
@@ -125,7 +126,7 @@ export const RecentArticles = () => {
                                     <ArrowUpRight className="w-4 h-4" />
                                 </div>
                             </div>
-                        </a>
+                        </Link>
                     ))}
                 </div>
             </div>
