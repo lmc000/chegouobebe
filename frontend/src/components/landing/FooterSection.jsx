@@ -1,16 +1,27 @@
 import { Cat, Instagram, Facebook, Youtube, Mail } from "lucide-react";
-
-const FOOTER_LINKS = {
-    Navegação: ["Início", "Categorias", "Top Produtos", "Blog"],
-    Categorias: ["Alimentação", "Higiene", "Conforto", "Diversão", "Viagens", "Saúde"],
-    Sobre: ["Quem somos", "Como avaliamos", "Contactos", "Política de Privacidade"],
-};
+import { Link } from "react-router-dom";
 
 const SOCIAL = [
     { icon: Instagram, label: "Instagram", href: "#" },
     { icon: Facebook, label: "Facebook", href: "#" },
     { icon: Youtube, label: "Youtube", href: "#" },
     { icon: Mail, label: "Email", href: "mailto:ola@coisasparagatos.pt" },
+];
+
+const NAV_LINKS = [
+    { label: "Início", href: "/" },
+    { label: "Categorias", href: "/#categorias" },
+    { label: "Top Produtos", href: "/#produtos" },
+    { label: "Blog", href: "/blog" },
+];
+
+const CAT_LINKS = [
+    { label: "Alimentação", href: "/blog?categoria=alimentacao" },
+    { label: "Higiene", href: "/blog?categoria=higiene" },
+    { label: "Conforto", href: "/blog?categoria=conforto" },
+    { label: "Diversão", href: "/blog?categoria=diversao" },
+    { label: "Viagens", href: "/blog?categoria=viagens" },
+    { label: "Saúde", href: "/blog?categoria=saude" },
 ];
 
 export const FooterSection = () => {
@@ -21,6 +32,7 @@ export const FooterSection = () => {
         >
             <div className="max-w-7xl mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-10 md:gap-12 pb-12 border-b border-[#FFE9D6]/15">
+
                     {/* Brand block */}
                     <div className="lg:col-span-2">
                         <div className="flex items-center gap-2 mb-4">
@@ -44,44 +56,69 @@ export const FooterSection = () => {
                                         key={s.label}
                                         href={s.href}
                                         aria-label={s.label}
-                                        data-testid={`social-${s.label.toLowerCase()}`}
                                         className="w-10 h-10 rounded-full bg-[#FFE9D6]/10 hover:bg-[#FF9F87] flex items-center justify-center transition-all hover:scale-110 hover:-translate-y-0.5"
                                     >
-                                        <Icon className="w-4 h-4 text-[#FFE9D6] group-hover:text-white" strokeWidth={2.25} />
+                                        <Icon className="w-4 h-4 text-[#FFE9D6]" strokeWidth={2.25} />
                                     </a>
                                 );
                             })}
                         </div>
                     </div>
 
-                    {/* Link columns */}
-                    {Object.entries(FOOTER_LINKS).map(([title, links]) => (
-                        <div key={title}>
-                            <h4 className="font-extrabold text-white mb-4 text-base">
-                                {title}
-                            </h4>
-                            <ul className="flex flex-col gap-3">
-                                {links.map((link) => (
-                                    <li key={link}>
-                                        <a
-                                            href="#"
-                                            data-testid={`footer-link-${link.toLowerCase().replace(/\s/g, "-")}`}
-                                            className="text-[#FFE9D6]/75 hover:text-[#FF9F87] text-sm font-medium transition-colors"
-                                        >
-                                            {link}
+                    {/* Navegação */}
+                    <div>
+                        <h4 className="font-extrabold text-white mb-4 text-base">Navegação</h4>
+                        <ul className="flex flex-col gap-3">
+                            {NAV_LINKS.map((link) => (
+                                <li key={link.label}>
+                                    {link.href.startsWith("/#") ? (
+                                        <a href={link.href}
+                                            className="text-[#FFE9D6]/75 hover:text-[#FF9F87] text-sm font-medium transition-colors">
+                                            {link.label}
                                         </a>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-                    ))}
+                                    ) : (
+                                        <Link to={link.href}
+                                            className="text-[#FFE9D6]/75 hover:text-[#FF9F87] text-sm font-medium transition-colors">
+                                            {link.label}
+                                        </Link>
+                                    )}
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+
+                    {/* Categorias */}
+                    <div>
+                        <h4 className="font-extrabold text-white mb-4 text-base">Categorias</h4>
+                        <ul className="flex flex-col gap-3">
+                            {CAT_LINKS.map((link) => (
+                                <li key={link.label}>
+                                    <Link to={link.href}
+                                        className="text-[#FFE9D6]/75 hover:text-[#FF9F87] text-sm font-medium transition-colors">
+                                        {link.label}
+                                    </Link>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
+
+                    {/* Legal */}
+                    <div>
+                        <h4 className="font-extrabold text-white mb-4 text-base">Legal</h4>
+                        <ul className="flex flex-col gap-3">
+                            <li>
+                                <Link to="/privacidade"
+                                    className="text-[#FFE9D6]/75 hover:text-[#FF9F87] text-sm font-medium transition-colors">
+                                    Política de Privacidade
+                                </Link>
+                            </li>
+                        </ul>
+                    </div>
+
                 </div>
 
                 {/* Affiliate disclaimer */}
-                <div
-                    data-testid="affiliate-disclaimer"
-                    className="py-8 border-b border-[#FFE9D6]/15"
-                >
+                <div className="py-8 border-b border-[#FFE9D6]/15">
                     <p className="text-[#FFE9D6]/55 text-xs leading-relaxed max-w-4xl">
                         <strong className="text-[#FFE9D6]/80">Aviso de afiliação:</strong>{" "}
                         A Coisas para Gatos participa no Programa de Afiliados
