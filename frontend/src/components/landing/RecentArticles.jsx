@@ -9,9 +9,9 @@ const CAT_LABELS = {
 };
 
 const ARTIGO_IMGS = {
-    "melhor-carrinho-bebe-portugal": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400&q=80",
-    "melhor-berco-bebe": "https://images.unsplash.com/photo-1631248055855-4b78c5d0f396?w=400&q=80",
-    "melhor-cadeira-auto-bebe": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
+    "melhor-carrinho-bebe-portugal": "/images/carrinho-bebe.jpg",
+    "melhor-berco-bebe": "/images/berco-bebe.jpg",
+    "melhor-cadeira-auto-bebe": "/images/cadeira-auto.jpg",
     "melhor-biberon-bebe": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
     "melhor-monitor-bebe": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
     "introducao-alimentar-bebe": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=400&q=80",
