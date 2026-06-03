@@ -1,192 +1,154 @@
-import { useParams, Link, Navigate } from "react-router-dom";
-import { Cat } from "lucide-react";
-import artigos from "@/data/artigos";
+import { useParams, Link } from "react-router-dom";
+import { ArrowLeft, Clock, Calendar, ExternalLink } from "lucide-react";
+import artigos from "../data/artigos";
+import Header from "@/components/landing/Header";
+import FooterSection from "@/components/landing/FooterSection";
 
-const categoriaCor = {
-  saude:       { bg: "#F0E8FF", cor: "#7A4FBF", label: "Saúde" },
-  higiene:     { bg: "#E0F0EE", cor: "#2D7D74", label: "Higiene" },
-  alimentacao: { bg: "#FFF0D6", cor: "#B07D2A", label: "Alimentação" },
-  conforto:    { bg: "#FDDDD1", cor: "#E8573A", label: "Conforto" },
-  viagens:     { bg: "#E8F4FD", cor: "#2870A8", label: "Viagens" },
+const CAT_LABELS = {
+    carrinho: "Carrinhos", sono: "Sono", alimentacao: "Alimentação",
+    higiene: "Higiene", seguranca: "Segurança", saude: "Saúde",
+    estimulacao: "Estimulação", gravidez: "Gravidez",
 };
 
-function formatarData(dataStr) {
-  return new Date(dataStr).toLocaleDateString("pt-PT", { day: "numeric", month: "long", year: "numeric" });
+function renderContent(text) {
+    const lines = text.trim().split("\n");
+    const elements = [];
+    let i = 0;
+    let key = 0;
+
+    while (i < lines.length) {
+        const line = lines[i];
+        if (line.trim() === "") { i++; continue; }
+        if (line.trim() === "---") {
+            elements.push(<hr key={key++} className="my-6 border-[#E8F5F3]" />);
+            i++; continue;
+        }
+        if (line.trim().startsWith("|")) {
+            const tableLines = [];
+            while (i < lines.length && lines[i].trim().startsWith("|")) {
+                tableLines.push(lines[i]); i++;
+            }
+            const headers = tableLines[0].split("|").filter(c => c.trim()).map(c => c.trim());
+            const rows = tableLines.slice(2).map(row => row.split("|").filter(c => c.trim()).map(c => c.trim()));
+            elements.push(
+                <div key={key++} className="overflow-x-auto my-6 rounded-2xl border border-[#E8F5F3]">
+                    <table className="w-full border-collapse text-sm">
+                        <thead><tr>{headers.map((h, j) => (
+                            <th key={j} className="px-4 py-3 text-left font-bold text-white text-sm" style={{ backgroundColor: "#2A9D8F" }}>{h}</th>
+                        ))}</tr></thead>
+                        <tbody>{rows.map((row, ri) => (
+                            <tr key={ri} className={ri % 2 === 0 ? "bg-white" : "bg-[#F5FAFA]"}>
+                                {row.map((cell, ci) => (
+                                    <td key={ci} className="px-4 py-3 text-sm text-[#3D6B65] border-b border-[#E8F5F3]">{cell}</td>
+                                ))}
+                            </tr>
+                        ))}</tbody>
+                    </table>
+                </div>
+            );
+            continue;
+        }
+        if (line.startsWith("### ")) {
+            elements.push(<h3 key={key++} className="text-xl font-bold text-[#1A3C38] mt-8 mb-3">{parseLine(line.slice(4))}</h3>);
+            i++; continue;
+        }
+        if (line.startsWith("## ")) {
+            elements.push(<h2 key={key++} className="text-2xl font-bold text-[#1A3C38] mt-10 mb-4 pb-2 border-b border-[#E8F5F3]">{parseLine(line.slice(3))}</h2>);
+            i++; continue;
+        }
+        if (line.startsWith("# ")) {
+            elements.push(<h1 key={key++} className="text-3xl font-extrabold text-[#1A3C38] mt-6 mb-4">{parseLine(line.slice(2))}</h1>);
+            i++; continue;
+        }
+        if (line.startsWith("- ")) {
+            const items = [];
+            while (i < lines.length && lines[i].startsWith("- ")) { items.push(lines[i].slice(2)); i++; }
+            elements.push(<ul key={key++} className="list-disc list-inside space-y-2 my-4 text-[#3D6B65]">
+                {items.map((item, j) => <li key={j} className="leading-relaxed">{parseLine(item)}</li>)}
+            </ul>);
+            continue;
+        }
+        if (/^\d+\./.test(line)) {
+            const items = [];
+            while (i < lines.length && /^\d+\./.test(lines[i])) { items.push(lines[i].replace(/^\d+\.\s*/, "")); i++; }
+            elements.push(<ol key={key++} className="list-decimal list-inside space-y-2 my-4 text-[#3D6B65]">
+                {items.map((item, j) => <li key={j} className="leading-relaxed">{parseLine(item)}</li>)}
+            </ol>);
+            continue;
+        }
+        elements.push(<p key={key++} className="text-[#3D6B65] leading-relaxed mb-4">{parseLine(line)}</p>);
+        i++;
+    }
+    return elements;
 }
 
-// Renderer simples de Markdown para HTML
-function renderMarkdown(texto) {
-  const linhas = texto.trim().split("\n");
-  const resultado = [];
-  let i = 0;
-  let tabelaBuffer = [];
-  let emTabela = false;
-
-  const processarInline = (texto) => {
-    return texto
-      .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
-      .replace(/\*(.*?)\*/g, "<em>$1</em>")
-      .replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g,
-        '<a href="$2" target="_blank" rel="noopener sponsored" style="display:inline-flex;align-items:center;gap:0.4rem;background:#FF9900;color:#111;padding:0.5rem 1.25rem;border-radius:50px;font-weight:700;font-size:0.9rem;text-decoration:none;margin:0.25rem 0;">🛒 $1</a>'
-      );
-  };
-
-  while (i < linhas.length) {
-    const linha = linhas[i];
-
-    // Tabela
-    if (linha.trim().startsWith("|")) {
-      if (!emTabela) emTabela = true;
-      tabelaBuffer.push(linha);
-      i++;
-      continue;
-    } else if (emTabela) {
-      // Renderizar tabela acumulada
-      const linhasTabela = tabelaBuffer.filter(l => !l.match(/^\|[-| ]+\|$/));
-      const cabecalho = linhasTabela[0]?.split("|").filter(c => c.trim()).map(c => `<th style="padding:0.6rem 1rem;text-align:left;background:#FDF8F2;font-family:Georgia,serif;">${c.trim()}</th>`).join("") || "";
-      const linhasCorpo = linhasTabela.slice(1).map(l => {
-        const celulas = l.split("|").filter(c => c.trim()).map(c => `<td style="padding:0.6rem 1rem;border-top:1px solid #EDE5DC;">${processarInline(c.trim())}</td>`).join("");
-        return `<tr>${celulas}</tr>`;
-      }).join("");
-      resultado.push(`<div style="overflow-x:auto;margin:1.5rem 0;"><table style="width:100%;border-collapse:collapse;border:1px solid #EDE5DC;border-radius:12px;overflow:hidden;"><thead><tr>${cabecalho}</tr></thead><tbody>${linhasCorpo}</tbody></table></div>`);
-      tabelaBuffer = [];
-      emTabela = false;
-      continue;
+function parseLine(text) {
+    const parts = [];
+    const regex = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|\*([^*]+)\*/g;
+    let lastIndex = 0;
+    let match;
+    let key = 0;
+    while ((match = regex.exec(text)) !== null) {
+        if (match.index > lastIndex) parts.push(text.slice(lastIndex, match.index));
+        if (match[1] && match[2]) {
+            parts.push(<a key={key++} href={match[2]} target="_blank" rel="noopener noreferrer"
+                className="text-[#2A9D8F] font-semibold hover:underline inline-flex items-center gap-1">
+                {match[1]} <ExternalLink className="w-3 h-3 inline" /></a>);
+        } else if (match[3]) {
+            parts.push(<strong key={key++} className="text-[#1A3C38] font-bold">{match[3]}</strong>);
+        } else if (match[4]) {
+            parts.push(<em key={key++} className="italic">{match[4]}</em>);
+        }
+        lastIndex = regex.lastIndex;
     }
-
-    // Separador
-    if (linha.trim() === "---") {
-      resultado.push(`<hr style="border:none;border-top:1px solid #EDE5DC;margin:2rem 0;" />`);
-    }
-    // H3
-    else if (linha.startsWith("### ")) {
-      resultado.push(`<h3 style="font-family:Georgia,serif;font-size:1.2rem;color:#2D7D74;margin:1.75rem 0 0.75rem;">${processarInline(linha.slice(4))}</h3>`);
-    }
-    // H2
-    else if (linha.startsWith("## ")) {
-      resultado.push(`<h2 style="font-family:Georgia,serif;font-size:1.5rem;color:#1E1A16;margin:2rem 0 1rem;">${processarInline(linha.slice(3))}</h2>`);
-    }
-    // H1
-    else if (linha.startsWith("# ")) {
-      resultado.push(`<h1 style="font-family:Georgia,serif;font-size:2rem;color:#1E1A16;margin:0 0 1rem;">${processarInline(linha.slice(2))}</h1>`);
-    }
-    // Lista
-    else if (linha.trim().startsWith("- ")) {
-      const itens = [linha.trim().slice(2)];
-      while (i + 1 < linhas.length && linhas[i + 1].trim().startsWith("- ")) {
-        i++;
-        itens.push(linhas[i].trim().slice(2));
-      }
-      const liHtml = itens.map(it => `<li style="margin-bottom:0.4rem;color:#5A4F45;">${processarInline(it)}</li>`).join("");
-      resultado.push(`<ul style="padding-left:1.5rem;margin:1rem 0;">${liHtml}</ul>`);
-    }
-    // Nota em itálico (linha que começa com *)
-    else if (linha.trim().startsWith("*Este artigo")) {
-      resultado.push(`<p style="font-size:0.8rem;color:#9A8F86;border-top:1px solid #EDE5DC;padding-top:1rem;margin-top:2rem;">${processarInline(linha.trim().replace(/^\*|\*$/g, ""))}</p>`);
-    }
-    // Parágrafo normal
-    else if (linha.trim() !== "") {
-      resultado.push(`<p style="color:#5A4F45;line-height:1.8;margin-bottom:1rem;">${processarInline(linha)}</p>`);
-    }
-
-    i++;
-  }
-
-  return resultado.join("\n");
+    if (lastIndex < text.length) parts.push(text.slice(lastIndex));
+    return parts.length === 0 ? text : parts;
 }
 
 export default function Artigo() {
-  const { slug } = useParams();
-  const artigo = artigos.find(a => a.slug === slug);
+    const { slug } = useParams();
+    const artigo = artigos.find((a) => a.slug === slug);
 
-  if (!artigo) return <Navigate to="/blog" replace />;
-
-  const cat = categoriaCor[artigo.categoria] || { bg: "#f5f5f5", cor: "#666", label: artigo.categoria };
-  const outrosArtigos = artigos.filter(a => a.slug !== slug).slice(0, 3);
-
-  return (
-    <div style={{ minHeight: "100vh", background: "#FDF8F2", fontFamily: "'DM Sans', sans-serif" }}>
-
-      {/* NAV — igual ao Header.jsx da landing */}
-      <header className="bg-[#FFFDF9]/85 backdrop-blur-xl border-b border-[#F2E3D8] shadow-[0_4px_20px_rgb(92,70,58,0.04)] sticky top-0 z-50">
-        <div className="px-6 md:px-12 lg:px-24 py-4 flex items-center justify-between">
-          <Link to="/" className="flex items-center gap-2 group">
-            <span className="w-10 h-10 rounded-full bg-[#FF9F87] flex items-center justify-center shadow-sm group-hover:scale-110 transition-transform">
-              <Cat className="w-5 h-5 text-white" strokeWidth={2.5} />
-            </span>
-            <span className="font-extrabold text-xl text-[#5C463A] tracking-tight">
-              Coisas para Gatos
-            </span>
-          </Link>
-          <Link to="/blog" className="text-[#5C463A] font-semibold hover:text-[#FF9F87] transition-colors text-sm">
-            ← Voltar ao Blog
-          </Link>
-        </div>
-      </header>
-
-      {/* CONTEÚDO */}
-      <div style={{ maxWidth: 760, margin: "0 auto", padding: "3rem 1.5rem" }}>
-
-        {/* Meta */}
-        <div style={{ display: "flex", alignItems: "center", gap: "0.75rem", marginBottom: "1.5rem", flexWrap: "wrap" }}>
-          <span style={{ background: cat.bg, color: cat.cor, padding: "0.25rem 0.75rem", borderRadius: 50, fontSize: "0.75rem", fontWeight: 600, textTransform: "uppercase" }}>
-            {cat.label}
-          </span>
-          <span style={{ fontSize: "0.82rem", color: "#9A8F86" }}>{formatarData(artigo.data)}</span>
-          <span style={{ fontSize: "0.82rem", color: "#9A8F86" }}>⏱ {artigo.tempoLeitura}</span>
-        </div>
-
-        {/* Título */}
-        <h1 style={{ fontFamily: "Georgia, serif", fontSize: "clamp(1.6rem, 4vw, 2.4rem)", color: "#1E1A16", lineHeight: 1.2, marginBottom: "1rem" }}>
-          {artigo.titulo}
-        </h1>
-
-        {/* Descrição */}
-        <p style={{ fontSize: "1.1rem", color: "#5A4F45", lineHeight: 1.7, marginBottom: "2.5rem", paddingBottom: "2rem", borderBottom: "1px solid #EDE5DC" }}>
-          {artigo.descricao}
-        </p>
-
-        {/* Corpo */}
-        <div dangerouslySetInnerHTML={{ __html: renderMarkdown(artigo.conteudo) }} />
-
-      </div>
-
-      {/* MAIS ARTIGOS */}
-      {outrosArtigos.length > 0 && (
-        <div style={{ background: "#FFFCF8", borderTop: "1px solid #EDE5DC", padding: "3rem 1.5rem" }}>
-          <div style={{ maxWidth: 1140, margin: "0 auto" }}>
-            <h2 style={{ fontFamily: "Georgia, serif", fontSize: "1.4rem", color: "#1E1A16", marginBottom: "1.5rem" }}>
-              Mais artigos 🐾
-            </h2>
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: "1.25rem" }}>
-              {outrosArtigos.map(a => {
-                const c = categoriaCor[a.categoria] || { bg: "#f5f5f5", cor: "#666", label: a.categoria };
-                return (
-                  <Link key={a.slug} to={`/blog/${a.slug}`} style={{ textDecoration: "none" }}>
-                    <div style={{ background: "white", borderRadius: 12, border: "1px solid #EDE5DC", padding: "1.25rem", transition: "transform 0.2s" }}
-                      onMouseEnter={e => e.currentTarget.style.transform = "translateY(-3px)"}
-                      onMouseLeave={e => e.currentTarget.style.transform = ""}
-                    >
-                      <span style={{ background: c.bg, color: c.cor, padding: "0.2rem 0.6rem", borderRadius: 50, fontSize: "0.7rem", fontWeight: 600, textTransform: "uppercase" }}>
-                        {c.label}
-                      </span>
-                      <h3 style={{ fontFamily: "Georgia, serif", fontSize: "0.95rem", color: "#1E1A16", margin: "0.75rem 0 0.5rem", lineHeight: 1.3 }}>
-                        {a.titulo}
-                      </h3>
-                      <span style={{ fontSize: "0.82rem", color: "#2D7D74", fontWeight: 600 }}>Ler →</span>
-                    </div>
-                  </Link>
-                );
-              })}
+    if (!artigo) {
+        return (
+            <div className="min-h-screen bg-[#F5FAFA] flex flex-col">
+                <Header />
+                <main className="flex-1 flex items-center justify-center flex-col gap-4 text-[#3D6B65] pt-28">
+                    <p className="text-5xl">👶</p>
+                    <p className="text-xl font-bold text-[#1A3C38]">Artigo não encontrado</p>
+                    <Link to="/blog" className="text-[#2A9D8F] font-semibold hover:underline">← Voltar ao blog</Link>
+                </main>
+                <FooterSection />
             </div>
-          </div>
-        </div>
-      )}
+        );
+    }
 
-      {/* FOOTER */}
-      <footer style={{ background: "#1E1A16", color: "rgba(255,255,255,0.5)", textAlign: "center", padding: "2rem 1.5rem", fontSize: "0.82rem" }}>
-        <p>© {new Date().getFullYear()} CoisasParaGatos.pt · Participante no programa Amazon Associates.</p>
-      </footer>
-    </div>
-  );
+    return (
+        <div className="min-h-screen bg-[#F5FAFA]">
+            <Header />
+            <main className="pt-28 pb-20 px-6 md:px-12 lg:px-24">
+                <div className="max-w-3xl mx-auto">
+                    <Link to="/blog" className="inline-flex items-center gap-2 text-[#2A9D8F] font-semibold mb-8 hover:underline">
+                        <ArrowLeft className="w-4 h-4" /> Voltar ao blog
+                    </Link>
+                    <div className="mb-8">
+                        <span className="bg-[#E8F5F3] text-[#2A9D8F] text-xs font-bold px-3 py-1 rounded-full capitalize mb-4 inline-block">
+                            {CAT_LABELS[artigo.categoria] || artigo.categoria}
+                        </span>
+                        <h1 className="text-3xl sm:text-4xl font-extrabold text-[#1A3C38] leading-tight mb-4">{artigo.titulo}</h1>
+                        <p className="text-[#3D6B65] text-lg mb-4">{artigo.descricao}</p>
+                        <div className="flex items-center gap-4 text-[#3D6B65] text-sm">
+                            <span className="flex items-center gap-1"><Clock className="w-4 h-4" /> {artigo.tempoLeitura}</span>
+                            <span className="flex items-center gap-1"><Calendar className="w-4 h-4" /> {artigo.data}</span>
+                        </div>
+                    </div>
+                    <div className="prose max-w-none">{renderContent(artigo.conteudo)}</div>
+                    <div className="mt-12 p-6 bg-[#E8F5F3] rounded-3xl text-sm text-[#3D6B65]">
+                        <strong className="text-[#1A3C38]">Sobre os nossos links:</strong> Este site contém links de afiliado Amazon Associates. Recebemos uma pequena comissão se comprares através destes links, sem custo adicional para ti.
+                    </div>
+                </div>
+            </main>
+            <FooterSection />
+        </div>
+    );
 }
