@@ -13,7 +13,7 @@ const PRODUTOS = [
         tagColor: "#2A9D8F",
         url: "https://www.amazon.es/s?k=bugaboo+fox+5&tag=bebefefeliz-21",
         slug: "melhor-carrinho-bebe-portugal",
-        img: "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400&q=80",
+        img: "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=400&q=80",
     },
     {
         nome: "Chicco Next2Me Forever",
@@ -26,7 +26,7 @@ const PRODUTOS = [
         tagColor: "#52B788",
         url: "https://www.amazon.es/s?k=chicco+next2me+forever&tag=bebefefeliz-21",
         slug: "melhor-berco-bebe",
-        img: "https://images.unsplash.com/photo-1631248055855-4b78c5d0f396?w=400&q=80",
+        img: "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=400&q=80",
     },
     {
         nome: "Maxi-Cosi Pebble 360",
@@ -39,7 +39,7 @@ const PRODUTOS = [
         tagColor: "#E76F51",
         url: "https://www.amazon.es/s?k=maxi+cosi+pebble+360&tag=bebefefeliz-21",
         slug: "melhor-cadeira-auto-bebe",
-        img: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
+        img: "https://images.unsplash.com/photo-1519340333755-56e9c1d04579?w=400&q=80",
     },
     {
         nome: "Philips Avent Natural",
@@ -52,7 +52,7 @@ const PRODUTOS = [
         tagColor: "#F4A261",
         url: "https://www.amazon.es/s?k=philips+avent+natural+biberon&tag=bebefefeliz-21",
         slug: "melhor-biberon-bebe",
-        img: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
+        img: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
     },
 ];
 
