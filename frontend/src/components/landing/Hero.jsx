@@ -1,131 +1,77 @@
-import { ArrowRight, Star, Heart } from "lucide-react";
+import { ArrowRight, Star, Shield, BookOpen } from "lucide-react";
+import { Link } from "react-router-dom";
 
 export const Hero = () => {
     return (
-        <section
-            id="inicio"
-            data-testid="hero-section"
-            className="relative pt-32 pb-20 md:pt-40 md:pb-28 px-6 md:px-12 lg:px-24 overflow-hidden"
-        >
-            {/* Decorative blobs */}
-            <div className="absolute -top-20 -left-20 w-80 h-80 bg-[#FFE9D6] rounded-full blur-3xl opacity-60 -z-0" />
-            <div className="absolute top-40 -right-20 w-96 h-96 bg-[#FFC4A3] rounded-full blur-3xl opacity-40 -z-0" />
+        <section className="relative min-h-screen flex items-center px-6 md:px-12 lg:px-24 pt-24 pb-16 overflow-hidden"
+            style={{ background: "linear-gradient(135deg, #F0FAF8 0%, #E8F5F3 50%, #F5FAFA 100%)" }}>
+            <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                <div className="absolute top-20 right-10 w-72 h-72 rounded-full opacity-20 blur-3xl" style={{ background: "#2A9D8F" }} />
+                <div className="absolute bottom-20 left-10 w-96 h-96 rounded-full opacity-10 blur-3xl" style={{ background: "#52B788" }} />
+            </div>
 
-            {/* Floating paw prints */}
-            <div className="absolute top-32 right-10 text-[#FFC4A3] text-3xl animate-float-paw select-none">🐾</div>
-            <div className="absolute top-1/2 left-8 text-[#FFC4A3] text-2xl animate-float-paw-alt select-none hidden md:block">🐾</div>
-
-            <div className="relative grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center max-w-7xl mx-auto">
-                {/* Left column */}
-                <div className="flex flex-col gap-7 fade-up">
-                    <div
-                        data-testid="hero-badge"
-                        className="inline-flex items-center gap-2 bg-white border border-[#F2E3D8] rounded-full px-4 py-2 self-start shadow-sm"
-                    >
-                        <span className="flex">
-                            {[...Array(5)].map((_, i) => (
-                                <Star key={i} className="w-4 h-4 fill-[#F9A826] text-[#F9A826]" />
-                            ))}
+            <div className="max-w-7xl mx-auto w-full relative z-10">
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                    <div>
+                        <span className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-[#C8E8E4] text-[#2A9D8F] text-sm font-bold px-4 py-2 rounded-full mb-6 shadow-sm">
+                            👶 Guias honestos para pais em Portugal
                         </span>
-                        <span className="text-sm font-semibold text-[#5C463A]">
-                            Recomendado por +12.000 donos de gatos
-                        </span>
-                    </div>
-
-                    <h1
-                        data-testid="hero-title"
-                        className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-black tracking-tight text-[#5C463A] leading-[1.05]"
-                    >
-                        O melhor para o seu{" "}
-                        <span className="relative inline-block">
-                            <span className="relative z-10">amigo</span>
-                            <span className="absolute bottom-2 left-0 w-full h-3 bg-[#FFC4A3] -z-0 rounded-full"></span>
-                        </span>{" "}
-                        de quatro patas. 🐱
-                    </h1>
-
-                    <p
-                        data-testid="hero-subtitle"
-                        className="text-lg md:text-xl text-[#8C776D] leading-relaxed max-w-xl"
-                    >
-                        Análises honestas, guias práticos e os produtos mais bem
-                        avaliados para gatos em Portugal. Tudo testado, tudo
-                        explicado — para o seu felino viver feliz.
-                    </p>
-
-                    <div className="flex flex-col sm:flex-row gap-4 mt-2">
-                        <a
-                            href="#categorias"
-                            data-testid="hero-cta-button"
-                            className="group bg-[#FF9F87] hover:bg-[#FF8A6E] text-white rounded-full px-8 py-4 font-bold text-base transition-all duration-300 shadow-md hover:shadow-xl hover:-translate-y-0.5 inline-flex items-center justify-center gap-2"
-                        >
-                            Explorar Categorias
-                            <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-                        </a>
-                        <a
-                            href="#produtos"
-                            data-testid="hero-secondary-cta"
-                            className="bg-[#FFE9D6] hover:bg-[#F2DCC9] text-[#5C463A] rounded-full px-8 py-4 font-bold text-base transition-all duration-300 inline-flex items-center justify-center gap-2"
-                        >
-                            <Heart className="w-5 h-5 fill-[#FF9F87] text-[#FF9F87]" />
-                            Top Produtos
-                        </a>
-                    </div>
-
-                    {/* Trust row */}
-                    <div className="flex flex-wrap items-center gap-x-8 gap-y-3 mt-6 text-sm text-[#8C776D] font-semibold">
-                        <span className="flex items-center gap-2">
-                            <span className="w-2 h-2 rounded-full bg-[#85C296]"></span>
-                            Análises imparciais
-                        </span>
-                        <span className="flex items-center gap-2">
-                            <span className="w-2 h-2 rounded-full bg-[#85C296]"></span>
-                            Preços em €
-                        </span>
-                        <span className="flex items-center gap-2">
-                            <span className="w-2 h-2 rounded-full bg-[#85C296]"></span>
-                            Envio para Portugal
-                        </span>
-                    </div>
-                </div>
-
-                {/* Right column - image */}
-                <div className="relative fade-up">
-                    <div className="relative">
-                        <div className="absolute -inset-4 bg-gradient-to-tr from-[#FFE9D6] to-[#FFC4A3] rounded-[48px] rotate-3"></div>
-                        <img
-                            data-testid="hero-image"
-                            src="https://images.pexels.com/photos/30001432/pexels-photo-30001432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-                            alt="Gato laranja fofo deitado no tapete"
-                            className="relative rounded-[40px] w-full h-[420px] md:h-[520px] object-cover shadow-[0_20px_60px_rgb(92,70,58,0.15)]"
-                            loading="eager"
-                        />
-
-                        {/* Floating card 1 */}
-                        <div
-                            data-testid="hero-floating-card-1"
-                            className="absolute -left-4 md:-left-8 top-12 bg-white rounded-3xl p-4 shadow-[0_12px_40px_rgb(92,70,58,0.12)] border border-[#F2E3D8] flex items-center gap-3 max-w-[200px]"
-                        >
-                            <div className="w-12 h-12 rounded-2xl bg-[#FFE9D6] flex items-center justify-center text-2xl">
-                                🐟
+                        <h1 className="text-4xl sm:text-5xl lg:text-[3.25rem] font-extrabold tracking-tight text-[#1A3C38] mb-10" style={{ lineHeight: "1.3" }}>
+                            O melhor para o seu{" "}
+                            <span style={{ color: "#2A9D8F" }}>bebé feliz.</span>{" "}🍀
+                        </h1>
+                        <p className="text-[#3D6B65] text-lg leading-relaxed mb-8 max-w-lg">
+                            Comparações honestas de produtos, guias de desenvolvimento e reviews sem publicidade para pais em Portugal. Porque cada decisão importa.
+                        </p>
+                        <div className="flex flex-wrap gap-4">
+                            <a href="#categorias"
+                                className="inline-flex items-center gap-2 text-white rounded-full px-7 py-4 font-bold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5"
+                                style={{ background: "linear-gradient(135deg, #2A9D8F, #1B6B62)" }}>
+                                Explorar Categorias <ArrowRight className="w-4 h-4" />
+                            </a>
+                            <a href="#produtos"
+                                className="inline-flex items-center gap-2 bg-white border border-[#C8E8E4] text-[#1A3C38] rounded-full px-7 py-4 font-bold transition-all hover:border-[#2A9D8F] hover:shadow-md">
+                                ❤️ Top Produtos
+                            </a>
+                        </div>
+                        <div className="flex flex-wrap items-center gap-6 mt-8 pt-8 border-t border-[#C8E8E4]">
+                            <div className="flex items-center gap-2">
+                                <div className="flex">{[...Array(5)].map((_, i) => <Star key={i} className="w-4 h-4 fill-[#F9A826] text-[#F9A826]" />)}</div>
+                                <span className="text-[#3D6B65] text-sm font-medium">Recomendado por +8.000 pais</span>
                             </div>
-                            <div>
-                                <div className="text-xs text-[#8C776D] font-semibold">Mais vendido</div>
-                                <div className="text-sm font-bold text-[#5C463A]">Fonte de Água</div>
+                            <div className="flex items-center gap-2 text-[#3D6B65] text-sm font-medium">
+                                <Shield className="w-4 h-4 text-[#2A9D8F]" /> Reviews imparciais
+                            </div>
+                            <div className="flex items-center gap-2 text-[#3D6B65] text-sm font-medium">
+                                <BookOpen className="w-4 h-4 text-[#2A9D8F]" /> Preços em €
                             </div>
                         </div>
+                    </div>
 
-                        {/* Floating card 2 */}
-                        <div
-                            data-testid="hero-floating-card-2"
-                            className="absolute -right-4 md:-right-6 bottom-12 bg-white rounded-3xl p-4 shadow-[0_12px_40px_rgb(92,70,58,0.12)] border border-[#F2E3D8]"
-                        >
-                            <div className="flex items-center gap-2 mb-1">
-                                {[...Array(5)].map((_, i) => (
-                                    <Star key={i} className="w-3.5 h-3.5 fill-[#F9A826] text-[#F9A826]" />
-                                ))}
+                    {/* Imagem hero */}
+                    <div className="hidden lg:flex justify-center relative">
+                        <div className="relative w-full max-w-lg">
+                            <div className="absolute inset-0 rounded-3xl blur-2xl opacity-20 scale-95" style={{ background: "#2A9D8F" }} />
+                            <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white" style={{ aspectRatio: "4/3" }}>
+                                <img
+                                    src="https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=600&q=80"
+                                    alt="Bebé feliz"
+                                    className="w-full h-full object-cover"
+                                />
                             </div>
-                            <div className="text-xs text-[#8C776D] font-semibold">4.9/5 — 2.348 reviews</div>
+                            <div className="absolute -bottom-4 -left-4 bg-white rounded-2xl shadow-xl px-4 py-3 flex items-center gap-3 border border-[#E8F5F3]">
+                                <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: "#E8F5F3" }}>
+                                    🛒
+                                </div>
+                                <div>
+                                    <p className="text-xs text-[#3D6B65] font-medium">Mais vendido</p>
+                                    <p className="text-sm font-bold text-[#1A3C38]">Carrinho Bugaboo</p>
+                                </div>
+                            </div>
+                            <div className="absolute -top-4 -right-4 bg-white rounded-2xl shadow-xl px-4 py-3 border border-[#E8F5F3]">
+                                <div className="flex gap-0.5 mb-1">{[...Array(5)].map((_, i) => <Star key={i} className="w-3.5 h-3.5 fill-[#F9A826] text-[#F9A826]" />)}</div>
+                                <p className="text-xs font-bold text-[#1A3C38]">4.9/5 — 1.847 reviews</p>
+                            </div>
                         </div>
                     </div>
                 </div>
