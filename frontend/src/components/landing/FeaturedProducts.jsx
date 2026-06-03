@@ -1,170 +1,117 @@
-import { Star, ExternalLink, Trophy, BookOpen } from "lucide-react";
+import { Star, ExternalLink, ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 
-const PRODUCTS = [
+const PRODUTOS = [
     {
-        id: "fonte-agua-catit",
-        name: "Petkit Eversweet 3 Pro — Fonte de Água",
-        tag: "Mais Vendido",
-        tagColor: "#F9A826",
-        rating: 4.5,
-        reviews: 2348,
-        price: "a partir de ~50€",
-        oldPrice: null,
-        image: "https://images.pexels.com/photos/5822458/pexels-photo-5822458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        pitch: "Silenciosa, em inox e com sensor automático. A melhor fonte para gatos em Portugal.",
-        category: "Alimentação",
-        amazonUrl: "https://www.amazon.es/s?k=petkit+eversweet+3+pro&tag=coisasparagat-21",
-        artigoSlug: "melhor-fonte-agua-gatos",
+        nome: "Bugaboo Fox 5",
+        categoria: "Carrinho",
+        preco: "~1.200€",
+        estrelas: 4.9,
+        reviews: 1847,
+        descricao: "O carrinho mais versátil do mercado. Sistema modular, suspensão premium, adapta-se a qualquer terreno. O favorito dos pais portugueses.",
+        tag: "Mais vendido",
+        tagColor: "#2A9D8F",
+        url: "https://www.amazon.es/s?k=bugaboo+fox+5&tag=bebefefeliz-21",
+        slug: "melhor-carrinho-bebe-portugal",
+        img: "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400&q=80",
     },
     {
-        id: "areia-tofu-pidan",
-        name: "Pidan Areia de Tofu Biodegradável 6L",
-        tag: "Eco-Friendly",
-        tagColor: "#85C296",
-        rating: 4.5,
-        reviews: 1872,
-        price: "a partir de ~20€",
-        oldPrice: null,
-        image: "https://images.unsplash.com/photo-1770751857462-4954bffba866?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODR8MHwxfHNlYXJjaHwxfHxjYXQlMjBwbGF5aW5nJTIwd2l0aCUyMHRveXxlbnwwfHx8fDE3Nzk4MDg1Mjd8MA&ixlib=rb-4.1.0&q=85",
-        pitch: "Aglomerante, sem cheiro e descarga direta na sanita. Ideal para apartamento.",
-        category: "Higiene",
-        amazonUrl: "https://www.amazon.es/s?k=pidan+areia+tofu&tag=coisasparagat-21",
-        artigoSlug: "melhor-caixa-areia-gatos-apartamento",
+        nome: "Chicco Next2Me Forever",
+        categoria: "Sono",
+        preco: "~350€",
+        estrelas: 4.8,
+        reviews: 2341,
+        descricao: "Co-sleeping seguro junto à cama dos pais. Converte em berço independente e cama de criança. Acompanha o bebé até aos 5 anos.",
+        tag: "Recomendamos",
+        tagColor: "#52B788",
+        url: "https://www.amazon.es/s?k=chicco+next2me+forever&tag=bebefefeliz-21",
+        slug: "melhor-berco-bebe",
+        img: "https://images.unsplash.com/photo-1631248055855-4b78c5d0f396?w=400&q=80",
     },
     {
-        id: "arranhador-feandrea",
-        name: "Feandrea Árvore com Arranhador XXL",
-        tag: "Recomendado",
-        tagColor: "#FF9F87",
-        rating: 4.7,
-        reviews: 956,
-        price: "a partir de ~45€",
-        oldPrice: null,
-        image: "https://images.pexels.com/photos/32960962/pexels-photo-32960962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        pitch: "Sisal robusto, plataformas e brinquedo incluído. Ideal para gatos de interior.",
-        category: "Conforto",
-        amazonUrl: "https://www.amazon.es/s?k=feandrea+arvore+gato+arranhador&tag=coisasparagat-21",
-        artigoSlug: "melhor-arranhador-gatos",
+        nome: "Maxi-Cosi Pebble 360",
+        categoria: "Segurança",
+        preco: "~450€",
+        estrelas: 4.9,
+        reviews: 1203,
+        descricao: "Cadeira auto rotativa para recém-nascidos. Rotação 360° facilita entrada e saída. Aprovada i-Size, a mais segura do mercado.",
+        tag: "Top Segurança",
+        tagColor: "#E76F51",
+        url: "https://www.amazon.es/s?k=maxi+cosi+pebble+360&tag=bebefefeliz-21",
+        slug: "melhor-cadeira-auto-bebe",
+        img: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
     },
     {
-        id: "racao-proplan",
-        name: "Purina Pro Plan Adult — Ração para Gato",
-        tag: "Top Qualidade-Preço",
-        tagColor: "#5C463A",
-        rating: 4.6,
-        reviews: 1204,
-        price: "a partir de ~28€",
-        oldPrice: null,
-        image: "https://images.pexels.com/photos/30001432/pexels-photo-30001432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        pitch: "Frango como primeiro ingrediente, alto teor de proteína. A nossa recomendação padrão.",
-        category: "Alimentação",
-        amazonUrl: "https://www.amazon.es/s?k=purina+pro+plan+adult+cat&tag=coisasparagat-21",
-        artigoSlug: "melhor-racao-gato-adulto-portugal",
+        nome: "Philips Avent Natural",
+        categoria: "Alimentação",
+        preco: "~25€",
+        estrelas: 4.7,
+        reviews: 4521,
+        descricao: "O biberão mais recomendado por pediatras. Design anti-cólicas, tetina que imita o seio materno. Facilita a combinação amamentação/biberão.",
+        tag: "Mais popular",
+        tagColor: "#F4A261",
+        url: "https://www.amazon.es/s?k=philips+avent+natural+biberon&tag=bebefefeliz-21",
+        slug: "melhor-biberon-bebe",
+        img: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
     },
 ];
 
 export const FeaturedProducts = () => {
     return (
-        <section
-            id="produtos"
-            data-testid="featured-products-section"
-            className="relative px-6 md:px-12 lg:px-24 py-20 md:py-28 bg-gradient-to-b from-[#FFFDF9] to-[#FFF5EC]"
-        >
+        <section id="produtos" className="px-6 md:px-12 lg:px-24 py-20 md:py-28"
+            style={{ background: "linear-gradient(180deg, #F5FAFA 0%, #EDF7F5 100%)" }}>
             <div className="max-w-7xl mx-auto">
-                <div className="flex flex-col md:flex-row md:items-end md:justify-between mb-12 gap-6">
-                    <div className="max-w-2xl">
-                        <span className="inline-flex items-center gap-2 bg-[#FFE9D6] text-[#5C463A] text-sm font-bold px-4 py-1.5 rounded-full mb-4">
-                            <Trophy className="w-4 h-4" /> Os favoritos do mês
+                <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
+                    <div>
+                        <span className="inline-block bg-[#E8F5F3] text-[#2A9D8F] text-sm font-bold px-4 py-1.5 rounded-full mb-4">
+                            ⭐ Os favoritos dos pais
                         </span>
-                        <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-[#5C463A] leading-tight">
-                            Os Favoritos dos Felinos 🐱
+                        <h2 className="text-3xl sm:text-4xl font-extrabold text-[#1A3C38] tracking-tight">
+                            Os Favoritos dos Bebés 👶
                         </h2>
-                        <p className="text-[#8C776D] text-base md:text-lg mt-3 max-w-xl">
-                            Os 4 produtos mais recomendados — testados, comparados e aprovados pelos nossos leitores.
-                        </p>
+                        <p className="text-[#3D6B65] mt-2">Os 4 produtos mais recomendados — testados e aprovados por pais portugueses.</p>
                     </div>
-                    <Link to="/blog" className="text-[#FF8A6E] font-bold hover:underline self-start md:self-end whitespace-nowrap">
-                        Ver todos os guias →
+                    <Link to="/blog" className="flex items-center gap-2 text-[#2A9D8F] font-bold hover:underline whitespace-nowrap">
+                        Ver todos os guias <ArrowRight className="w-4 h-4" />
                     </Link>
                 </div>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-8">
-                    {PRODUCTS.map((product) => (
-                        <article
-                            key={product.id}
-                            className="bg-white rounded-3xl border border-[#F2E3D8] p-4 flex flex-col gap-4 transition-all duration-300 hover:shadow-[0_20px_40px_rgb(92,70,58,0.12)] hover:-translate-y-1 group"
-                        >
-                            <div className="relative overflow-hidden rounded-2xl bg-[#FFE9D6]">
-                                <img
-                                    src={product.image}
-                                    alt={product.name}
-                                    className="w-full h-48 object-cover group-hover:scale-105 transition-transform duration-500"
-                                    loading="lazy"
-                                />
-                                <span
-                                    className="absolute top-3 left-3 text-white text-xs font-bold px-3 py-1 rounded-full shadow-sm"
-                                    style={{ backgroundColor: product.tagColor }}
-                                >
-                                    {product.tag}
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                    {PRODUTOS.map((prod, i) => (
+                        <div key={i} className="bg-white rounded-3xl border border-[#E8F5F3] overflow-hidden flex flex-col shadow-sm hover:shadow-lg transition-all hover:-translate-y-1">
+                            <div className="relative h-48 overflow-hidden">
+                                <img src={prod.img} alt={prod.nome} className="w-full h-full object-cover" />
+                                <span className="absolute top-3 left-3 text-xs font-bold px-3 py-1 rounded-full text-white shadow-sm"
+                                    style={{ backgroundColor: prod.tagColor }}>
+                                    {prod.tag}
                                 </span>
                             </div>
-
-                            <div className="flex flex-col gap-3 flex-1">
-                                <span className="text-xs font-bold text-[#FF8A6E] uppercase tracking-wider">
-                                    {product.category}
-                                </span>
-                                <h3 className="font-extrabold text-[#5C463A] text-lg leading-tight line-clamp-2">
-                                    {product.name}
-                                </h3>
-                                <p className="text-sm text-[#8C776D] leading-relaxed line-clamp-2">
-                                    {product.pitch}
-                                </p>
-
-                                <div className="flex items-center gap-2 mt-auto">
-                                    <span className="flex items-center">
-                                        {[...Array(5)].map((_, i) => (
-                                            <Star
-                                                key={i}
-                                                className={`w-4 h-4 ${i < Math.floor(product.rating) ? "fill-[#F9A826] text-[#F9A826]" : "text-[#F2E3D8]"}`}
-                                            />
-                                        ))}
-                                    </span>
-                                    <span className="text-xs font-bold text-[#5C463A]">{product.rating}</span>
-                                    <span className="text-xs text-[#8C776D]">({product.reviews.toLocaleString("pt-PT")})</span>
+                            <div className="p-5 flex flex-col gap-3 flex-1">
+                                <span className="text-xs text-[#2A9D8F] font-bold uppercase tracking-wide">{prod.categoria}</span>
+                                <h3 className="font-extrabold text-[#1A3C38] text-base leading-tight">{prod.nome}</h3>
+                                <div className="flex items-center gap-1">
+                                    {[...Array(5)].map((_, j) => (
+                                        <Star key={j} className={`w-3.5 h-3.5 ${j < Math.floor(prod.estrelas) ? "fill-[#F9A826] text-[#F9A826]" : "text-gray-200"}`} />
+                                    ))}
+                                    <span className="text-xs text-[#3D6B65] ml-1">{prod.estrelas} ({prod.reviews})</span>
                                 </div>
-
-                                <div className="flex items-baseline gap-2">
-                                    <span className="text-lg font-black text-[#5C463A]">
-                                        {product.price}
-                                    </span>
+                                <p className="text-[#3D6B65] text-sm leading-relaxed line-clamp-2">{prod.descricao}</p>
+                                <div className="mt-auto pt-2 space-y-2">
+                                    <p className="font-black text-[#1A3C38] text-lg">a partir de {prod.preco}</p>
+                                    <a href={prod.url} target="_blank" rel="noopener noreferrer"
+                                        className="flex items-center justify-center gap-2 w-full py-3 rounded-2xl font-bold text-sm text-white transition-all hover:opacity-90"
+                                        style={{ background: "linear-gradient(135deg, #2A9D8F, #1B6B62)" }}>
+                                        Ver na Amazon <ExternalLink className="w-3.5 h-3.5" />
+                                    </a>
+                                    <Link to={`/blog/${prod.slug}`}
+                                        className="flex items-center justify-center gap-2 w-full py-2.5 rounded-2xl font-semibold text-sm text-[#2A9D8F] border border-[#C8E8E4] hover:bg-[#E8F5F3] transition-colors">
+                                        📖 Ler review completa
+                                    </Link>
                                 </div>
-
-                                <a
-                                    href={product.amazonUrl}
-                                    target="_blank"
-                                    rel="nofollow sponsored noopener"
-                                    className="bg-[#F9A826] hover:bg-[#F29A15] text-white rounded-full px-4 py-3 font-bold text-sm transition-all duration-300 shadow-sm hover:shadow-md flex items-center justify-center gap-2 mt-1"
-                                >
-                                    Ver na Amazon
-                                    <ExternalLink className="w-4 h-4" />
-                                </a>
-
-                                <Link
-                                    to={`/blog/${product.artigoSlug}`}
-                                    className="text-[#FF8A6E] hover:text-[#FF6B4A] font-semibold text-xs flex items-center justify-center gap-1 transition-colors"
-                                >
-                                    <BookOpen className="w-3.5 h-3.5" />
-                                    Ler review completa
-                                </Link>
                             </div>
-                        </article>
+                        </div>
                     ))}
                 </div>
-
-                <p className="text-center text-xs text-[#8C776D] mt-10">
-                    Os preços são indicativos e podem variar. Os links "Ver na Amazon" são links de afiliado — se comprares, recebemos uma pequena comissão sem custo extra para ti.
-                </p>
             </div>
         </section>
     );
