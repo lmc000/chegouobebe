@@ -1,130 +1,79 @@
-import { Clock, ArrowUpRight } from "lucide-react";
+import { ArrowRight, Clock } from "lucide-react";
 import { Link } from "react-router-dom";
+import artigos from "../../data/artigos";
 
-const ARTICLES = [
-    {
-        id: "melhor-fonte-agua-gatos",
-        tag: "Guia de Compra",
-        tagColor: "#FFE9D6",
-        tagText: "#5C463A",
-        title: "Melhor Fonte de Água para Gatos em Portugal (2026)",
-        excerpt:
-            "Comparámos 5 modelos. Descubra qual a melhor para apartamento, casa com vários gatos e qual a mais silenciosa.",
-        image: "https://images.pexels.com/photos/5822458/pexels-photo-5822458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        readTime: "7 min",
-        category: "Saúde",
-    },
-    {
-        id: "melhor-caixa-areia-gatos-apartamento",
-        tag: "Guia de Compra",
-        tagColor: "#FFD6C2",
-        tagText: "#5C463A",
-        title: "Melhor Caixa de Areia para Gatos em Apartamento (2026)",
-        excerpt:
-            "Modelos fechados, automáticos e sem odor. Guia honesto para acabar com o cheiro em casa.",
-        image: "https://images.unsplash.com/photo-1770751857462-4954bffba866?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1ODR8MHwxfHNlYXJjaHwxfHxjYXQlMjBwbGF5aW5nJTIwd2l0aCUyMHRveXxlbnwwfHx8fDE3Nzk4MDg1Mjd8MA&ixlib=rb-4.1.0&q=85",
-        readTime: "8 min",
-        category: "Higiene",
-    },
-    {
-        id: "gato-nao-bebe-agua-o-que-fazer",
-        tag: "Comportamento",
-        tagColor: "#FFE9D6",
-        tagText: "#5C463A",
-        title: "O Meu Gato Não Bebe Água — O Que Fazer?",
-        excerpt:
-            "Causas mais comuns, sinais de alerta e 5 soluções práticas que funcionam mesmo.",
-        image: "https://images.pexels.com/photos/30001432/pexels-photo-30001432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        readTime: "6 min",
-        category: "Saúde",
-    },
-];
+const CAT_LABELS = {
+    carrinho: "Carrinhos", sono: "Sono", alimentacao: "Alimentação",
+    higiene: "Higiene", seguranca: "Segurança", saude: "Saúde",
+    estimulacao: "Estimulação", gravidez: "Gravidez",
+};
+
+const ARTIGO_IMGS = {
+    "melhor-carrinho-bebe-portugal": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400&q=80",
+    "melhor-berco-bebe": "https://images.unsplash.com/photo-1631248055855-4b78c5d0f396?w=400&q=80",
+    "melhor-cadeira-auto-bebe": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
+    "melhor-biberon-bebe": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
+    "melhor-monitor-bebe": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
+    "introducao-alimentar-bebe": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=400&q=80",
+    "melhor-cadeira-papa-bebe": "https://images.unsplash.com/photo-1578307990016-f1dfbddf76fc?w=400&q=80",
+    "bebe-nao-dorme-solucoes": "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=400&q=80",
+    "melhor-banheira-bebe": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&q=80",
+    "quanto-custa-ter-bebe-portugal": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
+    "melhor-bomba-amamentar": "https://images.unsplash.com/photo-1531983412531-1f49a365ffed?w=400&q=80",
+    "melhor-brinquedo-bebe-0-12-meses": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
+    "produtos-indispensaveis-recem-nascido": "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400&q=80",
+    "melhor-termometro-bebe": "https://images.unsplash.com/photo-1631248055855-4b78c5d0f396?w=400&q=80",
+    "lista-enxoval-bebe-completa": "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
+};
+
+const DEFAULT_IMG = "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80";
 
 export const RecentArticles = () => {
+    const recentes = artigos.slice(0, 3);
     return (
-        <section
-            id="blog"
-            data-testid="articles-section"
-            className="relative px-6 md:px-12 lg:px-24 py-20 md:py-28"
-        >
+        <section className="px-6 md:px-12 lg:px-24 py-20 bg-white">
             <div className="max-w-7xl mx-auto">
-                <div className="flex flex-col md:flex-row md:items-end md:justify-between mb-12 gap-6">
-                    <div className="max-w-2xl">
-                        <span
-                            data-testid="articles-eyebrow"
-                            className="inline-block bg-[#FFE9D6] text-[#5C463A] text-sm font-bold px-4 py-1.5 rounded-full mb-4"
-                        >
+                <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-6">
+                    <div>
+                        <span className="inline-block bg-[#E8F5F3] text-[#2A9D8F] text-sm font-bold px-4 py-1.5 rounded-full mb-4">
                             📖 Do nosso blog
                         </span>
-                        <h2
-                            data-testid="articles-title"
-                            className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-[#5C463A] leading-tight"
-                        >
+                        <h2 className="text-3xl sm:text-4xl font-extrabold text-[#1A3C38] tracking-tight">
                             Guias e dicas que valem o seu tempo.
                         </h2>
                     </div>
-                    <Link
-                        to="/blog"
-                        data-testid="view-all-articles-link"
-                        className="text-[#FF8A6E] font-bold hover:underline self-start md:self-end whitespace-nowrap"
-                    >
-                        Ver todos os artigos →
+                    <Link to="/blog" className="flex items-center gap-2 text-[#2A9D8F] font-bold hover:underline whitespace-nowrap">
+                        Ver todos os artigos <ArrowRight className="w-4 h-4" />
                     </Link>
                 </div>
-
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
-                    {ARTICLES.map((article) => (
-                        <Link
-                            key={article.id}
-                            to={`/blog/${article.id}`}
-                            data-testid={`article-card-${article.id}`}
-                            className="bg-white rounded-3xl border border-[#F2E3D8] overflow-hidden flex flex-col group transition-all duration-300 hover:shadow-[0_20px_40px_rgb(92,70,58,0.12)] hover:-translate-y-1"
-                        >
-                            <div className="relative overflow-hidden h-56">
-                                <img
-                                    src={article.image}
-                                    alt={article.title}
-                                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                                    loading="lazy"
-                                />
-                                <span
-                                    className="absolute top-4 left-4 text-xs font-bold px-3 py-1.5 rounded-full"
-                                    style={{
-                                        backgroundColor: article.tagColor,
-                                        color: article.tagText,
-                                    }}
-                                >
-                                    {article.tag}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    {recentes.map((artigo) => (
+                        <Link key={artigo.slug} to={`/blog/${artigo.slug}`}
+                            className="group bg-white rounded-3xl border border-[#E8F5F3] overflow-hidden flex flex-col hover:shadow-lg hover:-translate-y-1 transition-all">
+                            <div className="relative h-48 overflow-hidden">
+                                <img src={ARTIGO_IMGS[artigo.slug] || DEFAULT_IMG} alt={artigo.titulo}
+                                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                                <span className="absolute top-3 left-3 bg-white/90 backdrop-blur-sm text-[#1A3C38] text-xs font-bold px-3 py-1 rounded-full">
+                                    Guia de Compra
                                 </span>
                             </div>
-
-                            <div className="p-6 flex flex-col gap-3 flex-1">
-                                <div className="flex items-center gap-3 text-xs text-[#8C776D] font-semibold">
-                                    <span className="text-[#FF8A6E] uppercase tracking-wider">
-                                        {article.category}
+                            <div className="p-5 flex flex-col gap-2 flex-1">
+                                <div className="flex items-center gap-3 text-xs">
+                                    <span className="text-[#2A9D8F] font-bold uppercase tracking-wide">
+                                        {CAT_LABELS[artigo.categoria] || artigo.categoria}
                                     </span>
-                                    <span className="text-[#F2E3D8]">•</span>
-                                    <span className="flex items-center gap-1">
-                                        <Clock className="w-3.5 h-3.5" />
-                                        {article.readTime}
+                                    <span className="text-[#3D6B65]">•</span>
+                                    <span className="flex items-center gap-1 text-[#3D6B65]">
+                                        <Clock className="w-3 h-3" /> {artigo.tempoLeitura}
                                     </span>
                                 </div>
-
-                                <h3 className="font-extrabold text-[#5C463A] text-xl leading-tight group-hover:text-[#FF8A6E] transition-colors">
-                                    {article.title}
+                                <h3 className="font-bold text-[#1A3C38] text-base leading-snug group-hover:text-[#2A9D8F] transition-colors">
+                                    {artigo.titulo}
                                 </h3>
-
-                                <p className="text-sm text-[#8C776D] leading-relaxed line-clamp-3">
-                                    {article.excerpt}
-                                </p>
-
-                                <div
-                                    data-testid={`article-read-more-${article.id}`}
-                                    className="text-[#FF8A6E] font-bold text-sm mt-auto flex items-center gap-1 group-hover:gap-2 transition-all"
-                                >
-                                    Ler artigo
-                                    <ArrowUpRight className="w-4 h-4" />
-                                </div>
+                                <p className="text-[#3D6B65] text-sm leading-relaxed line-clamp-2">{artigo.descricao}</p>
+                                <span className="flex items-center gap-1 text-[#2A9D8F] font-semibold text-sm mt-auto pt-2">
+                                    Ler artigo <ArrowRight className="w-3.5 h-3.5" />
+                                </span>
                             </div>
                         </Link>
                     ))}
