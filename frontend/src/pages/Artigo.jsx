@@ -60,9 +60,12 @@ function renderContent(text) {
             elements.push(<h1 key={key++} className="text-3xl font-extrabold text-[#1A3C38] mt-6 mb-4">{parseLine(line.slice(2))}</h1>);
             i++; continue;
         }
-        if (line.startsWith("- ")) {
+        if (line.startsWith("- ") || line.startsWith("* ")) {
+            const prefix = line.startsWith("- ") ? "- " : "* ";
             const items = [];
-            while (i < lines.length && lines[i].startsWith("- ")) { items.push(lines[i].slice(2)); i++; }
+            while (i < lines.length && (lines[i].startsWith("- ") || lines[i].startsWith("* "))) {
+                items.push(lines[i].slice(2)); i++;
+            }
             elements.push(<ul key={key++} className="list-disc list-inside space-y-2 my-4 text-[#3D6B65]">
                 {items.map((item, j) => <li key={j} className="leading-relaxed">{parseLine(item)}</li>)}
             </ul>);
@@ -143,9 +146,7 @@ export default function Artigo() {
                         </div>
                     </div>
                     <div className="prose max-w-none">{renderContent(artigo.conteudo)}</div>
-                    <div className="mt-12 p-6 bg-[#E8F5F3] rounded-3xl text-sm text-[#3D6B65]">
-                        <strong className="text-[#1A3C38]">Sobre os nossos links:</strong> Este site contém links de afiliado Amazon Associates. Recebemos uma pequena comissão se comprares através destes links, sem custo adicional para ti.
-                    </div>
+
                 </div>
             </main>
             <FooterSection />
