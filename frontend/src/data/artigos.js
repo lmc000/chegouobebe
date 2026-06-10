@@ -1,1478 +1,482 @@
-const artigos = [
+export const artigos = [
   {
-    slug: "melhor-carrinho-bebe-portugal",
-    titulo: "Melhor Carrinho de Bebé em Portugal 2026 — Guia Completo",
-    descricao: "Comparámos os carrinhos mais vendidos em Portugal por segurança, versatilidade e preço. Guia honesto para escolher o melhor carrinho para o teu bebé.",
+    slug: "melhor-carrinho-bebe-brasil",
+    titulo: "Melhor Carrinho de Beb\u00ea no Brasil 2026 \u2014 Guia Completo",
+    descricao: "Comparamos os melhores carrinhos para as condi\u00e7\u00f5es do Brasil \u2014 cal\u00e7adas irregulares de S\u00e3o Paulo e Rio, chuvas tropicais, pre\u00e7os em R$.",
     categoria: "carrinho",
-    data: "2026-05-01",
-    tempoLeitura: "9 min",
-    conteudo: `
-Escolher o carrinho certo é uma das primeiras e mais importantes decisões que os pais fazem. Com centenas de opções disponíveis e preços que vão dos 150€ aos 2.000€, é fácil ficar perdido.
+    data: "2026-01-15",
+    tempoLeitura: 12,
+    conteudo: `# Melhor Carrinho de Bebê no Brasil 2026 — Guia Completo
 
----
+As calçadas irregulares de São Paulo e Rio de Janeiro, as chuvas tropicais do verão e o porta-malas do seu carro são fatores que influenciam a escolha. Prefira carrinhos com rodas grandes, suspensão adequada e capô com proteção UV50+.
 
-## O que considerar antes de comprar
+## Os melhores carrinhos no Brasil 2026
 
-**1. Onde vais usar o carrinho?**
-Vives num apartamento com elevador pequeno? O carrinho tem de ser compacto. Fazes muitas caminhadas em terrenos irregulares? Precisas de boa suspensão e rodas grandes.
+### 1. Bugaboo Fox 5 (~R$ 8.000)
+Suspensão a mola em todas as rodas, capô XL com UV50+, sistema modular reversível. O favorito dos pais brasileiros que usam o carrinho diariamente em calçadas irregulares.
+[Ver na Amazon](https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-**2. Por quanto tempo vais usar?**
-Sistemas modulares que crescem com o bebé (de recém-nascido a criança) têm custo inicial mais alto mas poupam dinheiro a longo prazo.
+### 2. UPPAbaby Vista V3 (~R$ 7.500)
+Aceita dois assentos. Berço incluso. Ideal para família com dois filhos pequenos.
+[Ver na Amazon](https://www.amazon.com.br/s?k=uppababy+vista+v3&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-**3. Quantos filhos planeias ter?**
-Se planeias ter mais filhos, investe num modelo de qualidade que dure. Se for só um filho, pode compensar comprar em segunda mão.
+### 3. Chicco Mysa (~R$ 2.500)
+Dobragem em uma mão, fica de pé sozinho. Garantia e assistência técnica no Brasil.
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+mysa+carrinho&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
----
+### 4. Joie Versatrax (~R$ 1.800)
+Carrinho, berço de viagem e adaptador para bebê conforto, tudo incluído.
+[Ver na Amazon](https://www.amazon.com.br/s?k=joie+versatrax&tag=PLACEHOLDER_AMAZON_TAG)
 
-## Os melhores carrinhos de 2026
+### 5. Silver Cross Dune (~R$ 5.500)
+Rodas com câmara de ar, design clássico britânico atemporal.
+[Ver na Amazon](https://www.amazon.com.br/s?k=silver+cross+dune&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-### 1. Bugaboo Fox 5 — Melhor qualidade absoluta
-
-**⭐ 4.9/5 | Preço: ~1.200€**
-
-O Fox 5 é a referência do mercado — suspensão de mola que absorve qualquer terreno, estrutura em alumínio ultra-leve, conversível de recém-nascido a criança grande. A qualidade de construção é incomparável.
-
-O assento pode ser orientado para os pais ou para a frente, e o sistema de dobrar é um dos mais simples do mercado — essencial para quem usa transportes públicos.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=bugaboo+fox+5&tag=bebefefeliz-21)
-
----
-
-### 2. UPPAbaby Vista V3 — Melhor para família com mais filhos
-
-**⭐ 4.8/5 | Preço: ~1.100€**
-
-O Vista converte-se facilmente em carrinho duplo sem perder manobrab ilidade. Ideal para quem planeia ter segundo filho em breve ou tem gémeos.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=uppababy+vista+v3&tag=bebefefeliz-21)
-
----
-
-### 3. Chicco Mysa — ⭐ Melhor relação qualidade-preço
-
-**⭐ 4.7/5 | Preço: ~350€**
-
-A nossa recomendação para a maioria das famílias portuguesas. Robusto, manobráv el, com assento reversível e sistema de dobra simples. Muito popular em Portugal por oferecer qualidade a preço acessível.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=chicco+mysa+stroller&tag=bebefefeliz-21)
-
----
-
-### 4. Joie Versatrax — Melhor económico de qualidade
-
-**⭐ 4.5/5 | Preço: ~250€**
-
-Muito bom custo-benefício. Sistema modular, compatível com vários ovos, tela expansível para crianças maiores.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=joie+versatrax&tag=bebefefeliz-21)
-
----
-
-### 5. Silver Cross Dune — Melhor design minimalista
-
-**⭐ 4.7/5 | Preço: ~800€**
-
-Britânico, elegante, robusto. A escolha dos pais que querem algo visualmente distinto sem abdicar de qualidade.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=silver+cross+dune&tag=bebefefeliz-21)
-
----
-
-## Tabela comparativa
-
-| Modelo | Preço | Peso | Reversível | Para quem |
-|---|---|---|---|---|
-| Bugaboo Fox 5 | ~1.200€ | 9,5 kg | ✅ | Máxima qualidade |
-| UPPAbaby Vista V3 | ~1.100€ | 11 kg | ✅ | Família a crescer |
-| Chicco Mysa | ~350€ | 8,5 kg | ✅ | Melhor preço/qualidade |
-| Joie Versatrax | ~250€ | 8 kg | ✅ | Orçamento limitado |
-| Silver Cross Dune | ~800€ | 9 kg | ✅ | Design premium |
-
----
-
-## Dicas para comprar em segunda mão
-
-O mercado de carrinhos em segunda mão em Portugal é excelente. Os modelos premium mantêm qualidade e podes poupar 40-60% do preço. Verifica sempre:
-- Estado das rodas e suspensão
-- Fechos e travão
-- Tela lavável e sem bolor
-- Presença de todas as peças originais
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas, sem custo para você.`
   },
   {
     slug: "melhor-berco-bebe",
-    titulo: "Melhor Berço para Bebé em 2026 — Guia por Tipo e Idade",
-    descricao: "Qual o melhor berço para o teu bebé? Comparámos berços de co-sleeping, convertíveis e tradicionais para um sono seguro e tranquilo.",
+    titulo: "Melhor Ber\u00e7o para Beb\u00ea em 2026 \u2014 Guia por Tipo e Idade",
+    descricao: "Do ber\u00e7o de co-sleeping ao convert\u00edvel: qual o melhor ber\u00e7o? Modelos mais seguros no Brasil, com pre\u00e7os em R$.",
     categoria: "sono",
-    data: "2026-05-02",
-    tempoLeitura: "8 min",
-    conteudo: `
-O sono do bebé é o sono da família. Escolher o berço certo afecta não só o conforto do bebé mas também a qualidade de vida dos pais nas primeiras semanas e meses.
+    data: "2026-01-20",
+    tempoLeitura: 10,
+    conteudo: `# Melhor Berço para Bebê em 2026 — Guia por Tipo e Idade
 
----
+A OMS e a SBP (Sociedade Brasileira de Pediatria) recomendam que o bebê durma no mesmo quarto que os pais durante os primeiros 6 meses, em superfície separada e firme.
 
-## Tipos de berço — qual escolher?
+### 1. Chicco Next2Me Forever (~R$ 2.500)
+O berço de co-sleeping mais vendido no Brasil. Altura ajustável em 9 posições, lateral abaixável para amamentação noturna, converte em berço independente até os 5 anos e depois em sofá infantil.
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+next2me+forever&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK) | [Ver na Bebê Store](PLACEHOLDER_BEBESTORE_LINK)
 
-### Co-sleeping (berço colado à cama)
-A opção mais popular actualmente para recém-nascidos. O berço fica encostado à cama dos pais, com o lado aberto — o bebé está perto mas com espaço próprio e seguro. Recomendado pela OMS como alternativa segura ao co-sleeping na mesma cama.
+### 2. SnüzPod 4 (~R$ 2.000)
+Design escandinavo elegante, lateral em malha respirável, altura ajustável.
+[Ver na Amazon](https://www.amazon.com.br/s?k=snuzpod+4&tag=PLACEHOLDER_AMAZON_TAG)
 
-### Berço convertível
-Começa como berço, converte-se em cama de criança (e às vezes em sofá). Investimento mais alto mas acompanha o filho até aos 5-6 anos.
+### 3. Berço Convertível (~R$ 1.800)
+Burigotto, Tutti Baby e Galzerano oferecem boas opções com certificação INMETRO.
+[Ver na Amazon](https://www.amazon.com.br/s?k=berco+convertivel+bebe+inmetro&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-### Berço tradicional
-Mais simples e económico. Adequado para o quarto dos pais nos primeiros meses.
+### 4. Hauck Alpha+ (~R$ 700)
+Simples, sólido, econômico, com certificação de segurança.
+[Ver na Amazon](https://www.amazon.com.br/s?k=hauck+alpha+berco&tag=PLACEHOLDER_AMAZON_TAG)
 
-### Mini-berço / moisés portátil
-Para famílias que querem mobilidade. Mais leve, fácil de transportar entre quartos ou levar a casa dos avós.
+Dicas SBP: colchão firme, sem almofadas ou edredons dentro do berço, bebê sempre de costas, quarto entre 20°C e 22°C.
 
----
-
-## Os melhores berços de 2026
-
-### 1. Chicco Next2Me Forever — Melhor co-sleeping
-
-**⭐ 4.8/5 | Preço: ~350€**
-
-O berço de co-sleeping mais vendido da Europa. Encosta directamente à cama, o lado abre totalmente, regulação de altura para corresponder a qualquer cama. Converte-se depois em berço independente e cama de criança até aos 5 anos.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=chicco+next2me+forever&tag=bebefefeliz-21)
-
----
-
-### 2. Snüz SnüzPod 4 — Melhor design co-sleeping
-
-**⭐ 4.7/5 | Preço: ~280€**
-
-Design oval elegante, base com rodas para mobilidade, inclinação ajustável para bebés com refluxo. Muito popular entre pais que valorizam o design.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=snuzpod+4+bedside+crib&tag=bebefefeliz-21)
-
----
-
-### 3. Micuna OOH! — Melhor berço convertível português
-
-**⭐ 4.6/5 | Preço: ~420€**
-
-Marca espanhola com grande presença em Portugal. Berço que converte em cama de criança, certificação europeia, acabamentos de qualidade. Boa rede de apoio pós-venda em Portugal.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=micuna+ooh+cuna&tag=bebefefeliz-21)
-
----
-
-### 4. Hauck Alpha+ — Melhor económico
-
-**⭐ 4.5/5 | Preço: ~120€**
-
-Berço convertível a um preço excelente. Converte em cadeira e banco de criança. Madeira certificada FSC, largamente disponível em Portugal.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=hauck+alpha+plus+cot&tag=bebefefeliz-21)
-
----
-
-## Segurança no sono do bebé — regras essenciais
-
-A Academia Americana de Pediatria e a Sociedade Portuguesa de Pediatria recomendam:
-
-- **Colchão firme e plano** — nada de colchões macios ou adultos
-- **Sem almofadas, edredons ou peluches** nos primeiros 12 meses
-- **Bebé de costas** sempre — reduz o risco de morte súbita em 50%
-- **Temperatura do quarto entre 18-20°C** — bebé não deve suar
-- **Sem fumo** — qualquer exposição ao fumo aumenta o risco
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br, Ri Happy e Bebê Store. Ganhamos comissão em compras qualificadas.`
   },
   {
-    slug: "melhor-cadeira-auto-bebe",
-    titulo: "Melhor Cadeira Auto para Bebé em 2026 — Por Idade e Peso",
-    descricao: "A cadeira auto certa pode salvar a vida do teu bebé. Comparámos os modelos mais seguros e práticos disponíveis em Portugal.",
+    slug: "melhor-bebe-conforto-brasil",
+    titulo: "Melhor Beb\u00ea Conforto e Cadeira de Carro no Brasil 2026",
+    descricao: "Guia completo sobre beb\u00ea conforto e cadeiras de carro. Certifica\u00e7\u00e3o INMETRO, grupos de peso, pre\u00e7os em R$.",
     categoria: "seguranca",
-    data: "2026-05-03",
-    tempoLeitura: "9 min",
-    conteudo: `
-A cadeira auto é o produto onde a segurança supera todos os outros critérios. Uma cadeira mal instalada ou inadequada para a idade pode ser tão perigosa como não ter cadeira. Este guia ajuda-te a escolher a opção certa.
+    data: "2026-01-25",
+    tempoLeitura: 13,
+    conteudo: `# Melhor Bebê Conforto e Cadeira de Carro no Brasil 2026
 
----
+O CTB exige dispositivos de retenção infantil aprovados pelo INMETRO. Bebê conforto (Grupo 0+): 0 a 13 kg, de costas para a direção. Cadeiras Grupos I-III: 9 a 36 kg. Nunca use produto importado sem certificação INMETRO.
 
-## Grupos e normas — o que significam
+### 1. Maxi-Cosi Pebble 360 (~R$ 3.500)
+Rotação 360°, reclinação para recém-nascidos, certificado INMETRO. Ideal após cesárea.
+[Ver na Amazon](https://www.amazon.com.br/s?k=maxi+cosi+pebble+360&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-### Norma R44 (antiga) vs i-Size (nova)
+### 2. Cybex Sirona T i-Size (~R$ 4.000)
+Rotação 360°, de 40 cm a 105 cm de altura, de costas até 18 kg.
+[Ver na Amazon](https://www.amazon.com.br/s?k=cybex+sirona+t&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-A norma **i-Size (ECE R129)** é a mais segura actualmente. Exige teste de impacto lateral obrigatório, obriga ao uso contra-corrente por mais tempo, e é compatível com ISOFIX.
+### 3. Joie i-Level Recline (~R$ 2.000)
+Reclinação de 157°, indicadores de instalação correta. Melhor custo-benefício.
+[Ver na Amazon](https://www.amazon.com.br/s?k=joie+i-level+recline&tag=PLACEHOLDER_AMAZON_TAG)
 
-**Recomendação:** escolhe sempre cadeiras i-Size quando possível.
+### 4. BeSafe iZi Modular i-Size (~R$ 4.500)
+Testes de segurança entre os mais rigorosos, proteção lateral integrada.
+[Ver na Amazon](https://www.amazon.com.br/s?k=besafe+izi+modular&tag=PLACEHOLDER_AMAZON_TAG)
 
-### Por idade/peso
-
-| Grupo | Norma | Peso | Idade |
-|---|---|---|---|
-| 0+ | R44 | 0-13 kg | 0-15 meses |
-| i-Size recém-nascido | R129 | 40-75 cm | Até ~15 meses |
-| i-Size criança | R129 | 15 meses-12 anos | — |
-| 0+/1 combinado | R44/R129 | 0-18 kg | 0-4 anos |
-
----
-
-## As melhores cadeiras auto de 2026
-
-### 1. Maxi-Cosi Pebble 360 — Melhor para recém-nascidos
-
-**⭐ 4.9/5 | Preço: ~450€**
-
-Rotação 360° facilita enormemente colocar e retirar o bebé, especialmente após cesariana ou em carros com pouco espaço. Certificação i-Size, compatível com todos os sistemas ISOFIX.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=maxi+cosi+pebble+360&tag=bebefefeliz-21)
-
----
-
-### 2. Cybex Sirona T i-Size — Melhor para uso prolongado
-
-**⭐ 4.8/5 | Preço: ~500€**
-
-Rotação 360°, contra-corrente até 4 anos, com corrente a partir daí. Sistema de instalação com indicador visual — não há dúvidas se está bem instalada.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=cybex+sirona+t+i-size&tag=bebefefeliz-21)
-
----
-
-### 3. Joie i-Level Recline — Melhor relação qualidade-preço
-
-**⭐ 4.7/5 | Preço: ~280€**
-
-Excelente desempenho nos testes ADAC (o mais exigente da Europa). Reclinação completa para bebé dormir flat. Muito boa relação qualidade-preço.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=joie+i-level+recline&tag=bebefefeliz-21)
-
----
-
-### 4. BeSafe iZi Modular i-Size — Para viagens frequentes
-
-**⭐ 4.7/5 | Preço: ~550€**
-
-Sistema modular — o mesmo ISOFIX serve para a cadeira de recém-nascido e a de criança. Para famílias que viajam muito de carro.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=besafe+izi+modular&tag=bebefefeliz-21)
-
----
-
-## Regras de segurança obrigatórias
-
-1. **Contra-corrente o máximo de tempo possível** — o bebé deve ir contra-corrente até pelo menos 15 meses (i-Size) ou 9 kg (R44). Idealmente até 4 anos.
-2. **ISOFIX sempre que possível** — mais seguro que cinto de segurança para fixação
-3. **Instala antes do bebé nascer** e pede ao técnico da loja para verificar
-4. **Nunca uses cadeira envolvida em acidente** — mesmo sem danos visíveis, a estrutura pode estar comprometida
-5. **Nunca deixes o bebé na cadeira fora do carro** durante longos períodos — risco de asfixia
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
-    slug: "melhor-biberon-bebe",
-    titulo: "Melhor Biberão para Bebé em 2026 — Para Amamentação e Não",
-    descricao: "Qual o melhor biberão para o teu bebé? Comparámos os modelos mais recomendados por pediatras e lactantes, incluindo os melhores para combinar com amamentação.",
+    slug: "melhor-mamadeira-bebe",
+    titulo: "Melhor Mamadeira para Beb\u00ea em 2026 \u2014 Para Amamenta\u00e7\u00e3o e N\u00e3o",
+    descricao: "Comparamos as mamadeiras mais recomendadas pelas consultoras de lacta\u00e7\u00e3o no Brasil \u2014 Philips Avent, MAM, Dr. Brown's e Tommee Tippee.",
     categoria: "alimentacao",
-    data: "2026-05-04",
-    tempoLeitura: "6 min",
-    conteudo: `
-O biberão certo pode fazer a diferença entre uma transição tranquila e semanas de recusa e frustração. Especialmente quando o bebé amamenta e é introduzido ao biberão em simultâneo, a escolha da tetina é crucial.
+    data: "2026-02-01",
+    tempoLeitura: 9,
+    conteudo: `# Melhor Mamadeira para Bebê em 2026
 
----
+Consultoras de lactação no Brasil recomendam mamadeiras com tetinas de fluxo lento e formato que imita o seio materno para evitar confusão de bicos.
 
-## O que considerar na escolha do biberão
+### 1. Philips Avent Natural Response (~R$ 90)
+A mais recomendada. Tetina libera leite apenas quando o bebê suga ativamente.
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-**Tetina anti-confusão (se amamentas)**
-A tetina deve imitar o seio materno ao máximo — formato, fluxo lento e necessidade de trabalho activo por parte do bebé. Tetinas de fluxo rápido criam "confusão de tetina" e o bebé pode rejeitar o seio.
+### 2. MAM Anti-Colic (~R$ 75)
+Válvula base reduz ingestão de ar em até 60%. Esteriliza no micro-ondas na própria embalagem.
+[Ver na Amazon](https://www.amazon.com.br/s?k=mam+anti+colic+mamadeira&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-**Material**
-- **Vidro:** mais higiénico, durável, mas mais pesado e pode partir
-- **Plástico sem BPA:** mais leve e resistente
-- **Silicone:** flexível, durável, fácil de limpar
+### 3. Dr. Brown's Options+ (~R$ 110)
+Sistema interno de ventilação. Favorita para bebês com cólicas severas e refluxo.
+[Ver na Amazon](https://www.amazon.com.br/s?k=dr+browns+options+mamadeira&tag=PLACEHOLDER_AMAZON_TAG)
 
-**Capacidade**
-- Recém-nascido: 120-150ml
-- A partir dos 4 meses: 240-300ml
+### 4. Tommee Tippee Closer to Nature (~R$ 65)
+Opção econômica com boa aceitação.
+[Ver na Amazon](https://www.amazon.com.br/s?k=tommee+tippee+closer+nature&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
----
-
-## Os melhores biberões de 2026
-
-### 1. Philips Avent Natural Response — ⭐ Melhor para combinar amamentação
-
-**⭐ 4.8/5 | Preço: ~15€ por unidade**
-
-A tetina em forma de pétala com fluxo responsivo (só flui quando o bebé suga activamente) imita perfeitamente o seio. O mais recomendado por consultoras de lactação em Portugal.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=philips+avent+natural+response&tag=bebefefeliz-21)
-
----
-
-### 2. MAM Anti-Colic — Melhor anti-cólicas
-
-**⭐ 4.7/5 | Preço: ~12€ por unidade**
-
-Sistema de ventilação na base reduz a ingestão de ar em 60%. Excelente para bebés com cólicas. Pode ser esterilizado no microondas na própria embalagem.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=mam+anti+colic+bottle&tag=bebefefeliz-21)
-
----
-
-### 3. Dr. Brown's Options+ — Melhor para refluxo e gases
-
-**⭐ 4.6/5 | Preço: ~18€ por unidade**
-
-Sistema de ventilação interna que elimina praticamente todo o ar. Ideal para bebés com refluxo grave ou muito sensíveis a gases. Requer limpeza mais cuidadosa.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=dr+browns+options+plus+bottle&tag=bebefefeliz-21)
-
----
-
-### 4. Tommee Tippee Closer to Nature — Melhor económico
-
-**⭐ 4.5/5 | Preço: ~10€ por unidade**
-
-Muito popular em Portugal, boa relação qualidade-preço. Tetina com forma arredondada, anti-cólicas, fácil de limpar.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=tommee+tippee+closer+to+nature&tag=bebefefeliz-21)
-
----
-
-## Quantos biberões precisas?
-
-- **Exclusivo biberão:** 6-8 biberões (lavar e secar entre usos)
-- **Combinação amamentação/biberão:** 3-4 biberões
-- **Apenas suplemento ocasional:** 2 biberões
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "melhor-monitor-bebe",
-    titulo: "Melhor Monitor de Bebé em 2026 — Vídeo, Áudio e Movimento",
-    descricao: "Os melhores monitores de bebé em Portugal em 2026. Comparámos monitores de vídeo, áudio e de respiração por preço, qualidade de imagem e facilidade de uso.",
+    titulo: "Melhor Monitor de Beb\u00ea em 2026 \u2014 V\u00eddeo, \u00c1udio e Movimento",
+    descricao: "Guia de monitores de beb\u00ea no Brasil: v\u00eddeo HD, \u00e1udio DECT, monitoramento de movimentos. Nanit, Philips, Motorola e Angelcare.",
     categoria: "sono",
-    data: "2026-05-05",
-    tempoLeitura: "7 min",
-    conteudo: `
-Um bom monitor de bebé é paz de espírito para os pais. Em 2026, os monitores de vídeo com Wi-Fi e app no telemóvel tornaram-se o standard — mas há muito a considerar antes de comprar.
+    data: "2026-02-05",
+    tempoLeitura: 10,
+    conteudo: `# Melhor Monitor de Bebê em 2026
 
----
+### 1. Nanit Pro (~R$ 2.000)
+Câmera HD, visão noturna colorida, análise do sono por IA, alerta de temperatura. Streaming Wi-Fi.
+[Ver na Amazon](https://www.amazon.com.br/s?k=nanit+pro+monitor&tag=PLACEHOLDER_AMAZON_TAG)
 
-## Tipos de monitor
+### 2. Philips Avent DECT (~R$ 800)
+Tecnologia DECT, alcance de 330 metros, sem Wi-Fi. Ideal para quem quer simplicidade.
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+dect+monitor&tag=PLACEHOLDER_AMAZON_TAG)
 
-### Monitor de áudio
-O mais simples e económico. Só transmite som. Adequado para pais que dormem perto do bebé ou apartamentos pequenos.
+### 3. Motorola Halo+ (~R$ 550)
+Tela parental de 4,3", câmera com zoom, projetor de luz noturna e músicas de embalar.
+[Ver na Amazon](https://www.amazon.com.br/s?k=motorola+halo+monitor+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
-### Monitor de vídeo (sem Wi-Fi)
-Câmara + ecrã dedicado. Mais privado, sem risco de hackear, sem dependência de internet. Melhor para uso noturno.
+### 4. Angelcare AC127 (~R$ 600)
+Sensor de movimento sob o colchão, alarme após 20 segundos sem movimento. Ótimo para recém-nascidos.
+[Ver na Amazon](https://www.amazon.com.br/s?k=angelcare+ac127&tag=PLACEHOLDER_AMAZON_TAG)
 
-### Monitor Wi-Fi com app
-Acesso pelo telemóvel de qualquer lugar. Ideal para trabalhar em casa ou quando estás noutro andar. Requer boa ligação Wi-Fi.
-
-### Monitor de movimento/respiração
-Detecta movimentos do bebé na cama. Alarme se sem movimento por X segundos. Para pais muito ansiosos ou bebés prematuros.
-
----
-
-## Os melhores monitores de 2026
-
-### 1. Nanit Pro — Melhor câmara com análise de sono
-
-**⭐ 4.8/5 | Preço: ~300€**
-
-Câmara de topo com visão nocturna impecável, análise de padrões de sono por IA, alertas de temperatura e humidade. App muito intuitiva. O preferido dos pais tech.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=nanit+pro+baby+monitor&tag=bebefefeliz-21)
-
----
-
-### 2. Philips Avent DECT SCD923 — Melhor sem Wi-Fi
-
-**⭐ 4.7/5 | Preço: ~120€**
-
-Tecnologia DECT — sem interferências, sem risco de hacking, sem necessidade de Wi-Fi. Visão nocturna, sensor de temperatura, ecrã táctil. O mais recomendado para privacidade.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=philips+avent+scd923&tag=bebefefeliz-21)
-
----
-
-### 3. Motorola Halo+ — Melhor por preço
-
-**⭐ 4.5/5 | Preço: ~80€**
-
-Câmara Wi-Fi com visão nocturna, visão 180°, sensor de temperatura. App funcional. Boa opção para quem quer Wi-Fi a preço acessível.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=motorola+halo+plus+monitor&tag=bebefefeliz-21)
-
----
-
-### 4. Angelcare AC127 — Melhor monitor de movimento
-
-**⭐ 4.6/5 | Preço: ~90€**
-
-Tapete sensor debaixo do colchão que detecta micro-movimentos. Alarme se sem movimento por 20 segundos. Muito usado por pais de prematuros ou bebés com histórico de apneia.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=angelcare+ac127+movement+monitor&tag=bebefefeliz-21)
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "introducao-alimentar-bebe",
-    titulo: "Introdução Alimentar do Bebé — Guia Completo para Pais (2026)",
-    descricao: "Quando e como começar a introdução alimentar do bebé? Guia completo com o método tradicional (papas) e BLW, alimentos a evitar e dicas práticas.",
+    titulo: "Introdu\u00e7\u00e3o Alimentar do Beb\u00ea \u2014 Guia Completo para Pais (2026)",
+    descricao: "Tudo sobre introdu\u00e7\u00e3o alimentar: quando come\u00e7ar, BLW vs. papinhas. Baseado nas recomenda\u00e7\u00f5es da OMS e SBP.",
     categoria: "alimentacao",
-    data: "2026-05-06",
-    tempoLeitura: "10 min",
-    conteudo: `
-A introdução alimentar é um dos momentos mais marcantes — e mais confusos — para os pais. Quando começar? Com papas ou comida sólida? O que dar primeiro? Este guia responde a tudo.
+    data: "2026-02-10",
+    tempoLeitura: 14,
+    conteudo: `# Introdução Alimentar do Bebê — Guia Completo
 
----
+A OMS e a SBP recomendam aleitamento materno exclusivo por 6 meses completos. Sinais de prontidão: senta com suporte, demonstra interesse pela comida, perdeu o reflexo de extrusão.
 
-## Quando começar — sinais de prontidão
+Primeiro mês: batata-doce, cenoura, banana, mamão — sem sal, sem açúcar. A partir de 7-8 meses: frango desfiado, peixe, carne, ovos bem cozidos, feijão. Sem mel antes de 1 ano — risco de botulismo.
 
-A OMS recomenda amamentação exclusiva até aos 6 meses. A introdução alimentar deve começar quando o bebé mostra **todos** estes sinais:
+### Cadeirinha de Papa Chicco Polly (~R$ 800)
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+polly+cadeirinha+papa&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-- **Senta-se com apoio** e mantém a cabeça erguida de forma estável
-- **Perdeu o reflexo de extrusão** — não empurra sistematicamente comida para fora
-- **Mostra interesse pela comida** dos adultos
-- **Tem pelo menos 4 meses** (nunca antes, mesmo com sinais de prontidão)
+### BÉABA Babycook (~R$ 1.200)
+Cozinha a vapor e tritura em um único aparelho.
+[Ver na Amazon](https://www.amazon.com.br/s?k=beaba+babycook&tag=PLACEHOLDER_AMAZON_TAG)
 
----
+### Babadores de silicone (~R$ 60)
+[Ver na Amazon](https://www.amazon.com.br/s?k=babador+silicone+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
-## Dois métodos: papas vs BLW
-
-### Método tradicional (papas/purés)
-Começas com alimentos triturados em puré muito fino, evoluindo progressivamente para texturas mais grossas. Mais controlado, mais fácil de quantificar o que o bebé come.
-
-**Vantagens:** Mais fácil de monitorizar ingestão, menos desordenado, mais familiar para avós e amas.
-
-### BLW (Baby-Led Weaning)
-O bebé come comida da família em pedaços adequados desde o início — sem purés. Desenvolve autonomia, aceita melhor variedade de alimentos, aprende a mastigar naturalmente.
-
-**Vantagens:** Maior aceitação de variedade, desenvolve autonomia, simplifica as refeições em família.
-
-**Importante:** Com BLW é essencial saber distinguir engasgar (normal) de sufocação (emergência).
-
----
-
-## O que dar primeiro
-
-**Semanas 1-2:** Vegetais simples (cenoura, abóbora, batata-doce), frutas suaves (maçã, pêra, banana)
-
-**Semanas 3-4:** Cereais sem glúten (arroz, milho), leguminosas bem cozidas
-
-**Mês 2:** Proteínas animais (frango bem cozido, peixe branco, ovo bem cozido)
-
-**Mês 3+:** Glúten (trigo, aveia), variedade progressiva
-
----
-
-## Alimentos a evitar no primeiro ano
-
-- **Mel** — risco de botulismo infantil, nunca antes de 12 meses
-- **Sal e açúcar** — os rins do bebé não estão prontos
-- **Leite de vaca como bebida** — pode ser usado em culinária
-- **Frutos de casca rija inteiros** — risco de sufocação
-- **Peixe espada, atum em grande quantidade** — mercúrio
-- **Algas** — excesso de iodo
-
----
-
-## Produtos úteis para a introdução alimentar
-
-### Cadeira de papa
-Essencial para alimentação segura e postura correcta.
-
-[Chicco Polly Progress na Amazon →](https://www.amazon.es/s?k=chicco+polly+progress&tag=bebefefeliz-21)
-
-### Robot de cozinha para bebé
-Para purés rápidos e seguros.
-
-[BÉABA Babycook na Amazon →](https://www.amazon.es/s?k=beaba+babycook+neo&tag=bebefefeliz-21)
-
-### Babetes com bolso
-Indispensáveis para o BLW — apanham tudo o que cai.
-
-[Babetes silicone na Amazon →](https://www.amazon.es/s?k=babete+silicone+bebe&tag=bebefefeliz-21)
-
----
-
-*Este artigo não contém recomendações médicas. Consulta sempre o pediatra do teu bebé.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
-    slug: "melhor-cadeira-papa-bebe",
-    titulo: "Melhor Cadeira de Papa para Bebé em 2026",
-    descricao: "Comparámos as melhores cadeiras de papa por segurança, facilidade de limpeza e preço. Da cadeira alta clássica às opções evolutivas.",
+    slug: "melhor-cadeirinha-papa-bebe",
+    titulo: "Melhor Cadeirinha de Papa para Beb\u00ea em 2026",
+    descricao: "Comparamos as cadeiras de alimenta\u00e7\u00e3o mais vendidas no Brasil com pre\u00e7os em R$.",
     categoria: "alimentacao",
-    data: "2026-05-07",
-    tempoLeitura: "6 min",
-    conteudo: `
-A cadeira de papa é um dos produtos com maior impacto no dia a dia entre os 6 meses e os 3 anos. Uma boa cadeira deve ser segura, fácil de limpar (especialmente com BLW!) e confortável para o bebé.
+    data: "2026-02-15",
+    tempoLeitura: 9,
+    conteudo: `# Melhor Cadeirinha de Papa para Bebê em 2026
 
----
+### 1. Stokke Tripp Trapp (~R$ 2.000)
+Da infância à vida adulta (suporta até 150 kg). Design escandinavo atemporal. Encosto e assento ajustáveis.
+[Ver na Amazon](https://www.amazon.com.br/s?k=stokke+tripp+trapp&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-## Os melhores modelos de 2026
+### 2. Chicco Polly Progress (~R$ 800)
+Altura em 7 posições, reclinação em 3 posições, bandeja dupla. A mais completa no custo-benefício.
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+polly+progress&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-### 1. STOKKE Tripp Trapp — Melhor cadeira evolutiva
+### 3. Joie Mimzy Snacker (~R$ 400)
+Boa qualidade pelo preço. Bandeja com porta-copos, altura em 6 posições.
+[Ver na Amazon](https://www.amazon.com.br/s?k=joie+mimzy+snacker&tag=PLACEHOLDER_AMAZON_TAG)
 
-**⭐ 4.9/5 | Preço: ~300€**
+### 4. BabyBjörn Smart Chair (~R$ 1.200)
+Sem estofado — lavar é trivial. Muito leve. De 6 meses aos 10 anos.
+[Ver na Amazon](https://www.amazon.com.br/s?k=babybjorn+smart+chair&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-A referência mundial. Cresce com a criança desde bebé (com kit adicional) até adulto — literalmente usa-se para sempre. Design nórdico, madeira FSC, ajuste de altura e profundidade.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=stokke+tripp+trapp&tag=bebefefeliz-21)
-
----
-
-### 2. Chicco Polly Progress — ⭐ Melhor relação qualidade-preço
-
-**⭐ 4.7/5 | Preço: ~120€**
-
-A cadeira mais vendida em Portugal. 5 posições de reclinação, 7 alturas, tabuleiro removível, cobertura lavável na máquina. O equilíbrio perfeito entre praticidade e preço.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=chicco+polly+progress&tag=bebefefeliz-21)
-
----
-
-### 3. Joie Mimzy Snacker — Melhor económica
-
-**⭐ 4.5/5 | Preço: ~60€**
-
-Compacta, dobrável, fácil de limpar. Tabuleiro duplo com insert removível. Boa para famílias com espaço limitado.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=joie+mimzy+snacker&tag=bebefefeliz-21)
-
----
-
-### 4. Babybjorn Smart Chair — Melhor design minimalista
-
-**⭐ 4.6/5 | Preço: ~180€**
-
-Doze posições de assento e encosto, design muito limpo e sem cantos difíceis de limpar. Excelente para quem segue BLW e precisa de uma cadeira fácil de higienizar.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=babybjorn+smart+chair&tag=bebefefeliz-21)
-
----
-
-## O que verificar na cadeira de papa
-
-- **Cinto de 5 pontos** — segurança superior ao de 3 pontos
-- **Tabuleiro removível** com uma mão — essencial com bebé ao colo
-- **Base larga e antiderrapante** — estabilidade
-- **Lavável na máquina** — obrigatório para BLW
-
----
-
-*Este artigo contém links de afiliado Amazon.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "bebe-nao-dorme-solucoes",
-    titulo: "O Bebé Não Dorme — Causas e Soluções Práticas (2026)",
-    descricao: "O teu bebé não dorme? Descobre as causas mais comuns, como estabelecer uma rotina de sono eficaz e quando procurar ajuda profissional.",
+    titulo: "Meu Beb\u00ea N\u00e3o Dorme \u2014 Causas e Solu\u00e7\u00f5es Pr\u00e1ticas (2026)",
+    descricao: "A priva\u00e7\u00e3o de sono \u00e9 a maior dificuldade relatada pelos pais brasileiros. Causas, solu\u00e7\u00f5es e produtos que ajudam.",
     categoria: "sono",
-    data: "2026-05-08",
-    tempoLeitura: "8 min",
-    conteudo: `
-A privação de sono é a maior dificuldade relatada pelos pais portugueses no primeiro ano. Este guia dá-te ferramentas concretas para melhorar o sono do teu bebé — e o teu.
+    data: "2026-02-20",
+    tempoLeitura: 12,
+    conteudo: `# Meu Bebê Não Dorme — Causas e Soluções Práticas
 
----
+A privação de sono é a maior dificuldade relatada pelos pais brasileiros com bebês pequenos.
 
-## Expectativas realistas por idade
+Causas: regressões de sono (4, 8, 12, 18 meses), ambiente inadequado (quarto iluminado ou quente), associações de sono (bebê que só dorme no colo), gases e cólica (resolve por volta dos 3-4 meses).
 
-| Idade | Sono total/dia | Sono nocturno contínuo |
-|---|---|---|
-| 0-3 meses | 14-17 horas | 2-4 horas (normal) |
-| 3-6 meses | 12-16 horas | 4-6 horas |
-| 6-9 meses | 12-15 horas | 6-9 horas |
-| 9-12 meses | 11-14 horas | 8-10 horas |
+### Máquina de ruído branco (~R$ 200)
+Simula os sons do útero. Muito mais prático que usar o celular.
+[Ver na Amazon](https://www.amazon.com.br/s?k=maquina+ruido+branco+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
-Antes dos 4 meses, acordar frequentemente à noite é **completamente normal** — o sistema de sono ainda está em desenvolvimento.
+### Cortinas blackout (~R$ 150)
+Essenciais para cochilhos diurnos e manhãs de verão com sol cedo.
+[Ver na Amazon](https://www.amazon.com.br/s?k=cortina+blackout+quarto+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
----
+### Saco de dormir (~R$ 180)
+Substitui o cobertor com segurança e cria associação com o momento de dormir.
+[Ver na Amazon](https://www.amazon.com.br/s?k=saco+de+dormir+bebe&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-## Causas comuns de sono difícil
+Rotina sugerida (a partir dos 4 meses): banho morno, pijama e saco de dormir, mamada em ambiente calmo, livro ou música suave, berço com ruído branco.
 
-**1. Janelas de sono ultrapassadas**
-Bebés cansados em excesso produzem cortisol que dificulta adormecer. Respeita os sinais de cansaço (olhos a piscar, bocejo, orelhas a ficar vermelhas) e deita o bebé antes de estar demasiado cansado.
-
-**2. Ambiente inadequado**
-- Quarto demasiado claro — investe em cortinas blackout
-- Ruído irregular — ruído branco consistente ajuda muito
-- Temperatura incorrecta — 18-20°C é o ideal
-
-**3. Associações de sono problemáticas**
-Se o bebé só adormece ao colo, ao peito ou em movimento, vai acordar e chamar os pais cada vez que completar um ciclo de sono (a cada 45-90 minutos).
-
-**4. Regressão de sono**
-Aos 4 meses, 8-10 meses e 12 meses há regressões de sono normais ligadas ao desenvolvimento. Passam em 2-4 semanas.
-
----
-
-## Soluções práticas
-
-### 1. Rotina de sono consistente
-30-45 minutos antes de deitar: banho morno + massagem + biberão/peito + livro + canção. Sempre na mesma ordem, sempre à mesma hora. O bebé aprende a antecipar o sono.
-
-### 2. Ruído branco
-[Máquina de ruído branco na Amazon →](https://www.amazon.es/s?k=maquina+ruido+blanco+bebe&tag=bebefefeliz-21)
-
-Imita o som do útero. Muito eficaz especialmente nos primeiros 4 meses.
-
-### 3. Cortinas blackout
-[Cortinas blackout para quarto bebé →](https://www.amazon.es/s?k=cortinas+blackout+bebe&tag=bebefefeliz-21)
-
-Essencial em Portugal no verão — noites claras até às 21h perturbam o sono.
-
-### 4. Saco de dormir
-[Saco de dormir bebé na Amazon →](https://www.amazon.es/s?k=saco+dormir+bebe&tag=bebefefeliz-21)
-
-Substitui as mantas (mais seguro) e cria associação ao sono. Gro Company e Slumbersac são as marcas mais fiáveis.
-
----
-
-## Métodos de treino de sono — o que a ciência diz
-
-Os métodos de treino de sono (Ferber, extinction, fading) são seguros e eficazes a partir dos 4-6 meses segundo estudos de longo prazo publicados no Pediatrics. Não causam dano emocional quando aplicados correctamente.
-
-Se precisas de ajuda personalizada, uma consultora de sono certificada (CSHP) pode fazer a diferença em dias.
-
----
-
-*Este artigo não substitui acompanhamento médico. Se o bebé tem problemas de saúde que afectem o sono, consulta o pediatra.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "melhor-banheira-bebe",
-    titulo: "Melhor Banheira para Bebé em 2026 — Por Idade e Praticidade",
-    descricao: "Comparámos as melhores banheiras para bebé disponíveis em Portugal. Da banheira ergonómica para recém-nascidos às opções que crescem com o bebé.",
+    titulo: "Melhor Banheira de Beb\u00ea em 2026 \u2014 Por Idade e Praticidade",
+    descricao: "Qual a melhor banheira para beb\u00ea no Brasil? Modelos mais pr\u00e1ticos e seguros com pre\u00e7os em R$.",
     categoria: "higiene",
-    data: "2026-05-09",
-    tempoLeitura: "5 min",
-    conteudo: `
-O banho do bebé pode ser um momento de relaxamento e ligação — ou de stress e medo. A banheira certa faz toda a diferença na segurança e no conforto de ambos.
+    data: "2026-02-25",
+    tempoLeitura: 8,
+    conteudo: `# Melhor Banheira de Bebê em 2026
 
----
+### 1. Stokke Flexi Bath XL (~R$ 450)
+Dobrável, com válvula de escoamento integrada. Dura até os 3-4 anos.
+[Ver na Amazon](https://www.amazon.com.br/s?k=stokke+flexi+bath+xl&tag=PLACEHOLDER_AMAZON_TAG)
 
-## Os melhores modelos de 2026
+### 2. BabyBjörn Baby Bath (~R$ 380)
+Encosto reclinado para recém-nascidos, suportes laterais quando o bebê começa a sentar.
+[Ver na Amazon](https://www.amazon.com.br/s?k=babybjorn+baby+bath&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 1. Stokke Flexi Bath XL — Melhor evolutiva
+### 3. Fisher-Price 4-em-1 (~R$ 250)
+4 fases: rede de recém-nascido, reclinada, sentado e banheira solo. A mais vendida no Brasil.
+[Ver na Amazon](https://www.amazon.com.br/s?k=fisher+price+banheira+4+em+1&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-**⭐ 4.8/5 | Preço: ~70€**
+Dicas: nunca deixe o bebê sozinho na água, água a ~37°C (teste com o cotovelo), bebês menores de 6 meses não precisam de banho todos os dias.
 
-Dobrável para guardar facilmente, cresce com o bebé até aos 6 anos com assentos adicionais, utilização em banheira ou duche adulto.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=stokke+flexi+bath+xl&tag=bebefefeliz-21)
-
----
-
-### 2. Babybjorn Baby Bath — Melhor ergonómica para recém-nascido
-
-**⭐ 4.7/5 | Preço: ~50€**
-
-Design ergonómico que suporta o recém-nascido sem precisar de suporte extra. Encaixa em banheira adulta. Muito fácil de usar sozinho quando o parceiro não está.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=babybjorn+baby+bath&tag=bebefefeliz-21)
-
----
-
-### 3. Fisher-Price 4-em-1 Sling 'n Seat — Melhor económica evolutiva
-
-**⭐ 4.5/5 | Preço: ~35€**
-
-Rede de suporte para recém-nascido que evolui para assento e depois banheira simples. Muito boa relação qualidade-preço.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=fisher+price+4+in+1+sling+seat+tub&tag=bebefefeliz-21)
-
----
-
-## Segurança no banho
-
-- **Nunca deixes o bebé sozinho na água** — nem um segundo
-- Temperatura ideal: 37°C (usa termómetro de banho)
-- Altura de água: 5-8cm para recém-nascido
-- Segura sempre a cabeça e pescoço do bebé
-
----
-
-*Este artigo contém links de afiliado Amazon.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
-    slug: "quanto-custa-ter-bebe-portugal",
-    titulo: "Quanto Custa Ter um Bebé em Portugal em 2026 — Guia Completo",
-    descricao: "Qual o custo real de ter um bebé em Portugal? Enxoval, médico, infantário, alimentação. Tudo calculado com valores actuais de 2026.",
+    slug: "quanto-custa-ter-bebe-brasil",
+    titulo: "Quanto Custa Ter um Beb\u00ea no Brasil em 2026 \u2014 Guia Completo",
+    descricao: "Quanto custa ter um beb\u00ea no Brasil? SUS vs. particular, enxoval e custos mensais calculados para a realidade brasileira.",
     categoria: "gravidez",
-    data: "2026-05-10",
-    tempoLeitura: "10 min",
-    conteudo: `
-Ter um filho em Portugal é um investimento enorme — e raramente os pais estão preparados para os custos reais. Este guia dá-te os números actualizados para 2026.
+    data: "2026-03-01",
+    tempoLeitura: 15,
+    conteudo: `# Quanto Custa Ter um Bebê no Brasil em 2026
 
----
+**Via SUS (totalmente gratuito)**: Pré-natal completo, exames, parto e acompanhamento pós-parto. É um direito garantido de toda gestante brasileira.
 
-## Custos durante a gravidez
+**Via particular**: Consultas R$ 200-500 cada (8-12 consultas), parto normal R$ 8.000-20.000, cesárea R$ 12.000-30.000.
 
-| Serviço | SNS (grátis) | Privado |
-|---|---|---|
-| Consultas pré-natais | Gratuito | 60-120€ cada |
-| Ecografias | 3 gratuitas | 80-150€ cada |
-| Análises de rotina | Gratuitas | 30-80€ cada |
-| Amniocentese (se necessário) | Gratuita | 400-800€ |
-| Parto normal | Gratuito | 2.000-5.000€ |
-| Cesariana | Gratuita | 3.000-7.000€ |
+**Enxoval econômico**: carrinho R$ 800, bebê conforto R$ 500, berço R$ 600, roupas R$ 300, mamadeiras R$ 100, monitor R$ 400 — total ~R$ 3.050.
+**Enxoval intermediário**: ~R$ 6.850. **Premium**: ~R$ 19.600.
 
-**Recomendação:** O SNS português tem muito boa qualidade no acompanhamento pré-natal. A maior vantagem do privado é a disponibilidade de horários e a consistência de médico.
+**Custos mensais**: fraldas R$ 200-380, lenços R$ 60-100, higiene R$ 100-200, pediatra R$ 0 (SUS) a R$ 300. Adicione R$ 400-700/mês para fórmula.
 
----
+Creche pública: gratuita (fila de espera). Privada: R$ 800-3.000/mês. Babá: R$ 2.000-4.000/mês.
 
-## Enxoval inicial — o que realmente precisas
+**Apoios**: licença-maternidade 120 dias pelo INSS (180 no Programa Empresa Cidadã), salário-maternidade para MEIs, Bolsa Família para baixa renda, vacinação gratuita no SUS.
 
-### Indispensável (investe bem)
+**Resumo**: SUS + enxoval econômico R$ 8.000-15.000 no primeiro ano. Plano + intermediário R$ 25.000-45.000. Particular + premium R$ 60.000-100.000.
 
-| Produto | Custo médio |
-|---|---|
-| Carrinho / sistema de viagem | 300-1.200€ |
-| Cadeira auto grupo 0+/i-Size | 150-500€ |
-| Berço + colchão | 120-400€ |
-| Roupinha (0-3 meses) | 100-200€ |
-| Biberões + acessórios | 50-100€ |
-| Monitor de bebé | 80-300€ |
-
-### Pode esperar ou comprar em segunda mão
-
-| Produto | Custo médio |
-|---|---|
-| Cadeira de papa | 60-300€ |
-| Banheira | 30-80€ |
-| Brinquedos | 50-150€ |
-| Porta-bebé | 60-150€ |
-
----
-
-## Custos mensais recorrentes
-
-| Despesa | Custo mensal |
-|---|---|
-| Fraldas (descartáveis) | 40-80€ |
-| Leite adaptado (se não amamenta) | 60-120€ |
-| Papas e comida (a partir dos 6m) | 30-60€ |
-| Pediatra consultas de rotina | 50-100€ |
-| Infantário / ama | 200-600€ |
-| **Total mínimo** | **~380-960€/mês** |
-
----
-
-## Apoios do Estado em Portugal 2026
-
-- **Abono de família:** ~50€/mês (varia com rendimento)
-- **Licença de maternidade:** 120 dias a 100% do salário
-- **Licença parental partilhada:** bónus de 30 dias se pai tirar 30 dias
-- **Cheque dentista:** consultas gratuitas até 16 anos
-- **Vacinas obrigatórias:** totalmente gratuitas no SNS
-
----
-
-*Este artigo não contém links de afiliado. Serve para ajudar os pais a planear financeiramente.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
-    slug: "melhor-bomba-amamentar",
-    titulo: "Melhor Bomba de Amamentação em 2026 — Manual e Eléctrica",
-    descricao: "Comparámos as melhores bombas de amamentação por eficácia, conforto e preço. Da manual económica às eléctricas duplas hospitalares.",
+    slug: "melhor-extrator-de-leite",
+    titulo: "Melhor Extrator de Leite Materno em 2026 \u2014 Manual e El\u00e9trico",
+    descricao: "Qual o melhor extrator de leite (bomba de ordenha) no Brasil? Os modelos mais recomendados por consultoras de lacta\u00e7\u00e3o.",
     categoria: "alimentacao",
-    data: "2026-05-11",
-    tempoLeitura: "7 min",
-    conteudo: `
-A bomba de amamentação pode ser essencial para manter a produção de leite, aliviar congestão, criar stock ou voltar ao trabalho. A escolha certa depende da frequência de uso.
+    data: "2026-03-05",
+    tempoLeitura: 10,
+    conteudo: `# Melhor Extrator de Leite Materno em 2026
 
----
+Manual: para uso ocasional. Elétrico duplo: para uso diário. Hands-free: encaixa no sutiã, sem fios.
 
-## Quando precisas de bomba
+### 1. Spectra S1 Plus (~R$ 1.200)
+O mais recomendado pelas consultoras de lactação no Brasil. Duplo, bateria recarregável, silencioso.
+[Ver na Amazon](https://www.amazon.com.br/s?k=spectra+s1+extrator+leite&tag=PLACEHOLDER_AMAZON_TAG)
 
-- **Regresso ao trabalho** — extrair no emprego para manter produção
-- **Bebé prematuro ou com dificuldade de pega** — estimular produção
-- **Congestão mamária** — aliviar sem reduzir produção
-- **Criar stock** — para saídas ou emergências
-- **Partilha da alimentação** com o parceiro
+### 2. Medela Swing Maxi (~R$ 1.500)
+Marca de referência mundial. Tecnologia 2-Phase Expression que imita o ritmo natural do bebê.
+[Ver na Amazon](https://www.amazon.com.br/s?k=medela+swing+maxi&tag=PLACEHOLDER_AMAZON_TAG)
 
----
+### 3. Elvie Stride (~R$ 2.000)
+100% sem fio, hands-free, silencioso. App acompanha volume em tempo real.
+[Ver na Amazon](https://www.amazon.com.br/s?k=elvie+stride+extrator&tag=PLACEHOLDER_AMAZON_TAG)
 
-## Manual vs Eléctrica
+### 4. Philips Avent Manual (~R$ 200)
+Para uso ocasional. Sem tomada. Compatível com mamadeiras Avent.
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+extrator+manual&tag=PLACEHOLDER_AMAZON_TAG)
 
-**Manual:**
-- Mais barata (15-40€)
-- Silenciosa
-- Boa para uso ocasional e aliviar congestão
-- Requer mais esforço físico
+Conservação: temperatura ambiente até 26°C por 4 horas, geladeira 4 dias, freezer doméstico 15 dias, freezer dedicado 3 meses.
 
-**Eléctrica:**
-- Mais eficiente e rápida
-- Simples (uma mama) ou dupla (duas ao mesmo tempo — poupa metade do tempo)
-- Essencial para extrações frequentes (3+ por dia)
-- Preço: 60-400€
-
----
-
-## As melhores bombas de 2026
-
-### 1. Spectra S1 Plus — Melhor eléctrica dupla
-
-**⭐ 4.9/5 | Preço: ~180€**
-
-A favorita das mães que amamentam a longo prazo. Tecnologia CLOSED SYSTEM (mais higiénica), sem BPA, bateria recarregável, muito silenciosa. Comparável a bombas hospitalares.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=spectra+s1+plus+breast+pump&tag=bebefefeliz-21)
-
----
-
-### 2. Medela Swing Maxi — Melhor da Medela
-
-**⭐ 4.7/5 | Preço: ~200€**
-
-A Medela é a marca mais recomendada por consultoras de lactação e hospitais. A Swing Maxi é a versão dupla portátil — muito eficaz e durável.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=medela+swing+maxi&tag=bebefefeliz-21)
-
----
-
-### 3. Elvie Stride — Melhor discreta (sem fios)
-
-**⭐ 4.5/5 | Preço: ~280€**
-
-Cabe dentro do soutien, completamente silenciosa, controlada por app. Para mães que precisam de extrair no trabalho de forma discreta.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=elvie+stride+breast+pump&tag=bebefefeliz-21)
-
----
-
-### 4. Philips Avent Manual — Melhor manual
-
-**⭐ 4.5/5 | Preço: ~30€**
-
-Para uso ocasional. Silenciosa, fácil de transportar, acessível a qualquer bolso.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=philips+avent+manual+breast+pump&tag=bebefefeliz-21)
-
----
-
-*Este artigo contém links de afiliado Amazon.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "melhor-brinquedo-bebe-0-12-meses",
-    titulo: "Melhores Brinquedos para Bebé dos 0 aos 12 Meses (2026)",
-    descricao: "Os melhores brinquedos para bebé por fase de desenvolvimento — dos 0 aos 12 meses. Seguros, estimulantes e adequados a cada etapa.",
+    titulo: "Melhores Brinquedos para Beb\u00ea de 0 a 12 Meses (2026)",
+    descricao: "Melhores brinquedos para estimular o desenvolvimento do beb\u00ea. Guia por faixa et\u00e1ria com produtos certificados INMETRO.",
     categoria: "estimulacao",
-    data: "2026-05-12",
-    tempoLeitura: "7 min",
-    conteudo: `
-Os brinquedos certos nos momentos certos fazem uma diferença enorme no desenvolvimento do bebé. O cérebro de 0 a 12 meses está em hipercrescimento — cada estímulo conta.
+    data: "2026-03-10",
+    tempoLeitura: 11,
+    conteudo: `# Melhores Brinquedos para Bebê de 0 a 12 Meses
 
----
+Todos os brinquedos para bebês vendidos no Brasil devem ter certificação INMETRO.
 
-## Por fase de desenvolvimento
+**0 a 3 meses**: Móbile Montessori de Contraste (~R$ 150) — estimulação visual de alto contraste.
+[Ver na Amazon](https://www.amazon.com.br/s?k=mobile+montessori+contraste+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 0-3 meses — Estimulação visual e auditiva
+**3 a 6 meses**: Tapete de Atividades Fisher-Price (~R$ 350) — tummy time com arco de brinquedos.
+[Ver na Amazon](https://www.amazon.com.br/s?k=tapete+atividades+fisher+price+bebe&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-Nesta fase o bebé só vê bem a 20-30cm de distância e prefere contrastes fortes (preto e branco).
+Livros de tecido (~R$ 80) — estimulam tato, visão e relação com leitura.
+[Ver na Amazon](https://www.amazon.com.br/s?k=livro+tecido+bebe+estimulacao&tag=PLACEHOLDER_AMAZON_TAG)
 
-**Recomendados:**
-- Cartões preto e branco com padrões geométricos
-- Móbile de berço com movimento e música suave
-- Brinquedo de textura para explorar com a boca
+**6 a 9 meses**: Cubo de Atividades (~R$ 200) — botões, engrenagens, espelhinhos, sons, texturas.
+[Ver na Amazon](https://www.amazon.com.br/s?k=cubo+atividades+bebe&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-[Móbile de berço Montessori na Amazon →](https://www.amazon.es/s?k=mobil+bebe+cuna+montessori&tag=bebefefeliz-21)
+**9 a 12 meses**: Andador de Empurrar (~R$ 200) — primeiros passos com apoio.
+[Ver na Amazon](https://www.amazon.com.br/s?k=andador+empurrar+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
----
+Evite: brinquedos sem INMETRO; andadores circulares (boiões) — não recomendados pela SBP.
 
-### 3-6 meses — Agarrar, agitar, explorar
-
-O bebé começa a agarrar e levar tudo à boca. Precisas de brinquedos seguros para morder e com sons interessantes.
-
-**Recomendados:**
-- Chocalhos com texturas variadas
-- Brinquedo de borracha natural para morder
-- Tapete de actividades com arco
-
-[Tapete de actividades Fisher-Price na Amazon →](https://www.amazon.es/s?k=fisher+price+tapete+actividades+bebe&tag=bebefefeliz-21)
-
----
-
-### 6-9 meses — Causa e efeito
-
-O bebé aprende que as suas acções têm consequências. Brinquedos que respondem ao toque são ideais.
-
-**Recomendados:**
-- Caixas de música com botões
-- Bolas com luzes e sons
-- Livros de tecido com texturas
-
-[Livros de tecido para bebé na Amazon →](https://www.amazon.es/s?k=libros+tela+bebe+texturas&tag=bebefefeliz-21)
-
----
-
-### 9-12 meses — Movimento e imitação
-
-O bebé está a gatinhar ou a caminhar com apoio. Brinquedos que estimulam o movimento e a imitação dos adultos.
-
-**Recomendados:**
-- Andador com brinquedos (não o tipo que o bebé senta dentro)
-- Empilhador de anéis
-- Telefone de brinquedo
-- Cubo de actividades
-
-[Cubo de actividades Melissa & Doug na Amazon →](https://www.amazon.es/s?k=melissa+doug+activity+cube+baby&tag=bebefefeliz-21)
-
----
-
-## O que evitar
-
-- Brinquedos com peças pequenas (risco de engolir) até aos 3 anos
-- Brinquedos com cordas longas (risco de estrangulamento) — máximo 30cm
-- Brinquedos sem certificação CE
-- Excesso de brinquedos electrónicos — o contacto humano é o melhor estímulo
-
----
-
-*Este artigo contém links de afiliado Amazon.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "produtos-indispensaveis-recem-nascido",
-    titulo: "15 Produtos Indispensáveis para Recém-Nascido em 2026",
-    descricao: "O que precisas mesmo de ter antes do bebé nascer? Lista completa e honesta dos 15 produtos essenciais para recém-nascido em Portugal.",
+    titulo: "15 Produtos Indispens\u00e1veis para Rec\u00e9m-Nascido no Brasil (2026)",
+    descricao: "Lista dos 15 produtos essenciais para rec\u00e9m-nascido. Amazon.com.br, Ri Happy, Beb\u00ea Store e OLX/Enjoei.",
     categoria: "gravidez",
-    data: "2026-05-13",
-    tempoLeitura: "8 min",
-    conteudo: `
-A indústria do bebé quer que compres tudo. A realidade é que precisas de muito menos do que pensas. Esta lista foca no essencial — o que realmente vais usar nas primeiras semanas.
+    data: "2026-03-15",
+    tempoLeitura: 13,
+    conteudo: `# 15 Produtos Indispensáveis para Recém-Nascido no Brasil
 
----
+1. **Bebê conforto com INMETRO** (~R$ 2.000-3.500) — obrigatório, compre antes do nascimento.
+[Ver na Amazon](https://www.amazon.com.br/s?k=bebe+conforto+inmetro&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-## Os 15 essenciais
+2. **Berço** (~R$ 700-2.500)
+[Ver na Amazon](https://www.amazon.com.br/s?k=berco+bebe&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Bebê Store](PLACEHOLDER_BEBESTORE_LINK)
 
-### 1. Berço ou co-sleeper
-Para as primeiras semanas, um co-sleeper encostado à cama dos pais é a opção mais prática.
+3. **Fraldas — Pampers Premium Care ou Huggies Supreme** — 8-12/dia. Não exagere no tamanho RN.
+[Ver na Amazon](https://www.amazon.com.br/s?k=pampers+premium+care+recem+nascido&tag=PLACEHOLDER_AMAZON_TAG)
 
-[Chicco Next2Me →](https://www.amazon.es/s?k=chicco+next2me+forever&tag=bebefefeliz-21)
+4. **Lenços WaterWipes** (~R$ 40/pacote) — 99,9% de água.
+[Ver na Amazon](https://www.amazon.com.br/s?k=waterwipes+lenco+umedecido&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 2. Colchão de berço firme + lençóis
-O colchão é onde o bebé passa 16h por dia — não economizes aqui.
+5. **Produtos Mustela ou Weleda Calendula** (~R$ 60-150) — sabonete, creme para assadura, hidratante.
+[Ver na Amazon](https://www.amazon.com.br/s?k=mustela+recem+nascido+kit&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 3. Cadeira auto i-Size para grupo 0+
-Obrigatória por lei desde o primeiro transporte do hospital.
+6. **Carrinho de bebê** [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-[Maxi-Cosi Pebble 360 →](https://www.amazon.es/s?k=maxi+cosi+pebble+360&tag=bebefefeliz-21)
+7. **Mamadeira Philips Avent Natural Response** (~R$ 90)
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 4. Carrinho ou sistema de viagem
-Para saídas desde as primeiras semanas.
+8. **Roupas** (~R$ 300-500) — principalmente tamanho 1 (0-3m), pijamas com zíper.
+[Ver na Amazon](https://www.amazon.com.br/s?k=body+recem+nascido+kit&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 5. Biberões (mesmo se amamentas)
-Para emergências, suplementação ou transição.
+9. **Saco de dormir** (~R$ 150-250) — Gro Company ou Halo SleepSack.
+[Ver na Amazon](https://www.amazon.com.br/s?k=saco+dormir+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
-[Philips Avent Natural →](https://www.amazon.es/s?k=philips+avent+natural+response&tag=bebefefeliz-21)
+10. **Termômetro** — [Ver na Amazon](https://www.amazon.com.br/s?k=termometro+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 6. Sacos de dormir (2 unidades)
-Substituem as mantas de forma mais segura. Tamanho 0-6 meses para começar.
+11. **Frida NoseFrida** (~R$ 80) — aspirador nasal favorito dos pais brasileiros.
+[Ver na Amazon](https://www.amazon.com.br/s?k=frida+noseFrida+aspirador+nasal&tag=PLACEHOLDER_AMAZON_TAG)
 
-[Sacos de dormir Gro Company →](https://www.amazon.es/s?k=gro+company+grobag+0-6+meses&tag=bebefefeliz-21)
+12. **Banheira**
+[Ver na Amazon](https://www.amazon.com.br/s?k=banheira+bebe&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Bebê Store](PLACEHOLDER_BEBESTORE_LINK)
 
-### 7. Fraldas tamanho RN e 1
-Compra pequena quantidade de RN — alguns bebés passam directamente para o 1.
+13. **Monitor de bebê**
+[Ver na Amazon](https://www.amazon.com.br/s?k=monitor+bebe+video&tag=PLACEHOLDER_AMAZON_TAG)
 
-### 8. Cremes de muda de fralda
-Metanium (amarelo) para assaduras severas. Sudocrem para prevenção diária.
+14. **Babador e panos de boca** (~R$ 50-100) — compre pelo menos 10-15.
+[Ver na Amazon](https://www.amazon.com.br/s?k=pano+de+boca+bebe+kit&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
 
-### 9. Termómetro rectal ou de orelha
-Essencial para monitorizar febre com precisão.
+15. **Creme Bepantol** (~R$ 25)
+[Ver na Amazon](https://www.amazon.com.br/s?k=bepantol+bebe&tag=PLACEHOLDER_AMAZON_TAG)
 
-[Termómetro de orelha Braun →](https://www.amazon.es/s?k=braun+termometro+orelha+bebe&tag=bebefefeliz-21)
+Onde comprar: Amazon.com.br, Ri Happy, Bebê Store, OLX/Enjoei (segunda mão 40-60% mais barato).
 
-### 10. Aspirador nasal
-O Frida NoseFrida (com boca) é o mais eficaz. Parece nojento mas funciona melhor que qualquer eléctrico.
-
-[Frida NoseFrida na Amazon →](https://www.amazon.es/s?k=frida+nosefrida&tag=bebefefeliz-21)
-
-### 11. Porta-bebé ergonómico
-Para as primeiras semanas, um wrap elástico ou porta-bebé ergonómico dá as mãos livres e acalma o bebé.
-
-### 12. Banheira de bebé
-Compacta, com suporte para recém-nascido.
-
-### 13. Bola de pilates (grande)
-Não é produto de bebé — mas balançar o bebé numa bola é a estratégia de acalmamento mais eficaz dos primeiros meses.
-
-### 14. Babetes de pano (10 unidades mínimo)
-Para regurgitações — vais usar muitos por dia.
-
-### 15. Chupeta (ter disponível)
-Mesmo se não planeias usar — pode ser essencial numa emergência. Phillps Avent Soothie é a mais recomendada por pediatras.
-
----
-
-## O que não precisas de comprar
-
-- **Banheira de sapatilha** — desnecessária, a standard funciona
-- **Aquecedor de biberões** — uma caneca com água quente funciona igual
-- **Intercomunicador sofisticado** — os primeiros meses o bebé fica no quarto convosco
-- **Espreguiçadeira** — muitos bebés não gostam, verifica antes de comprar
-
----
-
-*Este artigo contém links de afiliado Amazon.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br, Ri Happy e Bebê Store. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "melhor-termometro-bebe",
-    titulo: "Melhor Termómetro para Bebé em 2026 — Por Tipo e Precisão",
-    descricao: "Comparámos os melhores termómetros para bebé disponíveis em Portugal — rectal, de orelha, de testa e sem contacto. Qual é o mais preciso?",
+    titulo: "Melhor Term\u00f4metro para Beb\u00ea em 2026 \u2014 Por Tipo e Precis\u00e3o",
+    descricao: "Qual o melhor term\u00f4metro para beb\u00ea no Brasil? A SBP recomenda qual \u00e9 o mais preciso.",
     categoria: "saude",
-    data: "2026-05-14",
-    tempoLeitura: "5 min",
-    conteudo: `
-Medir a temperatura do bebé com precisão é fundamental — uma febre mal medida pode levar a uma ida desnecessária ao hospital ou, pior, a não ir quando devia. Eis o que a pediatria recomenda.
+    data: "2026-03-20",
+    tempoLeitura: 8,
+    conteudo: `# Melhor Termômetro para Bebê em 2026
 
----
+A SBP (Sociedade Brasileira de Pediatria) recomenda o termômetro retal como o mais preciso para bebês abaixo de 3 meses.
 
-## Por precisão — do mais ao menos fiável
+### 1. Braun ThermoScan 7 (~R$ 400)
+Tecnologia Age Precision (ajusta conforme faixa etária), resultado em 2 segundos, padrão-ouro dos consultórios.
+[Ver na Amazon](https://www.amazon.com.br/s?k=braun+thermoscan+7&tag=PLACEHOLDER_AMAZON_TAG)
 
-1. **Rectal** — padrão de ouro, mais preciso, recomendado pela AAP para bebés abaixo dos 3 meses
-2. **Axilar (axila)** — menos preciso mas aceitável acima dos 3 meses
-3. **Timpânico (orelha)** — muito prático, bastante preciso se bem posicionado
-4. **Testa (infravermelho)** — rápido mas menos fiável em ambientes frios/quentes
-5. **Sem contacto** — o menos preciso, para triagem rápida apenas
+### 2. Termômetro retal digital (~R$ 60)
+O mais preciso para recém-nascidos segundo a SBP.
+[Ver na Amazon](https://www.amazon.com.br/s?k=termometro+retal+bebe+digital&tag=PLACEHOLDER_AMAZON_TAG)
 
----
+### 3. Chicco Infrared (~R$ 280)
+Testa + ouvido, resultado em 1 segundo, mede sem acordar o bebê.
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+termometro+infravermelho&tag=PLACEHOLDER_AMAZON_TAG)
 
-## Os melhores termómetros de 2026
+Febre: retal >= 38°C, axilar >= 37,5°C, ouvido/testa >= 38°C.
+Regra da SBP: bebê abaixo de 3 meses com temperatura retal >= 38°C = vá imediatamente ao pediatra.
 
-### 1. Braun ThermoScan 7 — Melhor de orelha
-
-**⭐ 4.8/5 | Preço: ~60€**
-
-O termómetro de orelha mais recomendado por pediatras portugueses. Tecnologia Age Precision que ajusta os valores normais por faixa etária. Medição em 1 segundo.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=braun+thermoscan+7+IRT6520&tag=bebefefeliz-21)
-
----
-
-### 2. Welch Allyn Braun — Melhor rectal (para recém-nascidos)
-
-**⭐ 4.7/5 | Preço: ~15€**
-
-Para bebés abaixo dos 3 meses, o rectal é o mais fiável. Simples, preciso, com ponta flexível para maior segurança.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=termometro+rectal+bebe+recien+nacido&tag=bebefefeliz-21)
-
----
-
-### 3. Chicco Infrared — Melhor sem contacto
-
-**⭐ 4.4/5 | Preço: ~40€**
-
-Para triagem rápida sem acordar o bebé. Não recomendado como único termómetro — confirma sempre com timpânico se dúvidas.
-
-[Ver na Amazon →](https://www.amazon.es/s?k=chicco+termometro+infrared&tag=bebefefeliz-21)
-
----
-
-## Quando ligar para o pediatra
-
-- **Bebé abaixo dos 3 meses:** qualquer febre acima de 38°C — liga imediatamente
-- **Bebé 3-6 meses:** febre acima de 38°C que não cede com antipiréticos
-- **Acima dos 6 meses:** febre acima de 39°C, febre que dura mais de 3 dias, ou bebé muito prostrado
-
----
-
-*Este artigo contém links de afiliado Amazon. Para informações médicas, consulta sempre o pediatra.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "lista-enxoval-bebe-completa",
-    titulo: "Lista de Enxoval de Bebé Completa para Portugal (2026)",
-    descricao: "Lista de enxoval completa e actualizada para 2026 em Portugal. O que comprar, em que quantidade e onde poupar — organizada por categoria.",
+    titulo: "Lista de Enxoval de Beb\u00ea Completa para o Brasil (2026)",
+    descricao: "Lista de enxoval completa para o Brasil. Amazon.com.br, Ri Happy, Beb\u00ea Store e OLX/Enjoei.",
     categoria: "gravidez",
-    data: "2026-05-15",
-    tempoLeitura: "9 min",
-    conteudo: `
-Preparar o enxoval do bebé pode ser avassalador. Com esta lista poupas tempo, dinheiro e evitas comprar coisas que nunca vais usar.
+    data: "2026-03-25",
+    tempoLeitura: 14,
+    conteudo: `# Lista de Enxoval de Bebê Completa para o Brasil
 
----
+**Sono**: berço (Chicco Next2Me, Burigotto), saco de dormir 2x (Gro Company, Halo SleepSack), lençóis 3-4x (Papi, Biramar), protetor solar UV50+ para carrinho.
 
-## Roupa — quantidades realistas
+**Banho e higiene**: banheira (Fisher-Price, Stokke), sabonete 2 em 1 (Mustela, Weleda Calendula), creme para assadura (Bepantol, Mustela Cicastela), fraldas (Pampers Premium Care, Huggies Supreme), lenços (WaterWipes).
 
-### Tamanho 0-3 meses (ou 56-62cm)
+**Roupas 0-3 meses**: bodys manga curta e comprida (5-6 cada), macacões com zíper (4-5), pijamas com pés (3-4), meias (5-6 pares), panos de boca (10-12).
 
-| Peça | Quantidade | Nota |
-|---|---|---|
-| Bodies de manga curta | 6-8 | Base de tudo |
-| Bodies de manga comprida | 4-6 | Para inverno |
-| Pijamas com pé | 4-6 | Dobram em dois |
-| Calças/leggings | 3-4 | Opcionais com bodies |
-| Meias | 6 pares | Perdem-se facilmente |
-| Gorro | 2-3 | Para hospital e primeiras semanas |
-| Casaco/blusão | 1-2 | Conforme a estação |
+**Alimentação**: mamadeiras (Philips Avent Natural, MAM), extrator de leite (Spectra S1, Philips Avent manual), creme para mamilo (Lanolina Lansinoh).
 
-**Nota importante:** Muitos bebés nascem grandes e saltam directamente para 3-6 meses. Não compres demasiado de 0-3 antes do nascimento.
+**Onde comprar no Brasil**: Amazon.com.br (maior variedade), Ri Happy (promoções frequentes), Bebê Store (especializada), OLX/Enjoei (carrinhos e berços de segunda mão 40-60% mais barato).
 
----
+**Não compre antes do nascimento**: muita roupa RN, andador circular (não recomendado pela SBP), aparelho de esterilização caro (panela fervente funciona igual).
 
-## Higiene e cuidados
-
-| Produto | Quantidade | Marca recomendada |
-|---|---|---|
-| Fraldas RN | 1 embalagem pequena | Pampers Sensitive |
-| Fraldas Tamanho 1 | 2-3 embalagens | Pampers/Huggies |
-| Toalhitas sem álcool | 4-6 embalagens | WaterWipes |
-| Creme de assaduras | 1 grande + 1 pequeno | Sudocrem + Metanium |
-| Shampoo/gel bebé | 1 | Mustela |
-| Óleo de massagem | 1 | Weleda |
-| Algodão hidrófilo | 1 rolo | — |
-
----
-
-## Sono
-
-| Produto | Quantidade | Nota |
-|---|---|---|
-| Sacos de dormir 0-6m | 2-3 | Gro Company ou Ergobaby |
-| Lençóis de berço | 4-6 | 100% algodão |
-| Cobertor de malha | 1-2 | Para envolver, não no berço |
-
----
-
-## Alimentação
-
-| Produto | Quantidade | Nota |
-|---|---|---|
-| Biberões 120ml | 3-4 | Mesmo se amamentas |
-| Biberões 240ml | 2 | Para quando crescer |
-| Esterilizador | 1 | Elétrico ou micro-ondas |
-| Escova para biberões | 2 | — |
-| Babetes de pano | 10-15 | Nunca são demais |
-| Almofada de amamentação | 1 | My Brest Friend ou Boppy |
-
----
-
-## Passeio e transporte
-
-| Produto | Nota |
-|---|---|
-| Carrinho ou sistema de viagem | Ver guia de carrinhos |
-| Cadeira auto 0+/i-Size | Obrigatória antes de sair do hospital |
-| Capa de chuva para carrinho | Essencial em Portugal |
-| Protector solar para carrinho | Para verão |
-
----
-
-## O que poupar — o que NÃO comprar antes
-
-- **Cadeira de papa** — espera para ver o tamanho e comportamento do bebé
-- **Andador** (do tipo que o bebé senta dentro) — contraindicado pela pediatria
-- **Banheira elaborada** — a simples funciona igual
-- **Demasiada roupa de um tamanho** — cresce muito rápido
-- **Monitor elaborado** — nos primeiros meses o bebé dorme no vosso quarto
-
----
-
-## Onde comprar em Portugal
-
-- **Amazon.es** — melhor preço e variedade, entrega em 1-2 dias
-- **El Corte Inglés** — boa selecção, aceita devoluções fáceis
-- **OLX/Vinted** — óptimo para carrinhos, berços e cadeiras auto em segunda mão
-- **Mercado de bebés** — várias cidades fazem regularmente, óptimos preços
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br, Ri Happy e Bebê Store. Ganhamos comissão em compras qualificadas.`
   },
   {
     slug: "bugaboo-fox-5-vs-joolz-day-plus",
-    titulo: "Bugaboo Fox 5 vs Joolz Day+ — Qual o Melhor Carrinho Premium em 2026?",
-    descricao: "Comparámos o Bugaboo Fox 5 e o Joolz Day+ em conforto, suspensão, peso, manobrabilidade e relação qualidade-preço para ajudar os pais portugueses a escolher.",
+    titulo: "Bugaboo Fox 5 vs Joolz Day+ \u2014 Qual o Melhor Carrinho Premium no Brasil em 2026?",
+    descricao: "Comparativo entre Bugaboo Fox 5 e Joolz Day+ para o Brasil \u2014 cal\u00e7adas irregulares, chuvas tropicais, S\u00e3o Paulo e Rio. Pre\u00e7os em R$.",
     categoria: "carrinho",
-    data: "2026-06-06",
-    tempoLeitura: "9 min",
-    conteudo: `
-Quando o orçamento permite investir num carrinho premium, duas opções aparecem constantemente no topo das recomendações: o Bugaboo Fox 5 e o Joolz Day+.
+    data: "2026-03-30",
+    tempoLeitura: 11,
+    conteudo: `# Bugaboo Fox 5 vs Joolz Day+ no Brasil em 2026
 
-Ambos oferecem qualidade excecional, materiais premium e excelente durabilidade. Mas existem diferenças importantes que podem tornar um deles mais adequado para a tua família.
+| | Bugaboo Fox 5 | Joolz Day+ |
+|--|--------------|------------|
+| Preço | ~R$ 8.000 | ~R$ 6.500 |
+| Peso | 9,9 kg | 11,5 kg |
+| Suspensão | Mola nas 4 rodas | Mola traseira |
+| Berço incluso | Não (+R$ 1.500) | Sim |
 
----
+**Calçadas brasileiras**: O Bugaboo Fox 5 atravessa pedras portuguesas, buracos e raízes de São Paulo e Rio com suavidade notável. O Joolz Day+ é adequado para bairros com boas calçadas (Jardins em SP, Leblon no Rio).
 
-## Resposta rápida
+**Praticidade**: O Joolz dobra com uma mão e fica de pé sozinho — prático em metrô. O Bugaboo tem cesta enorme (17 kg) e melhor valor de revenda no OLX/Enjoei.
 
-### Escolhe o Bugaboo Fox 5 se:
+Escolha o **Bugaboo Fox 5** se você mora em bairro com calçadas irregulares, usa diariamente ou planeja vender depois.
+Escolha o **Joolz Day+** se você mora em bairro com boas calçadas e quer economizar R$ 1.500-3.000 com berço incluso.
 
-- Fazes muitas caminhadas
-- Usas passeios em paralelo, calçada ou terrenos irregulares
-- Queres a melhor suspensão do mercado
-- Procuras máxima durabilidade
+[Bugaboo Fox 5 na Amazon](https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=PLACEHOLDER_AMAZON_TAG) | [Ver na Ri Happy](PLACEHOLDER_RIHAPPY_LINK)
+[Joolz Day+ na Amazon](https://www.amazon.com.br/s?k=joolz+day+plus&tag=PLACEHOLDER_AMAZON_TAG)
 
-### Escolhe o Joolz Day+ se:
-
-- Vives numa cidade
-- Valorizas design elegante
-- Queres um carrinho ligeiramente mais compacto
-- Procuras um visual mais moderno
-
----
-
-## Comparação rápida
-
-| Característica | Bugaboo Fox 5 | Joolz Day+ |
-|---|---|---|
-| Suspensão | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Conforto do bebé | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Facilidade de dobrar | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Peso | 10,4 kg | 12,5 kg |
-| Manobrabilidade | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Design | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Relação qualidade-preço | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
----
-
-## Bugaboo Fox 5
-
-**⭐ 4.9/5 | Preço: ~1.200€**
-
-O Fox 5 é considerado por muitos especialistas o melhor carrinho premium do mercado.
-
-### Pontos fortes
-
-- Suspensão excepcional
-- Rodas grandes para qualquer terreno
-- Muito leve para a categoria
-- Dobragem simples com uma mão
-- Excelente valor de revenda
-
-### Pontos menos positivos
-
-- Preço elevado
-- Cesto inferior poderia ser maior
-
-[Ver na Amazon →](https://www.amazon.es/s?k=bugaboo+fox+5&tag=bebefefeliz-21)
-
----
-
-## Joolz Day+
-
-**⭐ 4.8/5 | Preço: ~1.100€**
-
-O Joolz Day+ tornou-se extremamente popular entre famílias urbanas graças ao design moderno e aos acabamentos premium.
-
-### Pontos fortes
-
-- Visual muito elegante
-- Assento confortável e espaçoso
-- Capota XL excelente para o verão
-- Grande qualidade dos materiais
-
-### Pontos menos positivos
-
-- Mais pesado
-- Suspensão inferior ao Bugaboo em pisos irregulares
-
-[Ver na Amazon →](https://www.amazon.es/s?k=joolz+day+plus&tag=bebefefeliz-21)
-
----
-
-## Qual é melhor para Portugal?
-
-Portugal apresenta desafios específicos:
-
-- Passeios em calçada portuguesa
-- Passeios estreitos
-- Ruas inclinadas
-- Centros históricos com piso irregular
-
-Neste cenário, o Bugaboo Fox 5 leva vantagem graças à suspensão superior e à facilidade de condução.
-
----
-
-## Conforto para o bebé
-
-Ambos oferecem assento reversível, reclinação quase total, capotas extensíveis e boa ventilação. Na prática, a diferença é mínima — empate técnico.
-
----
-
-## Facilidade de utilização
-
-### Bugaboo Fox 5
-
-- Mais fácil de empurrar
-- Melhor em terrenos difíceis
-- Menos esforço em passeios longos
-
-### Joolz Day+
-
-- Mais intuitivo para uso urbano
-- Excelente acesso ao cesto inferior
-- Design muito funcional
-
----
-
-## Valor de revenda
-
-O Bugaboo mantém normalmente um valor de revenda muito elevado em Portugal. Após 3 ou 4 anos de utilização é comum recuperar 50% ou mais do investimento inicial.
-
----
-
-## Veredito Final
-
-### Melhor carrinho premium no geral
-🥇 Bugaboo Fox 5
-
-Maior versatilidade, melhor suspensão e melhor comportamento nos pisos portugueses.
-
-### Melhor carrinho para cidade
-🥇 Joolz Day+
-
-Design moderno, excelente conforto e utilização urbana muito agradável.
-
-Para a maioria das famílias portuguesas, o Bugaboo Fox 5 continua a ser a escolha mais segura.
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
-  },
-  {
-    slug: "cybex-vs-maxi-cosi",
-    titulo: "Cybex vs Maxi-Cosi — Qual a Melhor Cadeira Auto para o Teu Bebé em 2026?",
-    descricao: "Cybex ou Maxi-Cosi? Comparámos segurança, conforto, facilidade de utilização e preço para te ajudar a escolher a melhor cadeira auto para o teu bebé.",
-    categoria: "seguranca",
-    data: "2026-06-06",
-    tempoLeitura: "8 min",
-    conteudo: `
-Escolher entre Cybex e Maxi-Cosi é uma das dúvidas mais comuns entre os pais. Ambas as marcas lideram os testes europeus de segurança, mas existem diferenças importantes que podem fazer uma delas ser mais adequada para a tua família.
-
----
-
-## Resposta rápida
-
-### Escolhe Cybex se:
-* Queres a máxima classificação em segurança
-* Fazes muitas viagens de carro
-* Procuras materiais premium
-* Tens orçamento mais elevado
-
-### Escolhe Maxi-Cosi se:
-* Queres melhor relação qualidade-preço
-* Valorizas facilidade de utilização
-* Procuras maior disponibilidade em Portugal
-* Pretendes integrar facilmente com carrinhos
-
----
-
-## Comparação direta
-
-| Critério | Cybex | Maxi-Cosi |
-|---|---|---|
-| Segurança | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Facilidade de uso | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Conforto | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Design | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Relação qualidade-preço | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Rede de assistência | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-
----
-
-## Melhor cadeira Cybex
-
-### Cybex Sirona T i-Size
-
-**⭐ 4.8/5 | Preço: ~500€**
-
-Uma das cadeiras mais recomendadas pelos especialistas em segurança infantil.
-
-Principais vantagens:
-* Rotação 360°
-* Utilização contra a marcha até aos 4 anos
-* Proteção lateral avançada
-* Excelente resultado nos testes ADAC
-
-[Ver na Amazon →](https://www.amazon.es/s?k=cybex+sirona+t+i-size&tag=bebefefeliz-21)
-
----
-
-## Melhor cadeira Maxi-Cosi
-
-### Maxi-Cosi Pebble 360 Pro
-
-**⭐ 4.8/5 | Preço: ~450€**
-
-Uma das cadeiras mais populares entre os pais portugueses.
-
-Principais vantagens:
-* Sistema SlideTech
-* Rotação 360°
-* Muito fácil de instalar
-* Compatível com inúmeros carrinhos
-
-[Ver na Amazon →](https://www.amazon.es/s?k=maxi+cosi+pebble+360+pro&tag=bebefefeliz-21)
-
----
-
-## Qual é mais segura?
-
-Na prática, ambas são extremamente seguras quando instaladas corretamente.
-
-A Cybex tende a destacar-se nos testes independentes graças à proteção lateral e à utilização prolongada contra a marcha.
-
-Contudo, uma cadeira ligeiramente menos avançada mas corretamente instalada é sempre mais segura do que um modelo premium mal utilizado.
-
----
-
-## Qual oferece melhor relação qualidade-preço?
-
-Para a maioria das famílias portuguesas:
-
-🏆 **Maxi-Cosi**
-
-A diferença de segurança é mínima no uso real, enquanto o preço costuma ser mais acessível e a disponibilidade de acessórios é superior.
-
----
-
-## Vale a pena pagar mais pela Cybex?
-
-Sim, se:
-* Viajas frequentemente
-* Fazes muitos quilómetros por semana
-* Pretendes usar a cadeira durante vários anos
-* Procuras o máximo nível de proteção disponível
-
-Caso contrário, a Maxi-Cosi oferece uma excelente experiência por menos dinheiro.
-
----
-
-## Veredito Final
-
-### Melhor para a maioria das famílias
-🥇 Maxi-Cosi Pebble 360 Pro
-
-### Melhor para quem procura o topo do mercado
-🥇 Cybex Sirona T i-Size
-
-Independentemente da escolha, ambas estão entre as melhores cadeiras auto disponíveis atualmente em Portugal.
-
----
-
-*Este artigo contém links de afiliado Amazon. Se comprares através destes links, recebemos uma pequena comissão sem qualquer custo adicional para ti.*
-    `
+> Aviso de afiliação: Links de afiliados Amazon.com.br e Ri Happy. Ganhamos comissão em compras qualificadas.`
   }
 ];
 
