@@ -20,4 +20,31 @@
   <url><loc>https://www.chegouobebe.com.br/blog/bugaboo-fox-5-vs-joolz-day-plus</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.chegouobebe.com.br/blog/cybex-vs-maxi-cosi</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.chegouobebe.com.br/privacidade</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+
+  <!-- Artigos novos — cursos Udemy e paternidade -->
+  <url>
+    <loc>https://www.chegouobebe.com.br/blog/gestacao-paternidade-responsavel-guia-completo</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.chegouobebe.com.br/blog/paternidade-responsavel-guia-papai-de-primeira</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.chegouobebe.com.br/blog/curso-baba-babysitter-guia-completo</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.chegouobebe.com.br/blog/curso-bercario-bercaristaguia</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
