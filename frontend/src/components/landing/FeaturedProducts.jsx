@@ -14,7 +14,7 @@ const PRODUTOS = [
         urlAmazon: "https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=chegouobebe-20",
         urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-carrinho-bebe-brasil",
-        img: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
+        img: "/images/carrinho-bugaboo.jpg",
     },
     {
         nome: "Chicco Next2Me Forever",
@@ -28,7 +28,7 @@ const PRODUTOS = [
         urlAmazon: "https://www.amazon.com.br/s?k=chicco+next2me+forever&tag=chegouobebe-20",
         urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-berco-bebe",
-        img: "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=400&q=80",
+        img: "/images/berco-bebe.jpg",
     },
     {
         nome: "Maxi-Cosi Pebble 360",
@@ -42,7 +42,7 @@ const PRODUTOS = [
         urlAmazon: "https://www.amazon.com.br/s?k=maxi+cosi+pebble+360&tag=chegouobebe-20",
         urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-bebe-conforto-brasil",
-        img: "https://images.unsplash.com/photo-1578307990016-f1dfbddf76fc?w=400&q=80",
+        img: "/images/cadeira-auto-maxicosi.jpg",
     },
     {
         nome: "Philips Avent Natural",
@@ -56,7 +56,7 @@ const PRODUTOS = [
         urlAmazon: "https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=chegouobebe-20",
         urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-mamadeira-bebe",
-        img: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
+        img: "/images/biberon-philips.jpg",
     },
 ];
 
