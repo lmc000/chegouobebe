@@ -175,31 +175,31 @@ As calçadas irregulares de São Paulo e Rio de Janeiro, as chuvas tropicais do 
 O melhor carrinho para calçadas irregulares do mercado. Suspensão a mola em todas as 4 rodas absorve impactos com suavidade impressionante, capô XL com UV50+ e sistema modular reversível. Aceita bebê recém-nascido com o berço incluso. É caro, mas tem o melhor valor de revenda no OLX/Enjoei.
 
 **Ideal para:** pais que usam o carrinho diariamente em calçadas irregulares e pretendem revender depois.
-[Ver na Amazon](https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. UPPAbaby Vista V3 (~R$ 7.500)
 O único carrinho desta faixa de preço que aceita dois assentos infantis sem adaptador adicional — ideal para gêmeos ou filhos com pouca diferença de idade. Berço incluso, cesta enorme (15 kg) e bom desempenho em calçadas irregulares.
 
 **Ideal para:** famílias com dois filhos pequenos ou que planejam ter o segundo filho em breve.
-[Ver na Amazon](https://www.amazon.com.br/s?k=uppababy+vista+v3&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=uppababy+vista+v3&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Chicco Mysa (~R$ 2.500)
 O melhor custo-benefício da categoria intermediária. Dobragem com uma mão e fica de pé sozinho — ótimo para apartamentos. Garantia e assistência técnica disponíveis no Brasil, o que é uma vantagem importante para manutenção.
 
 **Ideal para:** primeiro carrinho de uso urbano moderado, quem mora em apartamento ou tem carro pequeno.
-[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+mysa+carrinho&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+mysa+carrinho&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 4. Joie Versatrax (~R$ 1.800)
 O melhor custo-benefício geral. Inclui o carrinho, o berço de viagem e o adaptador para bebê conforto — tudo no mesmo preço. Dobragem compacta, bom para o porta-malas.
 
 **Ideal para:** orçamento limitado sem abrir mão de versatilidade e segurança básica.
-[Ver na Amazon](https://www.amazon.com.br/s?k=joie+versatrax&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=joie+versatrax&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 5. Silver Cross Dune (~R$ 5.500)
 Rodas com câmara de ar (as melhores para absorver impactos), design clássico britânico atemporal e acabamento premium. Uma das melhores opções para quem prioriza conforto de condução.
 
 **Ideal para:** pais que valorizam estética e desempenho, especialmente em bairros com calçadas mistas.
-[Ver na Amazon](https://www.amazon.com.br/s?k=silver+cross+dune&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=silver+cross+dune&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -258,25 +258,25 @@ A OMS e a SBP (Sociedade Brasileira de Pediatria) recomendam que o bebê durma n
 O berço de co-sleeping mais vendido no Brasil há três anos consecutivos. Altura ajustável em 9 posições, lateral abaixável para amamentação noturna sem sair da cama, converte em berço independente até os 5 anos e depois em sofá infantil. Excelente durabilidade e facilidade de montagem.
 
 **Ideal para:** mães que amamentam, especialmente após cesárea, e querem o bebê por perto sem dividir a cama.
-[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+next2me+forever&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+next2me+forever&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. SnüzPod 4 (~R$ 2.000)
 Design escandinavo elegante, lateral em malha respirável (melhor ventilação no calor brasileiro), altura ajustável. Mais leve que o Chicco, fácil de mover entre cômodos.
 
 **Ideal para:** pais que valorizam design e leveza, e preferem material respirável no clima quente.
-[Ver na Amazon](https://www.amazon.com.br/s?k=snuzpod+4&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=snuzpod+4&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Berço Convertível Burigotto / Tutti Baby (~R$ 800–1.800)
 Marcas brasileiras com certificação INMETRO, boa relação custo-benefício e peças de reposição fáceis de encontrar no Brasil. Convertem em cama infantil quando o bebê cresce, prolongando a vida útil.
 
 **Ideal para:** orçamento controlado, quem prefere marca nacional com suporte local.
-[Ver na Amazon](https://www.amazon.com.br/s?k=berco+convertivel+bebe+inmetro&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=berco+convertivel+bebe+inmetro&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 4. Hauck Alpha+ (~R$ 700)
 Simples, sólido, econômico e com certificação de segurança europeia. Altura ajustável em 3 posições, madeira de pinho sólido. O berço essencial sem excessos.
 
 **Ideal para:** orçamento reduzido, segundo filho ou uso temporário.
-[Ver na Amazon](https://www.amazon.com.br/s?k=hauck+alpha+berco&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=hauck+alpha+berco&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -343,25 +343,25 @@ O bebê conforto é o único produto de segurança infantil obrigatório por lei
 Rotação 360°, reclinação máxima para recém-nascidos (quase horizontal), indicadores de instalação correta integrados. Certificado INMETRO. Ideal para pais que fizeram cesárea — a rotação elimina a necessidade de se dobrar para colocar o bebê.
 
 **Ideal para:** primeiro filho, recuperação de cesárea, uso diário intensivo.
-[Ver na Amazon](https://www.amazon.com.br/s?k=maxi+cosi+pebble+360&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=maxi+cosi+pebble+360&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. Cybex Sirona T i-Size (~R$ 4.000)
 De costas até os 4 anos (18 kg), rotação 360°, aceita de 40 cm a 105 cm de altura. Um dos sistemas de proteção lateral mais robustos do mercado. Excelente para família que quer usar por vários anos.
 
 **Ideal para:** quem quer usar de costas por mais tempo e tem orçamento para o melhor da categoria.
-[Ver na Amazon](https://www.amazon.com.br/s?k=cybex+sirona+t&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=cybex+sirona+t&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Joie i-Level Recline (~R$ 2.000)
 Reclinação de 157° (quase horizontal), indicadores de ângulo integrados, encosto com regulagem de altura. Melhor custo-benefício da categoria — entrega segurança próxima dos modelos premium a metade do preço.
 
 **Ideal para:** bom equilíbrio entre segurança, praticidade e orçamento.
-[Ver na Amazon](https://www.amazon.com.br/s?k=joie+i-level+recline&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=joie+i-level+recline&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 4. BeSafe iZi Modular i-Size (~R$ 4.500)
 Marca norueguesa com os testes de segurança mais rigorosos da indústria. Proteção lateral integrada (side wings), de costas até 105 cm. Para quem quer o máximo em segurança sem compromisso.
 
 **Ideal para:** pais que priorizam segurança acima de qualquer outro critério.
-[Ver na Amazon](https://www.amazon.com.br/s?k=besafe+izi+modular&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=besafe+izi+modular&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -427,25 +427,25 @@ A confusão de bicos acontece quando o bebê aprende a sugar a mamadeira (que ex
 A mais recomendada por consultoras de lactação no Brasil. A tetina AirFlex só libera leite quando o bebê suga ativamente — imita o funcionamento do seio materno. O formato largo da base força o bebê a abrir bem a boca, como na pega correta do seio.
 
 **Ideal para:** mães que amamentam e precisam combinar com mamadeira ocasionalmente.
-[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. MAM Anti-Colic (~R$ 75)
 Válvula na base reduz ingestão de ar em até 60%. Esteriliza na própria embalagem no micro-ondas em 3 minutos — grande praticidade no dia a dia. A tetina SkinSoft tem textura muito próxima da pele.
 
 **Ideal para:** bebês com cólicas intensas ou refluxo, e pais que valorizam praticidade na esterilização.
-[Ver na Amazon](https://www.amazon.com.br/s?k=mam+anti+colic+mamadeira&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=mam+anti+colic+mamadeira&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Dr. Brown's Options+ (~R$ 110)
 Sistema interno de ventilação com tubo central que elimina a pressão negativa — o sistema anti-cólica mais eficaz do mercado. É a favorita para bebês com cólicas severas, refluxo gastroesofágico e prematuros. A limpeza exige mais cuidado pelo tubo interno.
 
 **Ideal para:** bebês com cólicas intensas, refluxo diagnosticado ou prematuridade.
-[Ver na Amazon](https://www.amazon.com.br/s?k=dr+browns+options+mamadeira&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=dr+browns+options+mamadeira&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 4. Tommee Tippee Closer to Nature (~R$ 65)
 Tetina com forma assimétrica que se adapta à posição de sucção. Fluxo lento no tamanho 1. A opção mais econômica com boa aceitação por bebês amamentados.
 
 **Ideal para:** orçamento reduzido ou como mamadeira de reserva/viagem.
-[Ver na Amazon](https://www.amazon.com.br/s?k=tommee+tippee+closer+nature&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=tommee+tippee+closer+nature&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -504,25 +504,25 @@ O monitor de bebê dá aos pais a tranquilidade de verificar o bebê sem entrar 
 Câmera HD com visão noturna colorida (não distorcida), análise do sono por IA (detecta quando o bebê dormiu, acordou e a qualidade do sono), alerta de temperatura e umidade, e relatório diário no app. O mais completo do mercado — mas requer assinatura do app para os recursos avançados.
 
 **Ideal para:** pais que querem o máximo de informação sobre o sono do bebê e usam muito o smartphone.
-[Ver na Amazon](https://www.amazon.com.br/s?k=nanit+pro+monitor&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=nanit+pro+monitor&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. Philips Avent DECT SCD843 (~R$ 800)
 Tecnologia DECT (sem Wi-Fi, sem interferências), alcance de 330 metros, luz noturna integrada, sons de embalar e termômetro. A escolha mais segura para quem não quer depender de Wi-Fi nem de app.
 
 **Ideal para:** pais que preferem simplicidade e não querem depender de internet.
-[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+dect+monitor&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+dect+monitor&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Motorola Halo+ (~R$ 550)
 Tela parental de 4,3" com zoom remoto, câmera com rotação de 360°, projetor de luz noturna e músicas de embalar integradas, sensor de temperatura. Boa relação custo-benefício para quem quer vídeo sem pagar caro.
 
 **Ideal para:** primeiro monitor de vídeo com boa funcionalidade por preço acessível.
-[Ver na Amazon](https://www.amazon.com.br/s?k=motorola+halo+monitor+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=motorola+halo+monitor+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 4. Angelcare AC127 (~R$ 600)
 Sensor de movimento colocado sob o colchão detecta a respiração do bebê e emite alarme após 20 segundos sem movimento. Inclui monitor de áudio básico. O favorito de pais com histórico de morte súbita na família ou bebês prematuros.
 
 **Ideal para:** pais muito ansiosos nos primeiros meses, especialmente com histórico de morte súbita.
-[Ver na Amazon](https://www.amazon.com.br/s?k=angelcare+ac127&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=angelcare+ac127&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -594,15 +594,15 @@ A maioria dos alimentos da família (adaptados em sal e tempero). Introduza um a
 
 ### Cadeirinha de Papa Chicco Polly (~R$ 800)
 A mais completa do mercado — altura em 7 posições, reclinação em 3 posições, bandeja dupla (uma fica no colo do bebê, outra atrás para limpeza fácil). Dura até os 3 anos.
-[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+polly+cadeirinha+papa&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+polly+cadeirinha+papa&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### BÉABA Babycook (~R$ 1.200)
 Cozinha a vapor e tritura em um único aparelho em menos de 15 minutos. A opção mais prática para preparar papinhas frescas no dia a dia.
-[Ver na Amazon](https://www.amazon.com.br/s?k=beaba+babycook&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=beaba+babycook&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### Babadores de silicone (~R$ 60)
 Com bolso na base para capturar o que cai, fáceis de limpar. Muito mais práticos que babadores de tecido na introdução alimentar.
-[Ver na Amazon](https://www.amazon.com.br/s?k=babador+silicone+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=babador+silicone+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -657,25 +657,25 @@ A partir dos 6 meses, quando o bebê já sustenta a cabeça e consegue sentar co
 O ícone das cadeiras de papa — usada desde 1972 e presente em mais de 60 países. Assento e repousos dos pés ajustáveis em vários pontos, design que cresce com a criança (suporta até 150 kg em adultos). Com o newborn set (acessório vendido separado), começa a ser usada desde o nascimento.
 
 **Ideal para:** pais que querem um único produto de altíssima qualidade que dure décadas.
-[Ver na Amazon](https://www.amazon.com.br/s?k=stokke+tripp+trapp&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=stokke+tripp+trapp&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. Chicco Polly Progress (~R$ 800)
 A mais funcional do mercado intermediário — altura em 7 posições, reclinação em 3 posições (permite recém-nascidos com o insert), bandeja dupla com estofado removível e lavável. A escolha mais inteligente na relação custo-benefício.
 
 **Ideal para:** uso desde os primeiros meses com insert, reclinação e bandeja prática.
-[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+polly+progress&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+polly+progress&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Joie Mimzy Snacker (~R$ 400)
 Boa qualidade pelo preço. Bandeja com porta-copos, altura em 6 posições, estofado lavável. Bom para orçamento controlado sem abrir mão de segurança.
 
 **Ideal para:** orçamento reduzido ou segunda cadeira (avós, avó materna, etc.).
-[Ver na Amazon](https://www.amazon.com.br/s?k=joie+mimzy+snacker&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=joie+mimzy+snacker&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 4. BabyBjörn Smart Chair (~R$ 1.200)
 Sem estofado — limpar é trivial (pano úmido basta). Extremamente leve (3,9 kg), de 6 meses aos 10 anos, arnês integrado que não precisa ser retirado para limpar.
 
 **Ideal para:** pais que odeiam lavar estofado e querem praticidade máxima na limpeza.
-[Ver na Amazon](https://www.amazon.com.br/s?k=babybjorn+smart+chair&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=babybjorn+smart+chair&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -724,15 +724,15 @@ A privação de sono é a maior dificuldade relatada pelos pais brasileiros com 
 
 **Máquina de ruído branco (~R$ 200):**
 Simula os sons do útero — mais eficaz que qualquer música ou app no celular. Mantém o volume constante (importante: o ruído branco não é eficaz se o volume variar). Modelos com temporizador permitem desligar após o bebê adormecer ou manter a noite toda.
-[Ver na Amazon](https://www.amazon.com.br/s?k=maquina+ruido+branco+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=maquina+ruido+branco+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **Cortinas blackout (~R$ 150):**
 Essenciais para cochilhos diurnos e manhãs de verão com sol cedo. O quarto do bebê deve ficar completamente escuro durante o sono. Blackouts instalados com ventosa (sem furos na parede) são práticos para apartamentos alugados.
-[Ver na Amazon](https://www.amazon.com.br/s?k=cortina+blackout+quarto+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=cortina+blackout+quarto+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **Saco de dormir (~R$ 180):**
 Substitui o cobertor com segurança e cria uma associação poderosa com o momento de dormir. O bebê aprende que o saco de dormir = hora de dormir. Mais seguro que qualquer cobertor (risco de sufocamento).
-[Ver na Amazon](https://www.amazon.com.br/s?k=saco+de+dormir+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=saco+de+dormir+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### Para associações de sono
 
@@ -810,19 +810,19 @@ O banho do bebê é um momento de relaxamento e conexão — mas também pode se
 A favorita dos pais por praticidade. Dobra completamente para guardar num armário estreito, válvula de escoamento integrada (não precisa carregar o peso da água para esvaziar), suporte ergonômico removível para recém-nascidos. Dura do nascimento até os 3–4 anos, quando as crianças passam para a banheira do banheiro.
 
 **Ideal para:** apartamentos com pouco espaço e pais que valorizam praticidade no armazenamento.
-[Ver na Amazon](https://www.amazon.com.br/s?k=stokke+flexi+bath+xl&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=stokke+flexi+bath+xl&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. BabyBjörn Baby Bath (~R$ 380)
 Design ergonômico com encosto reclinado para recém-nascidos que converte em suporte para quando o bebê começa a sentar. Fabricada em polipropileno sem BPA. Estável, fácil de higienizar.
 
 **Ideal para:** pais que preferem design nórdico funcional e não precisam de opção dobrável.
-[Ver na Amazon](https://www.amazon.com.br/s?k=babybjorn+baby+bath&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=babybjorn+baby+bath&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Fisher-Price 4-em-1 (~R$ 250)
 A mais vendida no Brasil há vários anos. Quatro configurações: rede de recém-nascido, assento reclinado, assento sentado e banheira independente para crianças maiores. A opção mais completa pelo preço — o custo por fase de uso é muito baixo.
 
 **Ideal para:** melhor custo-benefício geral, especialmente para orçamento controlado.
-[Ver na Amazon](https://www.amazon.com.br/s?k=fisher+price+banheira+4+em+1&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=fisher+price+banheira+4+em+1&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -982,25 +982,25 @@ O extrator de leite (ou bomba de amamentação) é um dos produtos mais importan
 O mais recomendado pelas consultoras de lactação no Brasil há anos consecutivos. Duplo (dois seios simultâneos), bateria recarregável (funciona sem tomada por até 3 horas), silencioso, configurações de força e velocidade separadas para simular o ritmo natural do bebê. O padrão-ouro para uso diário intenso.
 
 **Ideal para:** mães que ordenham 2+ vezes por dia, que voltam ao trabalho amamentando.
-[Ver na Amazon](https://www.amazon.com.br/s?k=spectra+s1+extrator+leite&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=spectra+s1+extrator+leite&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. Medela Swing Maxi (~R$ 1.500)
 A marca de referência mundial em extratores. Tecnologia 2-Phase Expression que imita o ritmo natural do bebê — fase de estimulação rápida seguida de fase de extração mais lenta. Durabilidade excepcional, compatível com a maioria dos acessórios da marca.
 
 **Ideal para:** mães que preferem a marca líder do mercado e valorizam a rede de suporte e acessórios disponíveis.
-[Ver na Amazon](https://www.amazon.com.br/s?k=medela+swing+maxi&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=medela+swing+maxi&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Elvie Stride (~R$ 2.000)
 100% sem fio, encaixa no sutiã normal sem adaptação, completamente silencioso e discreto. App no celular monitora o volume de leite em tempo real e registra o histórico de ordenha. A opção para mães que precisam de discrição máxima no trabalho.
 
 **Ideal para:** mães que trabalham em escritório e precisam ordenhar de forma completamente discreta.
-[Ver na Amazon](https://www.amazon.com.br/s?k=elvie+stride+extrator&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=elvie+stride+extrator&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 4. Philips Avent Manual (~R$ 200)
 O melhor extrator manual do mercado — sistema de massagem suave que estimula o fluxo de leite antes da extração. Compatível com as mamadeiras Avent, facilitando a transferência direta. Silencioso, portátil, sem necessidade de energia.
 
 **Ideal para:** uso ocasional, backup do elétrico, ou início da amamentação enquanto decide qual elétrico comprar.
-[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+extrator+manual&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+extrator+manual&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1048,11 +1048,11 @@ Nessa fase, a visão do bebê está se desenvolvendo. O bebê vê melhor a cerca
 
 **Móbile Montessori de Contraste (~R$ 150)**
 Figuras geométricas em preto e branco que ficam a 20–30 cm do bebê deitado. Estimula a visão, o rastreamento visual e a concentração. Muito mais eficaz que móbiles coloridos nessa faixa etária — o sistema visual do bebê ainda não processa bem as cores.
-[Ver na Amazon](https://www.amazon.com.br/s?k=mobile+montessori+contraste+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=mobile+montessori+contraste+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **Chocalho de alto contraste (~R$ 50)**
 Para os dedos que começam a agarrar coisas. Leve, com texturas variadas.
-[Ver na Amazon](https://www.amazon.com.br/s?k=chocalho+alto+contraste+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=chocalho+alto+contraste+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1062,11 +1062,11 @@ O bebê começa a controlar a cabeça, tenta rolar e descobre as mãos. O "tummy
 
 **Tapete de Atividades Fisher-Price (~R$ 350)**
 O tapete de atividades mais vendido no Brasil. Arco com brinquedos pendurados para o tummy time e para deitar de costas. Estimula alcançar, agarrar, chutar. Inclui espelho, brinquedos com texturas e sons. Dura dos 0 aos 9–12 meses.
-[Ver na Amazon](https://www.amazon.com.br/s?k=tapete+atividades+fisher+price+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=tapete+atividades+fisher+price+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **Livros de tecido (~R$ 80)**
 Estimulam tato (texturas variadas), visão (cores vivas), manipulação e já criam relação com a leitura. Podem ser lavados na máquina. Uma das melhores relações custo-benefício em brinquedos de bebê.
-[Ver na Amazon](https://www.amazon.com.br/s?k=livro+tecido+bebe+estimulacao&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=livro+tecido+bebe+estimulacao&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1076,11 +1076,11 @@ O bebê começa a sentar, engatinhar e entender que objetos continuam existindo 
 
 **Cubo de Atividades (~R$ 200)**
 Botões que acendem, engrenagens que giram, espelhinhos, sons e texturas diferentes em cada face. Estimula a coordenação motora fina, a causa-efeito e a exploração sensorial. O brinquedo mais versátil dessa fase.
-[Ver na Amazon](https://www.amazon.com.br/s?k=cubo+atividades+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=cubo+atividades+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **Empilhador de argolas (~R$ 60)**
 Desenvolve a coordenação mão-olho, a compreensão de tamanhos (maior/menor) e a persistência. Um clássico que nunca sai de moda.
-[Ver na Amazon](https://www.amazon.com.br/s?k=empilhador+argolas+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=empilhador+argolas+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1090,11 +1090,11 @@ O bebê começa a ficar em pé, dar os primeiros passos e quer explorar tudo.
 
 **Andador de Empurrar (~R$ 200)**
 Diferente dos andadores circulares (proibidos pela SBP por retardar o desenvolvimento), o andador de empurrar é empurrado pelo bebê que já fica em pé. Desenvolve equilíbrio, força nas pernas e confiança nos primeiros passos.
-[Ver na Amazon](https://www.amazon.com.br/s?k=andador+empurrar+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=andador+empurrar+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **Caixinha surpresa (sorter de formas) (~R$ 80)**
 Encaixar formas nos buracos certos desenvolve reconhecimento de formas, coordenação motora fina e resolução de problemas.
-[Ver na Amazon](https://www.amazon.com.br/s?k=caixinha+formas+bebe+sorter&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=caixinha+formas+bebe+sorter&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1133,63 +1133,63 @@ Antes de sair comprando tudo que vê pela frente, saiba que os recém-nascidos p
 
 **1. Bebê conforto com INMETRO (~R$ 2.000–3.500)**
 Obrigatório por lei. Compre antes do nascimento — é o único item indispensável que precisa estar instalado no carro antes de ir para a maternidade.
-[Ver na Amazon](https://www.amazon.com.br/s?k=bebe+conforto+inmetro&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=bebe+conforto+inmetro&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **2. Berço (~R$ 700–2.500)**
 O bebê vai passar 16+ horas por dia dormindo. Invista em um berço com certificação INMETRO e colchão firme.
-[Ver na Amazon](https://www.amazon.com.br/s?k=berco+bebe+inmetro&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=berco+bebe+inmetro&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **3. Fraldas — Pampers Premium Care ou Huggies Supreme**
 Consuma 8–12 fraldas por dia nos primeiros meses. Não compre muitas fraldas RN — o bebê pode já nascer no tamanho P.
-[Ver na Amazon](https://www.amazon.com.br/s?k=pampers+premium+care+recem+nascido&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=pampers+premium+care+recem+nascido&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **4. Lenços WaterWipes (~R$ 40/pacote)**
 99,9% de água, aprovado por dermatologistas para recém-nascidos. Menos irritação que lenços com fragrância.
-[Ver na Amazon](https://www.amazon.com.br/s?k=waterwipes+lenco+umedecido&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=waterwipes+lenco+umedecido&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **5. Produtos Mustela ou Weleda Calendula (~R$ 60–150)**
 Kit básico: sabonete 2 em 1, creme para assadura (Bepantol ou Mustela Cicastela) e hidratante para pele seca.
-[Ver na Amazon](https://www.amazon.com.br/s?k=mustela+recem+nascido+kit&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=mustela+recem+nascido+kit&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **6. Carrinho de bebê**
 Para uso diário em passeios. Avalie o tamanho do porta-malas do seu carro antes de comprar.
-[Ver na Amazon](https://www.amazon.com.br/s?k=carrinho+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=carrinho+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **7. Mamadeira Philips Avent Natural Response (~R$ 90)**
 Mesmo que planeje amamentar exclusivamente, tenha 1–2 mamadeiras como reserva. A Natural Response é a mais compatível com a amamentação.
-[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **8. Roupas (~R$ 300–500)**
 Compre principalmente tamanho 1 (0–3 meses). Prefira pijamas com zíper (mais práticos à noite), bodies manga longa e curta. Pouca quantidade — o bebê cresce muito rápido.
-[Ver na Amazon](https://www.amazon.com.br/s?k=body+recem+nascido+kit&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=body+recem+nascido+kit&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **9. Saco de dormir (~R$ 150–250)**
 Mais seguro que qualquer cobertor. Gro Company e Halo SleepSack são os mais vendidos no Brasil.
-[Ver na Amazon](https://www.amazon.com.br/s?k=saco+dormir+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=saco+dormir+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **10. Termômetro (~R$ 60–400)**
 Essencial para monitorar febre. Para recém-nascidos, o retal é o mais preciso (SBP). O Braun ThermoScan 7 é o preferido para uso diário.
-[Ver na Amazon](https://www.amazon.com.br/s?k=termometro+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=termometro+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **11. Frida NoseFrida (~R$ 80)**
 O aspirador nasal favorito dos pais brasileiros. Muito mais eficaz que as peras de borracha tradicionais. Pode parecer estranho mas funciona muito bem.
-[Ver na Amazon](https://www.amazon.com.br/s?k=frida+noseFrida+aspirador+nasal&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=frida+noseFrida+aspirador+nasal&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **12. Banheira (~R$ 250–450)**
 A Fisher-Price 4-em-1 é a mais vendida no Brasil pelo custo-benefício. A Stokke Flexi Bath é a favorita de quem tem pouco espaço.
-[Ver na Amazon](https://www.amazon.com.br/s?k=banheira+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=banheira+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **13. Monitor de bebê (~R$ 550–2.000)**
 Para acompanhar o bebê no berço sem precisar entrar no quarto a cada barulho.
-[Ver na Amazon](https://www.amazon.com.br/s?k=monitor+bebe+video&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=monitor+bebe+video&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **14. Babadores e panos de boca (~R$ 50–100)**
 Compre pelo menos 10–15 — eles molham muito nos primeiros meses. Prefira tecido absorvente (fralda de pano é ótima).
-[Ver na Amazon](https://www.amazon.com.br/s?k=pano+de+boca+bebe+kit&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=pano+de+boca+bebe+kit&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **15. Creme Bepantol (~R$ 25)**
 Para assaduras — o mais vendido e eficaz no Brasil. Tenha sempre em casa.
-[Ver na Amazon](https://www.amazon.com.br/s?k=bepantol+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=bepantol+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1259,19 +1259,19 @@ Saber identificar febre com precisão é uma das habilidades mais importantes pa
 O padrão-ouro dos consultórios pediátricos brasileiros. Tecnologia Age Precision que ajusta automaticamente os valores de referência conforme a faixa etária (0–3 meses, 3–36 meses, acima de 3 anos). Resultado em 2 segundos, sistema de pré-aquecimento da ponta que reduz erros por diferença de temperatura. Memória das últimas 9 medições.
 
 **Ideal para:** pais que querem a mesma precisão dos consultórios, especialmente nos primeiros meses.
-[Ver na Amazon](https://www.amazon.com.br/s?k=braun+thermoscan+7&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=braun+thermoscan+7&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 2. Termômetro retal digital (~R$ 60)
 O mais preciso para recém-nascidos e bebês abaixo de 3 meses segundo a SBP. Use com vaselina na ponta, insira apenas 1–2 cm no reto, mantenha por 1 minuto. Insubstituível nos primeiros 3 meses de vida.
 
 **Ideal para:** primeiros 3 meses de vida — não há substituto mais preciso.
-[Ver na Amazon](https://www.amazon.com.br/s?k=termometro+retal+bebe+digital&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=termometro+retal+bebe+digital&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ### 3. Chicco Infrared 2 em 1 (~R$ 280)
 Mede na testa E no ouvido no mesmo aparelho. Resultado em 1 segundo, não precisa acordar o bebê dormindo. Memória das últimas 10 medições, alerta sonoro para febre alta. Boa precisão para crianças acima de 6 meses.
 
 **Ideal para:** praticidade no dia a dia com crianças acima de 6 meses.
-[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+termometro+infravermelho&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=chicco+termometro+infravermelho&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1313,14 +1313,14 @@ Esta lista foi elaborada considerando as condições brasileiras — o calor tro
 - Saco de dormir 2× (Gro Company ou Halo SleepSack) — mais seguro que cobertor
 - Protetor solar UV50+ para carrinho
 
-[Ver lençóis na Amazon](https://www.amazon.com.br/s?k=lencol+bebe+impermeavel&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver lençóis na Amazon](https://www.amazon.com.br/s?k=lencol+bebe+impermeavel&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
 ## Banho e higiene
 
 **Banheira:** Fisher-Price 4-em-1 (R$ 250) ou Stokke Flexi Bath (R$ 450)
-[Ver na Amazon](https://www.amazon.com.br/s?k=banheira+bebe&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver na Amazon](https://www.amazon.com.br/s?k=banheira+bebe&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 **Produtos de higiene:**
 - Sabonete e shampoo 2 em 1 sem fragrância (Mustela, Weleda Calendula ou Johnson's Baby)
@@ -1330,7 +1330,7 @@ Esta lista foi elaborada considerando as condições brasileiras — o calor tro
 - Lenços umedecidos (WaterWipes para recém-nascidos, depois da marca preferida)
 - Algodão hidrófilo e cotonetes baby (com ponta protetora)
 
-[Ver kit higiene na Amazon](https://www.amazon.com.br/s?k=kit+higiene+bebe+recem+nascido&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver kit higiene na Amazon](https://www.amazon.com.br/s?k=kit+higiene+bebe+recem+nascido&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1347,7 +1347,7 @@ Esta lista foi elaborada considerando as condições brasileiras — o calor tro
 
 **Dica:** compre a maior parte no tamanho 1 (0–3 meses). Bebês acima de 3,5 kg podem não caber em RN.
 
-[Ver roupas baby na Amazon](https://www.amazon.com.br/s?k=kit+body+recem+nascido+menino+menina&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver roupas baby na Amazon](https://www.amazon.com.br/s?k=kit+body+recem+nascido+menino+menina&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1364,7 +1364,7 @@ Esta lista foi elaborada considerando as condições brasileiras — o calor tro
 - Escova para lavar mamadeiras
 - Esterilizador (ou usar panela fervendo)
 
-[Ver extrator Spectra na Amazon](https://www.amazon.com.br/s?k=spectra+s1+extrator&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Ver extrator Spectra na Amazon](https://www.amazon.com.br/s?k=spectra+s1+extrator&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 ---
 
@@ -1488,9 +1488,9 @@ Vantagem significativa do Bugaboo — cesta de 17 kg vs 10 kg do Joolz. Para que
 
 ## Links para compra
 
-[Bugaboo Fox 5 na Amazon](https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Bugaboo Fox 5 na Amazon](https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
-[Joolz Day+ na Amazon](https://www.amazon.com.br/s?k=joolz+day+plus&tag=chegouobebe-20) | [Ver na Shopee](PLACEHOLDER_SHOPEE_LINK)
+[Joolz Day+ na Amazon](https://www.amazon.com.br/s?k=joolz+day+plus&tag=chegouobebe-20) | [Ver na Shopee](https://s.shopee.com.br/80AFQlTt7E)
 
 > Aviso de afiliação: Links de afiliados Amazon.com.br e Shopee. Ganhamos comissão em compras qualificadas.
 
