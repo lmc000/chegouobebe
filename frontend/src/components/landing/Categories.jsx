@@ -1,4 +1,4 @@
-import { ShoppingCart, Moon, Utensils, Bath, Car, HeartPulse, Music, BookOpen } from "lucide-react";
+import { ShoppingCart, Moon, Utensils, Bath, Car, HeartPulse, Music, BookOpen, Baby } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const CATEGORIES = [
@@ -7,9 +7,10 @@ const CATEGORIES = [
     { id: "alimentacao", label: "Alimentação", icon: Utensils,     desc: "Mamadeiras e cadeirinhas",       color: "#D1F0EA" },
     { id: "higiene",     label: "Higiene",     icon: Bath,         desc: "Banheiras e fraldas",            color: "#C8EBE3" },
     { id: "seguranca",   label: "Segurança",   icon: Car,          desc: "Bebê conforto e portões",        color: "#D1F0EA" },
-    { id: "saude",       label: "Saúde",       icon: HeartPulse,   desc: "Termômetros e aspiradores",     color: "#C8EBE3" },
+    { id: "saude",       label: "Saúde",       icon: HeartPulse,   desc: "Termômetros e aspiradores",      color: "#C8EBE3" },
     { id: "estimulacao", label: "Estimulação", icon: Music,        desc: "Brinquedos e desenvolvimento",   color: "#D1F0EA" },
     { id: "gravidez",    label: "Gravidez",    icon: BookOpen,     desc: "Enxoval e preparação",           color: "#C8EBE3" },
+    { id: "cuidados",    label: "Cuidadores",  icon: Baby,         desc: "Babás e berçaristas",            color: "#D1F0EA" },
 ];
 
 export const Categories = () => {
@@ -31,7 +32,7 @@ export const Categories = () => {
                     </p>
                 </div>
 
-                <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-4">
+                <div className="grid grid-cols-3 md:grid-cols-5 lg:grid-cols-9 gap-4">
                     {CATEGORIES.map((cat) => {
                         const Icon = cat.icon;
                         return (
