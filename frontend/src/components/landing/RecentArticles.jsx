@@ -18,10 +18,10 @@ const ARTIGO_IMGS = {
     // Artigos Brasil
     "gestacao-paternidade-responsavel-guia-completo":   "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400&q=80",
     "paternidade-responsavel-guia-papai-de-primeira":   "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
-    "melhor-carrinho-bebe-brasil":                      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
-    "melhor-berco-bebe":                                "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=400&q=80",
-    "melhor-bebe-conforto-brasil":                      "https://images.unsplash.com/photo-1578307990016-f1dfbddf76fc?w=400&q=80",
-    "melhor-mamadeira-bebe":                            "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
+    "melhor-carrinho-bebe-brasil":                      "/images/carrinho-bebe.jpg",
+    "melhor-berco-bebe":                                "/images/berco-chicco.jpg",
+    "melhor-bebe-conforto-brasil":                      "/images/cadeira-auto.jpg",
+    "melhor-mamadeira-bebe":                            "/images/biberon-philips.jpg",
     "melhor-monitor-bebe":                              "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
     "introducao-alimentar-bebe":                        "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=400&q=80",
     "melhor-cadeirinha-papa-bebe":                      "https://images.unsplash.com/photo-1578307990016-f1dfbddf76fc?w=400&q=80",
@@ -33,7 +33,7 @@ const ARTIGO_IMGS = {
     "produtos-indispensaveis-recem-nascido":            "https://images.unsplash.com/photo-1519689680058-324335c77eba?w=400&q=80",
     "melhor-termometro-bebe":                           "https://images.unsplash.com/photo-1631248055855-4b78c5d0f396?w=400&q=80",
     "lista-enxoval-bebe-completa":                      "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?w=400&q=80",
-    "bugaboo-fox-5-vs-joolz-day-plus":                  "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
+    "bugaboo-fox-5-vs-joolz-day-plus":                  "/images/carrinho-bugaboo.jpg",
     "curso-baba-babysitter-guia-completo":              "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=400&q=80",
     "curso-bercario-bercaristaguia":                    "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=400&q=80",
 };
