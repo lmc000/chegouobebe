@@ -12,9 +12,9 @@ const PRODUTOS = [
         tag: "Mais Vendido",
         tagColor: "#2A9D8F",
         urlAmazon: "https://www.amazon.com.br/s?k=bugaboo+fox+5&tag=chegouobebe-20",
-        urlShopee: "PLACEHOLDER_SHOPEE_LINK",
+        urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-carrinho-bebe-brasil",
-        img: "/images/carrinho-bugaboo.jpg",
+        img: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&q=80",
     },
     {
         nome: "Chicco Next2Me Forever",
@@ -26,9 +26,9 @@ const PRODUTOS = [
         tag: "Recomendamos",
         tagColor: "#52B788",
         urlAmazon: "https://www.amazon.com.br/s?k=chicco+next2me+forever&tag=chegouobebe-20",
-        urlShopee: "PLACEHOLDER_SHOPEE_LINK",
+        urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-berco-bebe",
-        img: "/images/berco-bebe.jpg",
+        img: "https://images.unsplash.com/photo-1566004100631-35d015d6a491?w=400&q=80",
     },
     {
         nome: "Maxi-Cosi Pebble 360",
@@ -40,9 +40,9 @@ const PRODUTOS = [
         tag: "Top Segurança",
         tagColor: "#E9C46A",
         urlAmazon: "https://www.amazon.com.br/s?k=maxi+cosi+pebble+360&tag=chegouobebe-20",
-        urlShopee: "PLACEHOLDER_SHOPEE_LINK",
+        urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-bebe-conforto-brasil",
-        img: "/images/cadeira-auto-maxicosi.jpg",
+        img: "https://images.unsplash.com/photo-1578307990016-f1dfbddf76fc?w=400&q=80",
     },
     {
         nome: "Philips Avent Natural",
@@ -54,9 +54,9 @@ const PRODUTOS = [
         tag: "Mais Popular",
         tagColor: "#F4A261",
         urlAmazon: "https://www.amazon.com.br/s?k=philips+avent+natural+response&tag=chegouobebe-20",
-        urlShopee: "PLACEHOLDER_SHOPEE_LINK",
+        urlShopee: "https://s.shopee.com.br/80AFQlTt7E",
         slug: "melhor-mamadeira-bebe",
-        img: "/images/biberon-philips.jpg",
+        img: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&q=80",
     },
 ];
 
