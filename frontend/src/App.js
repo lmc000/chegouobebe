@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react";
 import Landing from "./pages/Landing";
 import Blog from "./pages/Blog";
 import Artigo from "./pages/Artigo";
@@ -7,6 +8,7 @@ import Privacidade from "./pages/Privacidade";
 export default function App() {
     return (
         <BrowserRouter>
+            <Analytics />
             <Routes>
                 <Route path="/" element={<Landing />} />
                 <Route path="/blog" element={<Blog />} />
