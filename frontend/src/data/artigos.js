@@ -357,7 +357,7 @@ Quando o bebê sentar de forma estável e com cabeça controlada — geralmente 
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -489,7 +489,7 @@ O chassi pode ser de segunda mão em bom estado. O **colchão deve ser sempre no
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -614,7 +614,7 @@ Não obrigatório por lei no Brasil, mas muito mais seguro e fácil de instalar 
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -749,7 +749,7 @@ Ferver é suficiente e gratuito. Um esterilizador a vapor é mais conveniente qu
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -862,7 +862,7 @@ Geralmente até os 2-3 anos, quando a criança consegue se comunicar e se locomo
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -994,7 +994,7 @@ O açaí puro (sem adição de açúcar, xarope de guaraná ou leite condensado)
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -1109,7 +1109,7 @@ O ANTILOP (importado via Shopee ~R$150-200) é muito popular no Brasil pelo cust
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -1238,7 +1238,7 @@ Se o bebê tem mais de 6 meses e nunca dorme mais de 2 horas seguidas, ou acorda
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -1350,7 +1350,7 @@ Após a queda e cicatrização completa (1-3 semanas). Antes disso, use esponja 
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -1503,7 +1503,7 @@ Creche conveniada (prefeitura): R$0-200/mês. Creche particular: R$800-3.000/mê
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -1643,7 +1643,7 @@ Para manter a produção equivalente ao bebê: 8-12 sessões nas primeiras seman
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -1774,7 +1774,7 @@ R$30-80/mês é suficiente. A qualidade e adequação à fase superam a quantida
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -1933,7 +1933,7 @@ Itens consumíveis (fraldas, roupinhas em tamanhos maiores — M e G), itens de 
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -2054,7 +2054,7 @@ A temperatura axilar é geralmente 0,5-1°C mais baixa que a retal. Adicione 0,5
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -2228,7 +2228,7 @@ Sim — lave todas as roupinhas novas antes do primeiro uso para remover resídu
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
@@ -2364,7 +2364,7 @@ Com impostos de importação (60% no Brasil para produtos acima de US$50), um Bu
 
 ---
 
-*Este artigo contém links de afiliado Amazon (tag=chegouobebe-20) e Shopee.*
+*Este artigo contém links de afiliado Amazon e Shopee. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional para você.*
     `
   },
   {
