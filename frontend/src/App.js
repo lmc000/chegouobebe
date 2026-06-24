@@ -1,9 +1,10 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+﻿import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Analytics } from "@vercel/analytics/react";
 import Landing from "./pages/Landing";
 import Blog from "./pages/Blog";
 import Artigo from "./pages/Artigo";
 import Privacidade from "./pages/Privacidade";
+import NotFound from "./pages/NotFound";
 
 export default function App() {
     return (
@@ -14,6 +15,7 @@ export default function App() {
                 <Route path="/blog" element={<Blog />} />
                 <Route path="/blog/:slug" element={<Artigo />} />
                 <Route path="/privacidade" element={<Privacidade />} />
+                <Route path="*" element={<NotFound />} />
             </Routes>
         </BrowserRouter>
     );
