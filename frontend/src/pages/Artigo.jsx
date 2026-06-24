@@ -1,4 +1,5 @@
-﻿import { useEffect } from "react";
+import { useEffect } from "react";
+import { Helmet } from "react-helmet-async";
 import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, Clock, Calendar, ExternalLink } from "lucide-react";
 import artigos from "../data/artigos";
@@ -153,6 +154,17 @@ export default function Artigo() {
     return (
         <div className="min-h-screen bg-[#F5FAFA]">
             <Header />
+            <Helmet>
+                <title>{artigo.titulo} — Chegou o Bebê</title>
+                <meta name="description" content={artigo.descricao} />
+                <meta property="og:title" content={artigo.titulo} />
+                <meta property="og:description" content={artigo.descricao} />
+                <meta property="og:type" content="article" />
+                <meta property="og:url" content={`https://www.chegouobebe.com.br/blog/${artigo.slug}`} />
+                <meta name="twitter:title" content={artigo.titulo} />
+                <meta name="twitter:description" content={artigo.descricao} />
+                <link rel="canonical" href={`https://www.chegouobebe.com.br/blog/${artigo.slug}`} />
+            </Helmet>
             <main className="pt-28 pb-20 px-6 md:px-12 lg:px-24">
                 <div className="max-w-3xl mx-auto">
                     <Link to="/blog" className="inline-flex items-center gap-2 text-[#2A9D8F] font-semibold mb-8 hover:underline">
