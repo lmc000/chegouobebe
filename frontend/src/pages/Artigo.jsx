@@ -1,4 +1,4 @@
-import { useParams, Link } from "react-router-dom";
+﻿import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, Clock, Calendar, ExternalLink } from "lucide-react";
 import artigos from "../data/artigos";
 import Header from "@/components/landing/Header";
@@ -94,7 +94,7 @@ function parseLine(text) {
     while ((match = regex.exec(text)) !== null) {
         if (match.index > lastIndex) parts.push(text.slice(lastIndex, match.index));
         if (match[1] && match[2]) {
-            parts.push(<a key={key++} href={match[2]} target="_blank" rel="noopener noreferrer"
+            parts.push(<a key={key++} href={match[2]} target="_blank" rel="sponsored noopener noreferrer"
                 className="text-[#2A9D8F] font-semibold hover:underline inline-flex items-center gap-1">
                 {match[1]} <ExternalLink className="w-3 h-3 inline" /></a>);
         } else if (match[3]) {

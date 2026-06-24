@@ -1,4 +1,4 @@
-import { ExternalLink } from "lucide-react";
+﻿import { ExternalLink } from "lucide-react";
 
 export const Newsletter = () => {
     return (
@@ -12,7 +12,7 @@ export const Newsletter = () => {
                 <p className="text-white/70 text-lg mb-8 max-w-xl mx-auto">
                     Encontra os melhores produtos, guias de desenvolvimento e reviews honestas — tudo adaptado para Portugal.
                 </p>
-                <a href="https://www.amazon.es/?tag=bebefefeliz-21" target="_blank" rel="noopener noreferrer"
+                <a href="https://www.amazon.es/?tag=bebefefeliz-21" target="_blank" rel="sponsored noopener noreferrer"
                     className="inline-flex items-center gap-2 text-white rounded-full px-8 py-4 font-bold text-lg transition-all hover:shadow-lg hover:opacity-90"
                     style={{ background: "#2A9D8F" }}>
                     Ver produtos na Amazon <ExternalLink className="w-5 h-5" />
