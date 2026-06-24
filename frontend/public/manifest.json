@@ -1,0 +1,16 @@
+﻿{
+  "name": "Chegou o Bebê",
+  "short_name": "ChegouBebe",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2A9D8F",
+  "background_color": "#F0FDFA",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
