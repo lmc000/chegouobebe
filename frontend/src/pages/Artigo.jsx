@@ -1,4 +1,5 @@
-﻿import { useParams, Link } from "react-router-dom";
+﻿import { useEffect } from "react";
+import { useParams, Link } from "react-router-dom";
 import { ArrowLeft, Clock, Calendar, ExternalLink } from "lucide-react";
 import artigos from "../data/artigos";
 import Header from "@/components/landing/Header";
@@ -111,6 +112,29 @@ function parseLine(text) {
 export default function Artigo() {
     const { slug } = useParams();
     const artigo = artigos.find((a) => a.slug === slug);
+
+    useEffect(() => {
+        if (!artigo) return;
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.setAttribute('data-schema', 'article');
+        script.text = JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": artigo.titulo,
+            "description": artigo.descricao,
+            "datePublished": artigo.data,
+            "url": `https://www.chegouobebe.com.br/blog/${artigo.slug}`,
+            "inLanguage": "pt-BR",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Chegou o Bebê",
+                "url": "https://www.chegouobebe.com.br"
+            }
+        });
+        document.head.appendChild(script);
+        return () => { try { document.head.removeChild(script); } catch(e) {} };
+    }, [artigo]);
 
     if (!artigo) {
         return (
