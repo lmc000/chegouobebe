@@ -121,10 +121,11 @@ export default function Artigo() {
         script.setAttribute('data-schema', 'article');
         script.text = JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "BlogPosting",
+            "@type": "NewsArticle",
             "headline": artigo.titulo,
             "description": artigo.descricao,
             "datePublished": artigo.data,
+            "author": { "@type": "Organization", "name": "Chegou o Bebê", "url": "https://www.chegouobebe.com.br" },
             "url": `https://www.chegouobebe.com.br/blog/${artigo.slug}`,
             "inLanguage": "pt-BR",
             "publisher": {
