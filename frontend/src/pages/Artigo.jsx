@@ -125,7 +125,7 @@ export default function Artigo() {
             "headline": artigo.titulo,
             "description": artigo.descricao,
             "datePublished": artigo.data,
-            "author": { "@type": "Organization", "name": "Chegou o Bebê", "url": "https://www.chegouobebe.com.br" },
+            "author": { "@type": "Person", "name": "Luís Costa", "url": "https://www.chegouobebe.com.br/sobre" },
             "url": `https://www.chegouobebe.com.br/blog/${artigo.slug}`,
             "inLanguage": "pt-BR",
             "publisher": {
