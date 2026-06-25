@@ -125,6 +125,7 @@ export default function Artigo() {
             "headline": artigo.titulo,
             "description": artigo.descricao,
             "datePublished": artigo.data,
+            "image": `https://www.chegouobebe.com.br/images/artigos/${artigo.slug}.jpg`,
             "author": { "@type": "Person", "name": "Luís Costa", "url": "https://www.chegouobebe.com.br/sobre" },
             "url": `https://www.chegouobebe.com.br/blog/${artigo.slug}`,
             "inLanguage": "pt-BR",
@@ -162,6 +163,11 @@ export default function Artigo() {
                 <meta property="og:description" content={artigo.descricao} />
                 <meta property="og:type" content="article" />
                 <meta property="og:url" content={`https://www.chegouobebe.com.br/blog/${artigo.slug}`} />
+                <meta property="og:image" content={`https://www.chegouobebe.com.br/images/artigos/${artigo.slug}.jpg`} />
+                <meta property="og:image:width" content="1200" />
+                <meta property="og:image:height" content="630" />
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta name="twitter:image" content={`https://www.chegouobebe.com.br/images/artigos/${artigo.slug}.jpg`} />
                 <meta name="twitter:title" content={artigo.titulo} />
                 <meta name="twitter:description" content={artigo.descricao} />
                 <link rel="canonical" href={`https://www.chegouobebe.com.br/blog/${artigo.slug}`} />
