@@ -4,6 +4,7 @@ import { Analytics } from "@vercel/analytics/react";
 import Landing from "./pages/Landing";
 import Blog from "./pages/Blog";
 import Artigo from "./pages/Artigo";
+import Sobre from "@/pages/Sobre";
 import Privacidade from "./pages/Privacidade";
 import NotFound from "./pages/NotFound";
 
@@ -16,6 +17,7 @@ export default function App() {
                 <Route path="/" element={<Landing />} />
                 <Route path="/blog" element={<Blog />} />
                 <Route path="/blog/:slug" element={<Artigo />} />
+                <Route path="/sobre" element={<Sobre />} />
                 <Route path="/privacidade" element={<Privacidade />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>
