@@ -97,7 +97,7 @@ function parseLine(text) {
         if (match.index > lastIndex) parts.push(text.slice(lastIndex, match.index));
         if (match[1] && match[2]) {
             parts.push(<a key={key++} href={match[2]} target="_blank" rel="sponsored noopener noreferrer"
-                className="text-[#2A9D8F] font-semibold hover:underline inline-flex items-center gap-1">
+                className="inline-flex items-center gap-2 bg-[#2A9D8F] text-white font-bold px-5 py-2.5 rounded-xl hover:opacity-90 transition-opacity my-2 shadow-sm">
                 {match[1]} <ExternalLink className="w-3 h-3 inline" /></a>);
         } else if (match[3]) {
             parts.push(<strong key={key++} className="text-[#1A3C38] font-bold">{match[3]}</strong>);
