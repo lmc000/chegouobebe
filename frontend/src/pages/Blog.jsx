@@ -22,6 +22,10 @@ export default function Blog() {
     const [searchParams, setSearchParams] = useSearchParams();
     const catParam = searchParams.get("categoria") || "todas";
     const [categoria, setCategoria] = useState(catParam);
+
+    useEffect(() => {
+        setCategoria(catParam);
+    }, [catParam]);
     const [busca, setBusca] = useState("");
 
     // Sincroniza quando a URL muda (ex: clique nas categorias da homepage)
