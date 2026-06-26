@@ -1,8 +1,8 @@
 # ChegouOBebe.com.br
-> Guia independente de produtos para bebés e grávidas no Brasil. Preços em reais, links Amazon.com.br.
+> Guia independente de produtos para bebês e grávidas no Brasil. Preços em reais, links Amazon.com.br.
 
 ## Sobre
-ChegouOBebe.com.br é um site brasileiro de revisão de produtos para bebés, recém-nascidos e grávidas.
+ChegouOBebe.com.br é um site brasileiro de revisão de produtos para bebês, recém-nascidos e grávidas.
 
 ## Artigos
 
@@ -26,3 +26,13 @@ ChegouOBebe.com.br é um site brasileiro de revisão de produtos para bebés, re
 - [Bugaboo Fox 5 vs Joolz Day+ — Qual o Melhor Carrinho Premium no Brasil em 2026?](https://www.chegouobebe.com.br/blog/bugaboo-fox-5-vs-joolz-day-plus)
 - [Curso de Babá — Tudo o que Você Precisa Saber para Cuidar de Bebês com Segurança](https://www.chegouobebe.com.br/blog/curso-baba-babysitter-guia-completo)
 - [Curso de Berçarista — Como Trabalhar em Berçários e Creches com Profissionalismo](https://www.chegouobebe.com.br/blog/curso-bercario-bercaristaguia)
+- [Melhor Porta-Bebê Ergonômico no Brasil (2026) — Ergobaby, Bebê Due e mais](https://www.chegouobebe.com.br/blog/melhor-porta-bebe-ergonomico-brasil)
+- [Melhores Fraldas para Bebê no Brasil (2026) — Descartáveis e de Pano](https://www.chegouobebe.com.br/blog/fraldas-bebe-melhores-brasil)
+- [Bebê com Febre — O Que Fazer e Quando é Urgência (Guia 2026)](https://www.chegouobebe.com.br/blog/bebe-com-febre-o-que-fazer-brasil)
+- [Como Criar uma Rotina de Sono para Bebê — Guia Completo (2026)](https://www.chegouobebe.com.br/blog/rotina-sono-bebe-brasil)
+- [Amamentação — Problemas Mais Comuns e Como Resolver (Guia 2026)](https://www.chegouobebe.com.br/blog/amamentacao-problemas-solucoes-brasil)
+- [Melhor Esterilizador de Mamadeiras no Brasil (2026) — Elétrico, Microondas e UV](https://www.chegouobebe.com.br/blog/melhor-esterilizador-mamadeiras-brasil)
+- [Segurança do Bebê em Casa — Guia Completo por Divisão (2026)](https://www.chegouobebe.com.br/blog/seguranca-bebe-em-casa-brasil)
+- [Melhor Aspirador Nasal para Bebê no Brasil (2026) — Manual, Elétrico e Nasal](https://www.chegouobebe.com.br/blog/melhor-aspirador-nasal-bebe-brasil)
+- [Primeiras Papas do Bebê — Guia de Diversificação Alimentar no Brasil (2026)](https://www.chegouobebe.com.br/blog/introducao-papas-bebe-brasil)
+- [Melhor Umidificador para Quarto de Bebê no Brasil (2026)](https://www.chegouobebe.com.br/blog/melhor-humidificador-quarto-bebe-brasil)
