@@ -5,6 +5,7 @@ import Landing from "./pages/Landing";
 import Blog from "./pages/Blog";
 import Artigo from "./pages/Artigo";
 import Sobre from "@/pages/Sobre";
+import Contacto from "./pages/Contacto";
 import Privacidade from "./pages/Privacidade";
 import NotFound from "./pages/NotFound";
 
@@ -18,6 +19,7 @@ export default function App() {
                 <Route path="/blog" element={<Blog />} />
                 <Route path="/blog/:slug" element={<Artigo />} />
                 <Route path="/sobre" element={<Sobre />} />
+              <Route path="/contacto" element={<Contacto />} />
                 <Route path="/privacidade" element={<Privacidade />} />
                 <Route path="*" element={<NotFound />} />
             </Routes>

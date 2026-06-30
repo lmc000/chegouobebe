@@ -53,6 +53,7 @@ export const FooterSection = () => {
                         <h4 className="font-bold text-sm mb-5 text-white uppercase tracking-wider">Legal</h4>
                         <ul className="space-y-3 text-sm text-white/50">
                             <li><Link to="/privacidade" className="hover:text-white transition-colors">Política de Privacidade</Link></li>
+                            <li><Link to="/contacto" className="hover:text-white transition-colors">Contacto</Link></li>
                         </ul>
                     </div>
                 </div>
