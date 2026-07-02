@@ -89,7 +89,7 @@ function renderContent(text) {
 
 function parseLine(text) {
     const parts = [];
-    const regex = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|\*([^*]+)\*/g;
+    const regex = /\*\*\[([^\]]+)\]\(([^)]+)\)\*\*|\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|\*([^*]+)\*/g;
     let lastIndex = 0;
     let match;
     let key = 0;
@@ -99,10 +99,14 @@ function parseLine(text) {
             parts.push(<a key={key++} href={match[2]} target="_blank" rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#2A9D8F] text-white font-bold px-5 py-2.5 rounded-xl hover:opacity-90 transition-opacity my-2 shadow-sm">
                 {match[1]} <ExternalLink className="w-3 h-3 inline" /></a>);
-        } else if (match[3]) {
-            parts.push(<strong key={key++} className="text-[#1A3C38] font-bold">{match[3]}</strong>);
-        } else if (match[4]) {
-            parts.push(<em key={key++} className="italic">{match[4]}</em>);
+        } else if (match[3] && match[4]) {
+            parts.push(<a key={key++} href={match[4]} target="_blank" rel="sponsored noopener noreferrer"
+                className="inline-flex items-center gap-2 bg-[#2A9D8F] text-white font-bold px-5 py-2.5 rounded-xl hover:opacity-90 transition-opacity my-2 shadow-sm">
+                {match[3]} <ExternalLink className="w-3 h-3 inline" /></a>);
+        } else if (match[5]) {
+            parts.push(<strong key={key++} className="text-[#1A3C38] font-bold">{match[5]}</strong>);
+        } else if (match[6]) {
+            parts.push(<em key={key++} className="italic">{match[6]}</em>);
         }
         lastIndex = regex.lastIndex;
     }
