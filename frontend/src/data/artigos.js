@@ -3600,7 +3600,7 @@ Se o bebê está com nariz muito congestionado, o umidificador ajuda mas não su
 *Este artigo contém links de afiliado Amazon. Se comprar através dos nossos links, recebemos uma comissão sem custo adicional para você.*
     `
   },
-,
+
   {
   slug: "chupeta-quando-dar-quando-tirar-brasil",
   titulo: "Chupeta — Quando Dar, Quando Tirar e Como Fazer a Transição (2026)",
