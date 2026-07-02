@@ -1,4 +1,4 @@
-export const artigos = [
+export default [
   {
     slug: "gestacao-paternidade-responsavel-guia-completo",
     titulo: "Gestação e Paternidade Responsável — Guia Completo para Futuros Pais (2026)",
