@@ -3699,4 +3699,147 @@ Corta ligeiramente a ponta da chupeta a cada 2-3 dias. A sucção torna-se menos
 *Este artigo contém links de afiliado Amazon. Se comprar através dos nossos links, recebemos uma comissão sem custo adicional para você.*
   `
   },
+  {
+    slug: "melhor-mochila-maternidade-brasil",
+    titulo: "Melhor Mochila Maternidade — As 5 Melhores do Brasil em 2026",
+    descricao: "A bolsa maternidade é uma das compras mais importantes antes do parto. Veja as 5 melhores mochilas de maternidade do Brasil, o que levar e como organizar.",
+    categoria: "produtos",
+    tags: ["mochila maternidade", "bolsa maternidade", "enxoval bebe", "pre-parto"],
+    autor: "Equipa ChegouOBebê",
+    data: "2026-07-04",
+    imagem: "/images/melhor-mochila-maternidade-brasil.jpg",
+    conteudo: `
+A bolsa de maternidade é o item que acompanha toda a família durante um dos momentos mais importantes da vida — e que frequentemente é montada às pressas na última hora. Organizar com antecedência (a partir da semana 36) poupa muito stress no momento do trabalho de parto.
+
+---
+
+## Mochila vs. bolsa — qual escolher?
+
+**Mochila:** distribuição de peso no dorso, liberta as mãos, mais confortável para percursos longos nos corredores do hospital. Ideal se o parceiro/a ficará encarregado/a de carregar.
+
+**Bolsa tote/trolley:** mais fácil de aceder rapidamente, abre completamente ao deitá-la. Mais prática à beira da cama no hospital.
+
+**Dica:** muitas famílias optam por duas bolsas — uma mochila grande para os pertences da mãe e bebé, e uma bolsa menor de acesso rápido para os itens essenciais durante o trabalho de parto.
+
+---
+
+## As 5 melhores mochilas de maternidade do Brasil em 2026
+
+### 1. JJ Cole — Melhor no geral
+
+**⭐ 4.8/5 | Preço: ~R$350**
+
+A referência americana que chegou ao Brasil. Design discreto (não parece bolsa de bebé), múltiplos compartimentos organizados, trocador impermeável incluído, suportes para mamadeira isolados, alça de carrinho incluída. Material resistente e fácil de limpar.
+
+[Ver na Amazon Brasil →](https://www.amazon.com.br/s?k=JJ+Cole+mochila+maternidade&tag=chegouobebe-20)
+
+---
+
+### 2. Skip Hop Forma — Melhor organização
+
+**⭐ 4.7/5 | Preço: ~R$420**
+
+15 compartimentos organizados com lógica — cada item tem o seu lugar. Trocador impermeável, porta-mamadeiras isolados, compartimento para laptop (útil durante internação). Design elegante que não envergonha o pai de usar.
+
+[Ver na Amazon Brasil →](https://www.amazon.com.br/s?k=skip+hop+forma+mochila+maternidade&tag=chegouobebe-20)
+
+---
+
+### 3. Masterbag — Melhor custo-benefício brasileiro
+
+**⭐ 4.6/5 | Preço: ~R$180**
+
+Marca nacional com excelente qualidade a preço acessível. Grande capacidade (30L), impermeável, trocador incluído, tecido resistente. Amplamente disponível no Brasil e com bom serviço pós-venda.
+
+[Ver na Amazon Brasil →](https://www.amazon.com.br/s?k=masterbag+mochila+maternidade&tag=chegouobebe-20)
+
+---
+
+### 4. Bebê Due Tutti — Melhor para viagens
+
+**⭐ 4.5/5 | Preço: ~R$250**
+
+Estrutura semi-rígida que protege os conteúdos, alça de trolley para encaixar no carrinho, compartimento isolado grande para marmitas e mamadeiras. Boa opção para famílias que viajam frequentemente.
+
+[Ver na Amazon Brasil →](https://www.amazon.com.br/s?k=bebe+due+tutti+mochila+maternidade&tag=chegouobebe-20)
+
+---
+
+### 5. Fisher-Price Deluxe — Melhor para iniciantes
+
+**⭐ 4.4/5 | Preço: ~R$150**
+
+Marca de confiança com design simples e funcional. Boa opção para quem está a montar o enxoval com orçamento mais limitado. Trocador incluído, materiais fáceis de limpar.
+
+[Ver na Amazon Brasil →](https://www.amazon.com.br/s?k=fisher+price+mochila+maternidade&tag=chegouobebe-20)
+
+---
+
+## O que colocar na mochila de maternidade
+
+### Para a mãe
+
+- Documentos: cartão do pré-natal, RG, cartão do plano de saúde, exames recentes
+- Roupas: 2-3 camisolas de amamentar de abertura frontal, 2-3 calcinha pós-parto, sutiã de amamentação
+- Higiene pessoal: escova de dentes, champô, sabão, toalha, absorventes pós-parto
+- Itens de conforto: almofada favorita, fone de ouvido, carregador de telemóvel
+- Lanche: fruta seca, biscoito — o trabalho de parto pode ser longo
+- Plano de parto (se tiver preparado um)
+
+### Para o bebé
+
+- 3-4 bodies de manga curta e comprida (tamanho RN e P — nunca se sabe o tamanho real)
+- 2-3 macacões ou pijamas
+- 2 toalhas de banho com capuz
+- Pacote de fraldas RN (30-40 fraldas para 2-3 dias)
+- Lenços umedecidos sem perfume
+- Manta de algodão (para embrulhar e como cobertor)
+- Chupeta (se planear usar)
+- Roupinha para a saída do hospital — algo especial mas prático
+
+### Para o acompanhante
+
+- Documentos pessoais (CPF, RG)
+- Carregadores e power bank
+- Almofada (as cadeiras dos hospitais são duras)
+- Roupas para 2-3 dias
+- Lanche e dinheiro em espécie (nem todos os hospitais têm MB)
+
+---
+
+## Quando preparar a bolsa?
+
+**Semana 36-37** — a maioria dos médicos recomenda ter a bolsa pronta a partir desta semana. Partos prematuros são mais comuns do que o esperado e a última coisa que quer é montar a bolsa com contrações.
+
+Deixe a bolsa num local de fácil acesso e certifique-se de que o/a acompanhante sabe onde está.
+
+---
+
+## Perguntas frequentes
+
+**Quantas bolsas levar para o hospital?**
+Duas é o ideal — uma grande com tudo, e uma pequena de mão com o essencial para o trabalho de parto (documentos, telemóvel, snacks, chapstick).
+
+**Preciso de levar lençóis?**
+Depende do hospital — alguns fornecem, outros não. Confirme antecipadamente. Se for hospital SUS, normalmente precisa de levar.
+
+**E se o bebé nascer antes de preparar a bolsa?**
+Liste os itens essenciais agora e guarde-os num mesmo sítio. O/a acompanhante pode montar a bolsa rapidamente com essa lista.
+
+**Quanto tempo fico no hospital?**
+Parto normal sem complicações: 24-48h. Cesariana: 48-72h. Prepare roupa para pelo menos 3 dias.
+
+---
+
+## Conclusão
+
+Para a maioria das famílias brasileiras, a **Masterbag (~R$180)** oferece o melhor equilíbrio entre qualidade, capacidade e preço. Para quem quer investir mais numa peça que vai usar durante anos após o hospital, a **JJ Cole (~R$350)** ou **Skip Hop Forma (~R$420)** são investimentos que valem.
+
+[Ver mochilas de maternidade na Amazon Brasil →](https://www.amazon.com.br/s?k=mochila+maternidade+hospital&tag=chegouobebe-20)
+
+---
+
+*Este artigo contém links de afiliado Amazon. Se comprar através destes links, recebemos uma pequena comissão sem custo adicional.*
+`
+  }
 ];
