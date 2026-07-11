@@ -3977,5 +3977,184 @@ A chupeta não é vilã nem heroína. Usada com bom senso — introduzida após 
 
 A decisão final é sempre sua, idealmente feita em conversa com o pediatra que conhece o seu bebê. O mais importante é não se deixar levar por pressões externas — seja da família que insiste em dar, seja de grupos que tratam qualquer uso de chupeta como negligência.
 `
+  },
+  {
+    slug: "desenvolvimento-bebe-mes-a-mes-0-12-meses-brasil-2026",
+    titulo: "Desenvolvimento do Bebê mês a mês — 0 a 12 Meses (Guia Completo 2026)",
+    descricao: "Guia completo do desenvolvimento do bebê mês a mês: marcos cognitivos, motores, de linguagem e sociais dos 0 aos 12 meses. O que é normal e quando consultar o pediatra.",
+    categoria: "desenvolvimento",
+    tags: ["desenvolvimento bebê", "marcos desenvolvimento", "primeiro ano", "pediatria", "estimulação"],
+    autor: "Equipa ChegouOBebê",
+    data: "2026-07-11",
+    imagem: "/images/desenvolvimento-bebe-mes-a-mes-0-12-meses-brasil-2026.jpg",
+    conteudo: `
+O primeiro ano de vida é o período de desenvolvimento mais intenso de toda a vida humana. Em 12 meses, um ser humano passa de completamente dependente para capaz de andar, comunicar e interagir com o mundo. Acompanhar cada etapa é uma das experiências mais extraordinárias da parentalidade — e também uma fonte de muitas dúvidas e ansiedades.
+
+Este guia descreve os marcos de desenvolvimento mês a mês, baseado nas recomendações da Sociedade Brasileira de Pediatria (SBP) e da Academia Americana de Pediatria (AAP).
+
+**Nota importante**: os marcos são médias. Cada bebê tem o seu ritmo próprio. Pequenas variações são normais — o que importa é a tendência geral de progresso.
+
+---
+
+## Mês 1 — O mundo sensorial
+
+**Motor**: reflexos primários dominam — sucção, preensão, Moro (susto), tônico cervical. Levanta brevemente a cabeça quando de bruços.
+
+**Sensorial**: foca objetos a 20-30cm (distância do rosto da mãe durante a amamentação). Prefere faces humanas e contrastes alto.
+
+**Social**: responde a sons. Acalma com voz dos pais. Primeiros sorrisos reflexos (não sociais ainda).
+
+**Estimulação**: pele-a-pele, voz calma e melodiosa, rostos próximos, música suave.
+
+---
+
+## Mês 2 — O primeiro sorriso social
+
+**Motor**: maior controlo da cabeça. Segue objetos com os olhos horizontalmente.
+
+**Social**: **sorriso social** — o grande marco do 2º mês. O bebê sorri em resposta ao rosto e voz dos pais. É uma das experiências mais emocionantes da parentalidade.
+
+**Linguagem**: sons guturais, "ahhh", "ohhh". Responde a vozes com vocalização.
+
+**Estimulação**: fale muito com o bebê, imite os sons que ele faz, objetos coloridos a 30-40cm.
+
+---
+
+## Mês 3 — Descobrindo as mãos
+
+**Motor**: sustenta a cabeça com mais firmeza. Descobre as próprias mãos — fica a olhar para elas fascinado. Abre e fecha as mãos intencionalmente.
+
+**Social**: gargalhadas e sorrisos mais frequentes. Reconhece rostos familiares e preferência clara pelos pais.
+
+**Linguagem**: vocaliza mais ativamente. "Conversas" primitivas — espera resposta após vocalizar.
+
+**Estimulação**: móbiles coloridos, espelhos inquebrável, brincadeiras de "esconde-esconde" simples com o rosto.
+
+---
+
+## Mês 4 — Rindo à gargalhada
+
+**Motor**: sustenta bem a cabeça. Rola do lado para a barriga (alguns bebês). Agarra objetos voluntariamente.
+
+**Social**: **gargalhadas** espontâneas — sons de prazer, interação mais rica. Distingue estranhos dos familiares.
+
+**Sensorial**: segue objetos 180°. Olha na direção de sons.
+
+**Estimulação**: brinquedos com sons suaves, brincadeiras físicas gentis (cavalinho, cócegas), canções animadas.
+
+---
+
+## Mês 5 — O mundo na boca
+
+**Motor**: rola nos dois sentidos (frente-costas e costas-frente). Senta com apoio. Transfere objetos de mão a mão.
+
+**Oral**: tudo vai à boca — fase de exploração oral. Salivação aumentada (não significa dentição necessariamente).
+
+**Social**: imita expressões faciais. Protesto quando o brinquedo é retirado.
+
+**Estimulação**: mordedores variados (texturas diferentes), brinquedos que fazem som ao apertar, espelho.
+
+---
+
+## Mês 6 — Sentado com apoio e primeiras papas
+
+**Motor**: senta com apoio mínimo. Transfere objetos entre mãos com destreza. Apoio nos pés quando segurado de pé.
+
+**Marco nutricional**: introdução alimentar complementar recomendada a partir dos 6 meses (manter aleitamento). [Ver guia de introdução alimentar →](/blog/introducao-alimentar-bebe)
+
+**Linguagem**: balbucios com consoantes: "ba", "ma", "da". Responde ao próprio nome.
+
+**Social**: ansiedade com estranhos começa a desenvolver-se.
+
+**Estimulação**: cubos de encaixe, brinquedos de texturas variadas, espelhos, músicas com ritmo.
+
+---
+
+## Mês 7 — Engatinhando e explorando
+
+**Motor**: senta sem apoio (ou quase). Primeiros movimentos de engatinhar — alguns bebês arrastam-se, outros engatinham, alguns pulam directamente para ficar de pé. Todas as progressões são normais.
+
+**Linguagem**: balbucios mais complexos — "mamama", "papapa", "bababa". Ainda sem significado específico.
+
+**Social**: chora quando o cuidador principal sai — ansiedade de separação normal e saudável.
+
+**Estimulação**: brinquedos de empurrar/puxar, túneis de gatinhar, jogos de esconde-esconde com objetos.
+
+---
+
+## Mês 8-9 — Pinça fina e permanência do objeto
+
+**Motor**: engatinha com confiança. Puxa-se para ficar de pé. **Pinça fina** — pega objetos pequenos com polegar e indicador.
+
+**Cognitivo**: **permanência do objeto** — entende que objetos existem mesmo quando não os vê. Base do jogo de esconde-esconde.
+
+**Linguagem**: "mama" e "papa" com significado começam a emergir.
+
+**Social**: imita gestos — bate palmas, acena, aponta.
+
+**Estimulação**: jogos de esconde-esconde (peek-a-boo), caixas com objetos para tirar, brinquedos de encaixe.
+
+---
+
+## Mês 10-11 — Os primeiros passos
+
+**Motor**: anda com apoio lateral (cruzeiro). Alguns bebês dão os primeiros passos independentes — mas a maioria anda entre os 12-15 meses. Sobe e desce degraus engatinhando.
+
+**Linguagem**: 1-3 palavras com significado consistente. Entende comandos simples ("não", "vem", "abre a boca").
+
+**Social**: mostra objetos para os pais para partilhar atenção — proto-declarativo (comunicação social intencional).
+
+**Estimulação**: andadores de empurrar (não usar andadores com rodas — perigosos e atrasam a marcha), livros de cartão com imagens simples.
+
+---
+
+## Mês 12 — Primeiro aniversário!
+
+**Motor**: muitos bebês já andam independentemente ou estão prestes a andar. Sobe escadas engatinhando, vira páginas de livros.
+
+**Linguagem**: vocabulário de 1-10 palavras (grande variação normal). Entende muito mais do que fala.
+
+**Cognitivo**: brincadeira simbólica primitiva (finge beber de copo vazio).
+
+**Social**: aponta para pedir e para mostrar. Colabora em brincadeiras simples.
+
+---
+
+## Quando consultar o pediatra: sinais de alerta
+
+Converse com o pediatra se o bebê:
+
+**Aos 2 meses**: não sorri socialmente, não faz contacto visual, não reage a sons altos.
+
+**Aos 4 meses**: não sustenta a cabeça, não segue objetos com os olhos.
+
+**Aos 6 meses**: não vocaliza, não ri, não mostra interesse por pessoas.
+
+**Aos 9 meses**: não senta com apoio, não transfere objetos, não balbucía.
+
+**Aos 12 meses**: não aponta, não diz nenhuma palavra com significado, não procura objetos escondidos, não imita gestos.
+
+Estes sinais não significam necessariamente problema grave — mas devem ser avaliados por um profissional.
+
+---
+
+## Produtos essenciais para estimulação no primeiro ano
+
+**0-3 meses**: móbile em preto e branco (alto contraste), espelho inquebrável, boneco de pano suave. [Ver na Amazon →](https://www.amazon.com.br/s?k=movel+bebe+contraste&tag=chegouobebe-20)
+
+**3-6 meses**: mordedores de diferentes texturas, chocalhos leves, tapete de atividades. [Ver na Amazon →](https://www.amazon.com.br/s?k=tapete+atividades+bebe&tag=chegouobebe-20)
+
+**6-9 meses**: brinquedos de encaixe simples, cubos de tecido, livros de banho. [Ver na Amazon →](https://www.amazon.com.br/s?k=brinquedos+bebe+6+meses&tag=chegouobebe-20)
+
+**9-12 meses**: andadores de empurrar (de madeira), livros de cartão, brinquedos de causa e efeito. [Ver na Amazon →](https://www.amazon.com.br/s?k=andador+de+empurrar+bebe+madeira&tag=chegouobebe-20)
+
+---
+
+## Conclusão
+
+O primeiro ano é uma maratona de descobertas — para o bebê e para os pais. Cada mês traz novidades que parecem milagres: o primeiro sorriso, a primeira gargalhada, o primeiro passo. Aproveite cada momento sem a pressão de comparações com outros bebês.
+
+O pediatra é o melhor guia personalizado para o desenvolvimento do seu filho. As consultas de puericultura nos primeiros 12 meses existem exactamente para monitorizar estes marcos e tranquilizar (ou actuar) quando necessário.
+`
   }
 ];
